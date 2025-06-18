@@ -1,205 +1,181 @@
-// Using Leaflet for creating the map and adding controls for interacting with the map
+// Initialize the map and set the view to a default location
+const map = L.map("map", { center: [47.8, 13.04], zoom: 12 });
 
-//
-//--- Part 1: adding base maps ---
-//
-
-//creating the map; defining the location in the center of the map (geographic coords) and the zoom level. These are properties of the leaflet map object
-//the map window has been given the id 'map' in the .html file
-var map = L.map("map", {
-  center: [47.5, 13.05],
-  zoom: 8,
-});
-
-//adding base map/s
-
-// add open street map as base layer
-var osmap = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+// Add OpenStreetMap tile layer
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   maxZoom: 19,
 }).addTo(map);
 
-// for using the two base maps in the layer control, I defined a baseMaps variable
-var baseMaps = {
-  "Open Street Map": osmap,
-};
-
-//
-//---- Part 2: Adding a scale bar
-//
+// Add scale control to the map
 L.control.scale({ position: "bottomright", imperial: false }).addTo(map);
 
-//
-//---- Part 3: adding GeoJSON line features
-//
-
-//Task: please add here the GEOJSON line features contained in the mwalk file
-
-//
-//---- Part 4: adding an event to the map
-
-//when you click in the map, an alert with the latitude and longitude coordinates of the click location is shown
-// e is the event object that is created on mouse click
-
-//Task: change the event type from click to doubleclick
-
-map.addEventListener("click", function (e) {
-  alert(e.latlng);
-});
-
-//the same functionality can be realized with reference to the function onClick
-
-/*
-//definition of the function onClick
-function onClick(evt){
-	alert(evt.latlng);
-}
-*/
-//map.addEventListener('click', onClick);
-
-//short version (on is an alias for addEventListener):
-//map.on('click', onClick);
-
-//
-//---- Part 5: Adding GeoJSON features and interactivity
-//
-
-var parks;
-
-function zoomToFeature(e) {
-  map.fitBounds(e.target.getBounds());
-}
-
-parks = L.geoJson(npark, {
-  style: {
-    color: "yellow",
-    weight: 5,
+// Add GeoJSON layer for memorials with custom styles and popups
+const memorialLayer = L.geoJSON(memorials, {
+  style: (f) =>
+    ["Polygon", "MultiPolygon"].includes(f.geometry.type)
+      ? {
+          color: getColor(f.properties.memorial),
+          weight: 2,
+          fillOpacity: 0.5,
+        }
+      : undefined,
+  pointToLayer: (f, latlng) =>
+    L.circleMarker(latlng, getMarkerOptions(f.properties.memorial)),
+  onEachFeature: (f, layer) => {
+    const p = f.properties;
+    // Bind popup with memorial details
+    layer.bindPopup(
+      `<b>${p.name || "Unbenanntes Denkmal"}</b>
+      <br>Typ: ${getMemorialTypeName(p.memorial || "Unbekannt") || ""}
+      ${p.start_date ? `<br>Jahr: ${p.start_date}` : ""}
+      ${p["addr:full"] ? `<br>Adresse: ${p["addr:full"]}` : ""}
+      ${p.description ? `<br>${p.description}` : ""}
+      ${
+        p.website
+          ? `<br><a href="${p.website}" target="_blank">Mehr Info</a>`
+          : ""
+      }`
+    );
   },
-  onEachFeature: function (feature, layer) {
-    layer.on("click", zoomToFeature);
-  },
-  //you can also write:
-  //layer.on({click: zoomToFeature}); }
-});
-
-parks.addTo(map);
-
-//
-//---- Part 6: Adding GeoJSON features and several forms of interactivity
-//comment out part 5 before testing part 6
-
-function highlightFeature(e) {
-  var activefeature = e.target; //access to activefeature that was hovered over through e.target
-
-  activefeature.setStyle({
-    weight: 5,
-    color: "#666",
-    dashArray: "",
-    fillOpacity: 0.7,
-  });
-
-  if (!L.Browser.ie && !L.Browser.opera) {
-    activefeature.bringToFront();
-  }
-}
-
-//function for resetting the highlight
-function resetHighlight(e) {
-  parks.resetStyle(e.target);
-}
-
-function zoomToFeature(e) {
-  map.fitBounds(e.target.getBounds());
-}
-
-//to call these methods we need to add listeners to our features
-
-function interactiveFunction(feature, layer) {
-  layer.on({
-    mouseover: highlightFeature,
-    mouseout: resetHighlight,
-    click: zoomToFeature,
-  });
-}
-
-var myParkStyle = {
-  color: "#D34137",
-  weight: 5,
-  opacity: 0.65,
-};
-
-parks = L.geoJson(npark, {
-  style: myParkStyle,
-  onEachFeature: interactiveFunction,
 }).addTo(map);
 
-//
-//---- Part 7: adding GeoJSON point features to marker object
-//
-
-//Task: extend the content of the Popup with the height information and the latlng coordinates of the summits
-
-var summitsJson = {
-  type: "FeatureCollection",
-  features: [
-    {
-      type: "Feature",
-      properties: { NAME: "Kreuzkogel", HEIGHT: 2027 },
-      geometry: {
-        type: "Point",
-        coordinates: [13.153268433907614, 47.22421002245328],
-      },
-    },
-    {
-      type: "Feature",
-      properties: { NAME: "Fulseck", HEIGHT: 2034 },
-      geometry: {
-        type: "Point",
-        coordinates: [13.147417093794559, 47.23423788545316],
-      },
-    },
-    {
-      type: "Feature",
-      properties: { NAME: "Kieserl", HEIGHT: 1953 },
-      geometry: {
-        type: "Point",
-        coordinates: [13.152967420479607, 47.24300413792524],
-      },
-    },
-  ],
+// Add a legend to the map
+const legendControl = L.control({ position: "bottomleft" });
+legendControl.onAdd = () => {
+  const div = L.DomUtil.create("div", "info legend");
+  div.style =
+    "background:rgba(255,255,255,0.6);padding:8px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,0.2)";
+  div.innerHTML =
+    "<b>Legende</b><br>" +
+    memorialTypes
+      .map(
+        (type) =>
+          `<i style="background:${getColor(
+            type
+          )};width:18px;height:18px;display:inline-block;margin-right:6px;border-radius:3px;"></i>${getMemorialTypeName(
+            type
+          )}<br>`
+      )
+      .join("");
+  return div;
 };
+legendControl.addTo(map);
 
-var myIconsummit = L.icon({
-  iconUrl: "css/images/Summit.png",
-  iconSize: [18, 18],
+// Highlight features on mouseover
+function highlightFeature(e) {
+  e.target.setStyle?.({ weight: 4, color: "#FFD700", fillOpacity: 0.7 });
+  e.target.bringToFront?.();
+}
+function resetHighlight(e) {
+  memorialLayer.resetStyle(e.target);
+}
+memorialLayer.eachLayer((layer) =>
+  layer.on({ mouseover: highlightFeature, mouseout: resetHighlight })
+);
+
+// Highlight sidebar entry when hovering a map feature
+function highlightSidebar(idx) {
+  document.querySelectorAll(".memorial-sidebar li").forEach((el, i) => {
+    el.style.fontWeight = i === idx ? "bold" : "normal";
+    el.style.background = i === idx ? "rgba(255,215,0,0.2)" : "transparent";
+  });
+}
+memorialLayer.eachLayer((layer, idx) => {
+  layer.on("mouseover", () => highlightSidebar(idx));
+  layer.on("mouseout", () => highlightSidebar(-1));
 });
 
-var summits = L.geoJson(summitsJson, {
-  pointToLayer: function (feature, latlng) {
-    return L.marker(latlng, {
-      icon: myIconsummit,
-      title: "Summits in Salzburg",
+// Add a button to reset the map view
+const resetControl = L.control({ position: "topleft" });
+resetControl.onAdd = () => {
+  const div = L.DomUtil.create("div", "reset-view");
+  div.innerHTML = `<button style="padding:4px 10px;border-radius:4px;border:1px solid #ccc;background:#fff;cursor:pointer;">Karte zurücksetzen</button>`;
+  div.onclick = () => map.setView([47.8, 13.04], 12);
+  return div;
+};
+resetControl.addTo(map);
+
+// Add a sidebar with a searchable list of memorials
+const sidebarControl = L.control({ position: "topright" });
+sidebarControl.onAdd = () => {
+  const div = L.DomUtil.create("div", "memorial-sidebar");
+  div.style = "background:white;padding:8px;width:260px;box-sizing:border-box";
+  div.innerHTML = `
+    <input id="memorialSearch" type="text" placeholder="Suche Denkmal..." style="padding:4px;width:96%;border-radius:4px;border:1px solid #ccc;margin-bottom:8px;">
+    <b>Denkmal-Liste</b>
+    <ul id="memorialList" style="padding-left:16px; max-height:320px; overflow-y:auto; margin:0;">
+      ${memorials.features
+        .map(
+          (f, i) =>
+            `<li data-idx="${i}" style="cursor:pointer;color:${getColor(
+              f.properties.memorial
+            )};padding:2px 0;">${
+              f.properties.name || "Unbenanntes Denkmal"
+            }</li>`
+        )
+        .join("")}
+    </ul>`;
+  setTimeout(() => {
+    const list = div.querySelector("#memorialList");
+    if (list) L.DomEvent.disableScrollPropagation(list);
+  }, 0);
+  L.DomEvent.disableClickPropagation(div);
+  return div;
+};
+sidebarControl.addTo(map);
+
+// Enable search and click events for the sidebar list
+setTimeout(() => {
+  const searchInput = document.getElementById("memorialSearch");
+  const list = document.getElementById("memorialList");
+  if (searchInput && list) {
+    // Filter list items based on search input
+    searchInput.addEventListener("input", function () {
+      const val = this.value.toLowerCase();
+      Array.from(list.children).forEach((li) => {
+        li.style.display = li.textContent.toLowerCase().includes(val)
+          ? ""
+          : "none";
+      });
     });
-  },
-  onEachFeature: function (feature, marker) {
-    marker.bindPopup("Summit: " + "<br>" + "<b>" + feature.properties.NAME);
-  },
-});
+    // If only one result, select it on Enter
+    searchInput.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        const visibleLis = Array.from(list.children).filter(
+          (li) => li.style.display !== "none"
+        );
+        if (visibleLis.length === 1) visibleLis[0].click();
+      }
+    });
+    // Click on a list item zooms to the memorial
+    Array.from(list.children).forEach((li) => {
+      li.onclick = function () {
+        window._zoomToMemorial(parseInt(this.getAttribute("data-idx")));
+      };
+    });
+  }
+}, 500);
 
-summits.addTo(map);
-
-//
-//---- Part 8: Adding a layer control for base maps and feature layers
-//
-
-//the variable features lists layers that I want to control with the layer control
-var features = {
-  Summits: summits,
-  "National parks": parks,
+// Zoom to a memorial and open its popup
+window._zoomToMemorial = function (idx) {
+  const f = memorials.features[idx];
+  let bounds;
+  if (f.geometry.type === "Point") {
+    const latlng = [f.geometry.coordinates[1], f.geometry.coordinates[0]];
+    bounds = L.latLngBounds([latlng, latlng]);
+  } else if (["Polygon", "MultiPolygon"].includes(f.geometry.type)) {
+    let coords =
+      f.geometry.type === "Polygon"
+        ? f.geometry.coordinates[0].map((c) => [c[1], c[0]])
+        : f.geometry.coordinates.flat(2).reduce((arr, val, i, src) => {
+            if (i % 2 === 0) arr.push([src[i + 1], val]);
+            return arr;
+          }, []);
+    bounds = L.latLngBounds(coords);
+  }
+  if (bounds) map.fitBounds(bounds);
+  const layer = memorialLayer.getLayers()[idx];
+  if (layer) layer.openPopup();
 };
-
-//the legend uses the layer control with entries for the base maps and two of the layers we added
-//in case either base maps or features are not used in the layer control, the respective element in the properties is null
-
-L.control.layers(null, features, { position: "topleft" }).addTo(map);

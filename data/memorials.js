@@ -1,0 +1,14492 @@
+const memorials = {
+  type: "FeatureCollection",
+  generator: "overpass-turbo",
+  copyright:
+    "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  timestamp: "2025-06-18T08:55:44Z",
+  features: [
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/56080143",
+        building: "roof",
+        height: "3",
+        historic: "memorial",
+        layer: "1",
+        memorial: "sculpture",
+        min_height: "2.8",
+        name: "Mahnmal für die Opfer des Nationalsozialismus",
+        website:
+          "https://www.sn.at/wiki/Mahnmal_f%C3%BCr_die_Opfer_des_Nationalsozialismus",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0436506, 47.8134442],
+            [13.0437154, 47.8134248],
+            [13.0437553, 47.813485],
+            [13.0436906, 47.8135044],
+            [13.0436506, 47.8134442],
+          ],
+        ],
+      },
+      id: "way/56080143",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/130855352",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal Maxglan",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0154502, 47.8042258],
+            [13.0154199, 47.8042223],
+            [13.015399, 47.8042098],
+            [13.0154091, 47.8041669],
+            [13.015487, 47.804165],
+            [13.0155043, 47.8042078],
+            [13.0154845, 47.8042195],
+            [13.0154502, 47.8042258],
+          ],
+        ],
+      },
+      id: "way/130855352",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/131445814",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0473757, 47.7784844],
+            [13.0473441, 47.7784294],
+            [13.0474309, 47.7784069],
+            [13.0474625, 47.7784618],
+            [13.0473757, 47.7784844],
+          ],
+        ],
+      },
+      id: "way/131445814",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/154987271",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Pionierdenkmal",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0355423, 47.8145216],
+            [13.0355476, 47.8144804],
+            [13.0355978, 47.8144833],
+            [13.0355925, 47.8145245],
+            [13.0355423, 47.8145216],
+          ],
+        ],
+      },
+      id: "way/154987271",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/155811198",
+        historic: "memorial",
+        memorial: "sculpture",
+        name: "Denkmal Glasenbachklamm",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0877869, 47.770169],
+            [13.0877774, 47.7701858],
+            [13.0877591, 47.7701989],
+            [13.0877347, 47.7702063],
+            [13.087708, 47.7702068],
+            [13.087683, 47.7702005],
+            [13.0876635, 47.7701882],
+            [13.0876526, 47.7701718],
+            [13.0876517, 47.7701538],
+            [13.0876612, 47.770137],
+            [13.0876795, 47.770124],
+            [13.0877039, 47.7701166],
+            [13.0877306, 47.770116],
+            [13.0877556, 47.7701224],
+            [13.0877751, 47.7701347],
+            [13.087786, 47.770151],
+            [13.0877869, 47.770169],
+          ],
+        ],
+      },
+      id: "way/155811198",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/162896710",
+        barrier: "hedge",
+        historic: "memorial",
+        landuse: "cemetery",
+        name: "Soldatenfriedhof",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0446856, 47.786962],
+            [13.0447753, 47.7869931],
+            [13.0448418, 47.7870517],
+            [13.044861, 47.787099],
+            [13.044855, 47.7871572],
+            [13.0448217, 47.787207],
+            [13.0447598, 47.7872492],
+            [13.0446357, 47.7872778],
+            [13.0445166, 47.7872612],
+            [13.0444432, 47.7872231],
+            [13.044399, 47.7871734],
+            [13.0443844, 47.787107],
+            [13.0444203, 47.7870319],
+            [13.0444969, 47.7869806],
+            [13.0445879, 47.7869582],
+            [13.0446856, 47.786962],
+          ],
+        ],
+      },
+      id: "way/162896710",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/201896890",
+        historic: "memorial",
+        memorial: "war_memorial",
+        source: "survey",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.1222957, 47.8673078],
+            [13.1222951, 47.8672544],
+            [13.1223794, 47.867254],
+            [13.1223801, 47.8673073],
+            [13.1222957, 47.8673078],
+          ],
+        ],
+      },
+      id: "way/201896890",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/224983226",
+        building: "yes",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.1867559, 47.8988566],
+            [13.1868626, 47.8987742],
+            [13.1869505, 47.8988261],
+            [13.1868577, 47.8988905],
+            [13.1867559, 47.8988566],
+          ],
+        ],
+      },
+      id: "way/224983226",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/250804986",
+        amenity: "grave_yard",
+        historic: "memorial",
+        name: "Lagerfriedhof Grödig",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0514926, 47.7341271],
+            [13.0514949, 47.734296],
+            [13.0515432, 47.7343754],
+            [13.0517233, 47.7344894],
+            [13.0519463, 47.7345827],
+            [13.0518944, 47.7348237],
+            [13.0518032, 47.7348988],
+            [13.0508858, 47.7346314],
+            [13.0508886, 47.7345652],
+            [13.0510129, 47.7342257],
+            [13.0512133, 47.7342958],
+            [13.0513081, 47.7340899],
+            [13.0514926, 47.7341271],
+          ],
+        ],
+      },
+      id: "way/250804986",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/250804987",
+        amenity: "grave_yard",
+        historic: "memorial",
+        name: "Lagerfriedhof Grödig",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0508886, 47.7345652],
+            [13.0505159, 47.7344834],
+            [13.0506527, 47.7339063],
+            [13.0512886, 47.734027],
+            [13.0513081, 47.7340899],
+            [13.0512133, 47.7342958],
+            [13.0510129, 47.7342257],
+            [13.0508886, 47.7345652],
+          ],
+        ],
+      },
+      id: "way/250804987",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/254034674",
+        building: "yes",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Kreuzigungsgruppe",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [13.0907838, 47.6816064],
+            [13.0907308, 47.6815792],
+            [13.0907397, 47.6815153],
+            [13.0907965, 47.6814979],
+            [13.0907918, 47.6815383],
+            [13.0907838, 47.6816064],
+          ],
+        ],
+      },
+      id: "way/254034674",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/581717326",
+        historic: "memorial",
+        inscription: "Steinkreuz",
+        memorial: "stone",
+        natural: "grassland",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [12.9387288, 47.8850535],
+            [12.9387109, 47.8850339],
+            [12.9387532, 47.8850164],
+            [12.9387972, 47.8850295],
+            [12.9388037, 47.8850404],
+            [12.9387288, 47.8850535],
+          ],
+        ],
+      },
+      id: "way/581717326",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "way/1022334597",
+        historic: "memorial",
+        man_made: "airplane",
+        monument: "airplane",
+        name: "Draken",
+      },
+      geometry: {
+        type: "Polygon",
+        coordinates: [
+          [
+            [12.9840788, 47.7995504],
+            [12.984048, 47.7995162],
+            [12.9840381, 47.7995155],
+            [12.9840032, 47.7994813],
+            [12.9839603, 47.7994583],
+            [12.9839288, 47.7994545],
+            [12.9839836, 47.7994342],
+            [12.9839871, 47.7994156],
+            [12.9840059, 47.7994277],
+            [12.9840609, 47.7994142],
+            [12.9840475, 47.7994376],
+            [12.9840508, 47.7994714],
+            [12.9840644, 47.7995078],
+            [12.9840582, 47.7995137],
+            [12.9840788, 47.7995504],
+          ],
+        ],
+      },
+      id: "way/1022334597",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/265497766",
+        historic: "memorial",
+        inscription:
+          "Aus Anlass funfzugjaehrigen Gedaechtnissfeier der Wiedervereinig des Herzogthumes Salzburg...",
+        material: "bronze",
+        memorial: "plaque",
+        name: "Zur Dankebaren Erinnerung Kaiser Franz Josef I",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0411758, 47.8057459],
+      },
+      id: "node/265497766",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/278982788",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9077877, 47.8282218],
+      },
+      id: "node/278982788",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/318637849",
+        historic: "memorial",
+        name: "Gedenkstätte-Lagerfriedhof Grödig",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0517095, 47.7345268],
+      },
+      id: "node/318637849",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/336445053",
+        historic: "memorial",
+        material: "stone",
+        memorial: "stele",
+        name: "Moser Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2201489, 47.7298393],
+      },
+      id: "node/336445053",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/427739523",
+        historic: "memorial",
+        inscription:
+          "Geburtshaus des Physikers Christian Doppler\nEntdecker des nach ihm benanten Astrophysischen Prinzips\nGeb. 29. November 1803-Gest 17.März 1853\nZu seinem hundertsten Geburtsfeste\ndie Gesellschaft für Salzburger Landeskunde",
+        memorial: "plaque",
+        name: "Christian Doppler Geburtshaus",
+        "subject:wikidata": "Q84284",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Christian Doppler birthplace memorial plaque.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0432559, 47.8026143],
+      },
+      id: "node/427739523",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/457702316",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0355673, 47.7415402],
+      },
+      id: "node/457702316",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/475030637",
+        historic: "memorial",
+        material: "metal",
+        memorial: "sculpture",
+        name: "Gebirgsjäger",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0070258, 47.7196219],
+      },
+      id: "node/475030637",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/503846574",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0882307, 47.7866054],
+      },
+      id: "node/503846574",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/700060880",
+        artwork_type: "sculpture",
+        historic: "memorial",
+        memorial: "sculpture",
+        name: "Wackersdorfdenkmal",
+        "name:ru": "Против ядерной переработки",
+        source: "local_knowledge",
+        tourism: "artwork",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.048409, 47.7991296],
+      },
+      id: "node/700060880",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/708211032",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0478037, 47.7752896],
+      },
+      id: "node/708211032",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/748974847",
+        historic: "memorial",
+        note: "Für die Thalgauer Opfer des NS-Regimes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.255982, 47.8403921],
+      },
+      id: "node/748974847",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1082080338",
+        artwork_type: "statue",
+        description: "Built 1986 by Jakob Adlhart",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Salzträger",
+        source: "Exkursion",
+        tourism: "artwork",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0899109, 47.6840476],
+      },
+      id: "node/1082080338",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1099852780",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1037985, 47.6799884],
+      },
+      id: "node/1099852780",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1106757536",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal Morzg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0563778, 47.7706269],
+      },
+      id: "node/1106757536",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1306232331",
+        amenity: "fountain",
+        built: "1913",
+        historic: "memorial",
+        name: "Ignatia von Wrede 1837-1905",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.350556, 47.8559116],
+      },
+      id: "node/1306232331",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1327031303",
+        historic: "memorial",
+        name: "Bürgerlicher Bierbrauer Matthäus Landauer 1822",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3487221, 47.8572692],
+      },
+      id: "node/1327031303",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1445689339",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0473789, 47.7784519],
+      },
+      id: "node/1445689339",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1588181824",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.126407, 47.8940448],
+      },
+      id: "node/1588181824",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1602956084",
+        ele: "1457",
+        historic: "memorial",
+        inscription:
+          "Pro Humanitate;Freiwillige Rettungskolonne Salzburg Stadt 1980",
+        memorial: "plaque",
+        name: "Loibersbacher Höhe",
+        natural: "peak",
+        "summit:cross": "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2964206, 47.7402394],
+      },
+      id: "node/1602956084",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1607542832",
+        artwork_type: "monument",
+        historic: "memorial",
+        material: "stone",
+        memorial: "bust",
+        name: "Eduard Richter Denkmal",
+        "subject:wikidata": "Q88961",
+        "subject:wikipedia": "de:Eduard Richter",
+        tourism: "artwork",
+        wikimedia_commons:
+          "File:Eduard-Richter-Denkmal,-Richterhöhe,-Salzburg-(1907).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0401763, 47.7935715],
+      },
+      id: "node/1607542832",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1679662541",
+        historic: "memorial",
+        name: "Joseph von Eichendorff, 1788-1857",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9639733, 47.8502657],
+      },
+      id: "node/1679662541",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1734087926",
+        historic: "memorial",
+        inscription:
+          "Zur Erinnerung an das 80.Geburtstagsfest Sm. Majestät unseres allergnädigsten Kaisers Franz Josef I 1830-1910",
+        memorial: "stele",
+        name: "Franz Josef I",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0400471, 47.8385201],
+      },
+      id: "node/1734087926",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1734087938",
+        historic: "memorial",
+        memorial: "plaque",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0391185, 47.8386062],
+      },
+      id: "node/1734087938",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1916965294",
+        historic: "memorial",
+        name: "Grab für stillgeborene Kinder",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8910243, 47.733423],
+      },
+      id: "node/1916965294",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/1995868954",
+        artist_name: "Josef Anton Pfaffinger",
+        historic: "memorial",
+        material: "stone",
+        memorial: "statue",
+        name: "Heiliger Nepomuk Statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9337576, 47.94214],
+      },
+      id: "node/1995868954",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2113421556",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Karl Wurmb",
+        "subject:wikidata": "Q1733493",
+        "subject:wikipedia": "de:Karl Wurmb",
+        tourism: "artwork",
+        wikidata: "Q124344072",
+        wikimedia_commons: "Category:Statue of Karl Wurmb",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0407876, 47.8037319],
+      },
+      id: "node/2113421556",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2181569793",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Weltkriegs-Opfer",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0285165, 47.8121262],
+      },
+      id: "node/2181569793",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2188801453",
+        historic: "memorial",
+        memorial: "sculpture",
+        name: "Gedenkstätte des Eishalleneinsturz 2006",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8876517, 47.7347322],
+      },
+      id: "node/2188801453",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2269745978",
+        historic: "memorial",
+        source: "survey",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1239771, 47.8639692],
+      },
+      id: "node/2269745978",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2269745987",
+        historic: "memorial",
+        inscription:
+          "In Dankbarkeit gewidmet Dr. Helmut und Theresia Brandstötter von der Marktgemeinde Eugendorf",
+        memorial: "plaque",
+        name: "Dr. Brandstötter-Park",
+        source: "survey",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1244496, 47.8639765],
+      },
+      id: "node/2269745987",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2334530934",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0986103, 47.6768361],
+      },
+      id: "node/2334530934",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2338154623",
+        historic: "memorial",
+        name: "Franz Stelzhamer-Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1877424, 47.8985782],
+      },
+      id: "node/2338154623",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2338154624",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1863656, 47.8987299],
+      },
+      id: "node/2338154624",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2383731865",
+        historic: "memorial",
+        memorial: "obelisk",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8874697, 47.7282078],
+      },
+      id: "node/2383731865",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2482972315",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0567174, 47.79897],
+      },
+      id: "node/2482972315",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2522245253",
+        historic: "memorial",
+        memorial: "sculpture",
+        name: "Pest-Gedenken",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0394227, 47.8019058],
+      },
+      id: "node/2522245253",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2529844852",
+        historic: "memorial",
+        man_made: "obelisk",
+        memorial: "obelisk",
+        name: "Rainer-Obelisk",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0489689, 47.7811666],
+      },
+      id: "node/2529844852",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831334",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/143.jpg",
+        inscription:
+          "Hier wohnte AMALIE LÖWY Geb. Fuchs JG. 1875 Deportiert 1942 Theresienstadt 1942 Zamosc Ermordet",
+        memorial: "stolperstein",
+        name: "Amalie Löwy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Straße",
+        "person:date_of_birth": "1875-03-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Loewy_Amalie",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Amalie Löwy (Franz-Josef-Straße 12).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.04437, 47.8072038],
+      },
+      id: "node/2531831334",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831336",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/112.jpg",
+        memorial: "stolperstein",
+        name: "Anna Maria Wahl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Hubert Sattler Gasse",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wahl_Anna-Maria",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0439175, 47.8065065],
+      },
+      id: "node/2531831336",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831338",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/108.jpg",
+        inscription:
+          "Hier wohnte ARTUR ZHORSKY JG. 1901 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Artur Zhorsky",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Haydnstraße",
+        "person:date_of_birth": "1901-03-15",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-23",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Zhorsky_Artur",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg, Artur Zhorsky (Haydnstraße 6).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0458871, 47.8064273],
+      },
+      id: "node/2531831338",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831339",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/144.jpg",
+        inscription:
+          "Hier wohnte BELA BARUCH SPIEGEL JG. 1872 Deportiert 1942 Theresienstadt Ermordet 28.10.1942",
+        memorial: "stolperstein",
+        name: "Bela Baruch Spiegel",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Faberstraße 11, Salzburg",
+        "person:date_of_birth": "1872-04-10",
+        "person:date_of_death": "1942-10-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Spiegel_Bela-Baruch",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0439562, 47.8070589],
+      },
+      id: "node/2531831339",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831341",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/142.jpg",
+        inscription:
+          "Hier wohnte EGON SINGER JG. 1927 Deportiert 1942 Theresienstadt 1942 Lublin Ermordet 23.9.1942 Majdanek",
+        memorial: "stolperstein",
+        name: "Egon Singer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        "person:date_of_birth": "1927-04-30",
+        "person:date_of_death": "1942-09-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Singer_Egon",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Verlegestelle Franz-Josef-Straße 9.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0434841, 47.8072724],
+      },
+      id: "node/2531831341",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831342",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/143.jpg",
+        inscription:
+          "Hier wohnte EMILIE FISCHER Geb. Taussig JG. 1885 Deportiert 1942 Theresienstadt Ermordet 26.12.1943",
+        memorial: "stolperstein",
+        name: "Emilie Fischer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Straße",
+        "person:date_of_birth": "1885-08-27",
+        "person:date_of_death": "1943-12-26",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fischer_Emilie",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Emilie Fischer (Franz-Josef-Straße 12).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443276, 47.8072068],
+      },
+      id: "node/2531831342",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831344",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/24.jpg",
+        inscription:
+          "Hier wohnte GÜNTHER ERLBECK JG. 1895 Verhaftet 1941 Deportiert 20.7.1942 Flossenbürg Ermordet 28.7.1942",
+        memorial: "stolperstein",
+        name: "Günther Erlbeck",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Straße",
+        "person:date_of_birth": "1895-07-25",
+        "person:date_of_death": "1942-07-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Erlbeck_Guenther",
+        wheelchair: "limited",
+        wikimedia_commons: "File:Stolpersteine Salzburg Günther Erlbeck.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.044731, 47.8071925],
+      },
+      id: "node/2531831344",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831345",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/72.jpg",
+        memorial: "stolperstein",
+        name: "Alois Hattinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hattinger_Alois",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Alois Hattinger Josefine Kubin.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0429472, 47.8069283],
+      },
+      id: "node/2531831345",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831347",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/139.jpg",
+        memorial: "stolperstein",
+        name: "Heinrich Aninger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Aninger_Heinrich",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Heinrich und Klara Aninger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0432234, 47.807004],
+      },
+      id: "node/2531831347",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831348",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/142.jpg",
+        inscription:
+          "Hier wohnte HUGO SINGER JG. 1896 Deportiert 1942 Theresienstadt 1942 Lublin Ermordet 5.7.1942 Majdanek",
+        memorial: "stolperstein",
+        name: "Hugo Singer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        "person:date_of_birth": "1896-02-26",
+        "person:date_of_death": "1942-07-05",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Singer_Hugo",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Verlegestelle Franz-Josef-Straße 9.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043515, 47.8072807],
+      },
+      id: "node/2531831348",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831349",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/139.jpg",
+        memorial: "stolperstein",
+        name: "Klara Aninger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Aninger_Klara",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Heinrich und Klara Aninger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0432002, 47.8070009],
+      },
+      id: "node/2531831349",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831350",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/72.jpg",
+        memorial: "stolperstein",
+        name: "Josefine Kubin",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kubin_Josefine",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Alois Hattinger Josefine Kubin.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0429672, 47.8069335],
+      },
+      id: "node/2531831350",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831352",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/143.jpg",
+        inscription:
+          "Hier wohnte LUDWIG FISCHER JG. 1868 Deportiert 1942 Theresienstadt Ermordet 26.4.1944",
+        memorial: "stolperstein",
+        name: "Ludwig Fischer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Straße",
+        "person:date_of_birth": "1868-12-31",
+        "person:date_of_death": "1944-04-26",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fischer_Ludwig",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Ludwig Fischer (Franz-Josef-Straße 12).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443499, 47.8072068],
+      },
+      id: "node/2531831352",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831354",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/148.jpg",
+        inscription:
+          "Hier wohnte MARGARETE WRAUBECK Geb. LIEBLICH JG. 1863 Deportiert 1942 Theresienstadt Ermordet 17.9.1942",
+        memorial: "stolperstein",
+        name: "Margarete Wraubeck",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Haydnstraße",
+        "person:date_of_birth": "1863-12-13",
+        "person:date_of_death": "1942-09-17",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wraubeck_Margarete",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454115, 47.8070371],
+      },
+      id: "node/2531831354",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831356",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/142.jpg",
+        inscription:
+          "Hier wohnte PAULA SINGER Geb. Weiszfeiler JG. 1894 Deportiert 1942 Theresienstadt 1942 Lublin Ermordet in Majdanek",
+        memorial: "stolperstein",
+        name: "Paula Singer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        "person:date_of_birth": "1894-03-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Singer_Paula",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Verlegestelle Franz-Josef-Straße 9.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0435458, 47.8072838],
+      },
+      id: "node/2531831356",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531831357",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/144.jpg",
+        inscription:
+          "Hier wohnte THERESE SPIEGEL Geb. Pollak JG. 1878 Deportiert 1942 Theresienstadt 1942 Treblinka Ermordet",
+        memorial: "stolperstein",
+        name: "Therese Spiegel",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Faberstraße 11, Salzburg",
+        "person:date_of_birth": "1878-08-20",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Spiegel_Therese",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043967, 47.8070434],
+      },
+      id: "node/2531831357",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849345",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/163.jpg",
+        memorial: "stolperstein",
+        name: "Abraham Morpurgo",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "19",
+        "object:postcode": "5020",
+        "object:street": "Hans Prodiger Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Morpurgo_Abraham",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0412603, 47.8093909],
+      },
+      id: "node/2531849345",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849346",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+        memorial: "stolperstein",
+        name: "Andreas Rehrl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Max Otto Platz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410708, 47.8081424],
+      },
+      id: "node/2531849346",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849347",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/164.jpg",
+        memorial: "stolperstein",
+        name: "Berta Eisenberg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Lessingstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Eisenberg_Berta",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0413179, 47.8097273],
+      },
+      id: "node/2531849347",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849348",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/163.jpg",
+        memorial: "stolperstein",
+        name: "Edith Morpurgo",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "19",
+        "object:postcode": "5020",
+        "object:street": "Hans Prodiger Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Morpurgo_Edith",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0412862, 47.8093986],
+      },
+      id: "node/2531849348",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849349",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/188.jpg",
+        memorial: "stolperstein",
+        name: "Eduard Steindler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Steindler_Eduard",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Franz-Josef-Straße 5 - 2017 10 10 - Stolperstein Eduard Steindler.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0430976, 47.8071948],
+      },
+      id: "node/2531849349",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849350",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/162.jpg",
+        inscription:
+          "Hier wohnte ELSBETH BULLA Geb. Kraemer JG. 1877 Deportiert 20.8.1942 Theresienstadt Ermordet 5.11.1944",
+        memorial: "stolperstein",
+        name: "Elsbeth Bulla",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Markus Sittikus Straße",
+        "person:date_of_birth": "1877-11-20",
+        "person:date_of_death": "1944-11-05",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bulla_Elsbeth",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420346, 47.8082807],
+      },
+      id: "node/2531849350",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849351",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/23.jpg",
+        inscription:
+          "Hier wohnte FRANZ SCHINNERL JG. 1910 Verhaftet 1941 Deportiert 23.11.1942 Dachau Tot an Haftfolgen 9.5.1945",
+        memorial: "stolperstein",
+        name: "Franz Schinnerl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Julius Raab Platz",
+        "person:date_of_birth": "1910-09-14",
+        "person:date_of_death": "1945-05-09",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schinnerl_Franz&hilite=schinnerl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0445878, 47.8087287],
+      },
+      id: "node/2531849351",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849352",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/256.jpg",
+        memorial: "stolperstein",
+        name: "Franz Silberbauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Silberbauer_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0403541, 47.8100157],
+      },
+      id: "node/2531849352",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849353",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/254.jpg",
+        memorial: "stolperstein",
+        name: "Franziska van Alderwerelt",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Max Otto Platz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/van-Alderwerelt_Franziska",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0415644, 47.8080105],
+      },
+      id: "node/2531849353",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849354",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/163.jpg",
+        memorial: "stolperstein",
+        name: "Hermine Bechinsky",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "19",
+        "object:postcode": "5020",
+        "object:street": "Hans Prodiger Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bechinsky_Hermine",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0412329, 47.8093802],
+      },
+      id: "node/2531849354",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849355",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/162.jpg",
+        inscription:
+          "Hier wohnte JOHANNA KLEIN JG. 1859 Flucht 1938 Holland Interniert Westerbork Deportiert 1942 Auschwitz Ermordet 12.2.1943",
+        memorial: "stolperstein",
+        name: "Johanna Klein",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Markus Sittikus Straße",
+        "person:date_of_birth": "1859-10-08",
+        "person:date_of_death": "1943-02-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Klein_Johanna",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420852, 47.8082925],
+      },
+      id: "node/2531849355",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849356",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+        memorial: "stolperstein",
+        name: "Karl Böttinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Max Otto Platz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410708, 47.8080915],
+      },
+      id: "node/2531849356",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849357",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/165.jpg",
+        memorial: "stolperstein",
+        name: "Leo Köhler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "18",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Koehler_Leo",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg, Leo Köhler (Plainstraße 18).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0404459, 47.8112134],
+      },
+      id: "node/2531849357",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849358",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/130.jpg",
+        memorial: "stolperstein",
+        name: "Margarthe Etlinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Ernst Thun Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Etlinger_Margarethe",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0388557, 47.8081656],
+      },
+      id: "node/2531849358",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849359",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+        memorial: "stolperstein",
+        name: "Matthias Holzer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Max Otto Platz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/holzer_matthias/",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410727, 47.8081189],
+      },
+      id: "node/2531849359",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849360",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/129.jpg",
+        memorial: "stolperstein",
+        name: "Natalie Rosenthal",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rosenthal_Natalie",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420079, 47.8072206],
+      },
+      id: "node/2531849360",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849361",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/206.jpg",
+        memorial: "stolperstein",
+        name: "Olga Hekajllo",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Haunspergstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hekajllo_Olga",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Haunspergstraße 11 - 2017 10 25 - Stolperstein Olga Hekajllo.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0388824, 47.8112195],
+      },
+      id: "node/2531849361",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849362",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/164.jpg",
+        memorial: "stolperstein",
+        name: "Paula Eisenberg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Lessingstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Eisenberg_Paula",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0412992, 47.8097317],
+      },
+      id: "node/2531849362",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849363",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/130.jpg",
+        memorial: "stolperstein",
+        name: "Sossie Wagen",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Ernst Thun Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wagen_Sossie",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0388876, 47.8081723],
+      },
+      id: "node/2531849363",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849364",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/260.jpg",
+        memorial: "stolperstein",
+        name: "Walter Braunwieser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Braunwieser_Walter",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Plainstraße 8 - 2017 10 25 - Stolperstein Walter Braunwieser.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.040481, 47.8098908],
+      },
+      id: "node/2531849364",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531849365",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/130.jpg",
+        memorial: "stolperstein",
+        name: "Witthold Wagen",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Ernst Thun Straße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wagen_Witthold",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0389174, 47.8081723],
+      },
+      id: "node/2531849365",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531953992",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/146.jpg",
+        inscription:
+          "Hier wohnte AMALIE ROSENFELD Geb. ADLER JG. 1873 Deportiert 1942 Theresienstadt 1942 Treblinka Ermordet",
+        name: "Amalie Rosenfeld",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Schallmooser Hauptstraße",
+        "person:date_of_birth": "1873-01-06",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rosenfeld_Amalie",
+        wikimedia_commons:
+          "File:Stolperstein für Amalie Rosenfeld (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0504593, 47.8049454],
+      },
+      id: "node/2531953992",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531953999",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Anna Pollak",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Pollak_Anna",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420038, 47.8072263],
+      },
+      id: "node/2531953999",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954018",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/197.jpg",
+        inscription:
+          "Hier wohnte ANTON HOFMANN JG. 1900 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Anton Hofmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "52",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1900-10-20",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website: "https://www.stolpersteine-salzburg.at/",
+        wikimedia_commons: "File:StolpersteinSalzburgHofmannAnton.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0474939, 47.8038098],
+      },
+      id: "node/2531954018",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954023",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Daniel Bonyhadi",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bonyhadi_Daniel",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419832, 47.8072545],
+      },
+      id: "node/2531954023",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954029",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Edgar Bonyhadi",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bonyhadi_Edgar",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419869, 47.8072482],
+      },
+      id: "node/2531954029",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954034",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/173.jpg",
+        inscription:
+          "Hier wohnte DR. EDUARD PORTHEIM JG. 1910 Deportiert 16.10.1940 Dachau Schloss Hartheim Ermordet 23.2.1942",
+        name: "Eduard Portheim",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Makartplatz",
+        "person:date_of_birth": "1910-10-15",
+        "person:date_of_death": "1942-02-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Portheim_Eduard",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Dr. Eduard Portheim (Makartplatz 6).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.044302, 47.8028802],
+      },
+      id: "node/2531954034",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954048",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "38",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/198.jpg",
+        inscription:
+          "Hier wohnte ELISE SCHECKENBERGER JG. 1904 Deportiert 21.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Elise Therese Scheckenberger",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1904-06-08",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Scheckenberger_Elise-Therese",
+        wheelchair: "limited",
+        wikimedia_commons: "File:StolpersteinSalzburgScheckenbergerElise.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0468909, 47.803321],
+      },
+      id: "node/2531954048",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954054",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/127.jpg",
+        inscription:
+          "Hier wohnte ERNST LÖWY JG. 1900 Deportiert 1942 Theresienstadt Ermordet in Auschwitz",
+        memorial: "stolperstein",
+        name: "Ernst Löwy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1900-01-17",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Loewy_Ernst",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein_Salzburg,_Verlegestelle_Linzer_Gasse_5.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454214, 47.8021733],
+      },
+      id: "node/2531954054",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954060",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/87.jpg",
+        memorial: "stolperstein",
+        name: "Ferdinand Köck",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Mirabellplatz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Koeck_Ferdinand",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Verlegestelle Mirabellplatz 1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0440891, 47.8038498],
+      },
+      id: "node/2531954060",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954065",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/113.jpg",
+        inscription:
+          "Hier wohnte FRANZ REITER JG. 1903 Zeuge Jehovas Kriegsdienst verweigert Berlin-Plötzensee Hingerichtet 6.1.1940",
+        memorial: "stolperstein",
+        name: "Franz Reiter",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "48",
+        "object:postcode": "5020",
+        "object:street": "Auerspergstraße",
+        "person:date_of_birth": "1903-04-28",
+        "person:date_of_death": "1940-01-06",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reiter_Franz",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Franz Reiter (Auerspergstraße 48).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0501595, 47.8061505],
+      },
+      id: "node/2531954065",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954071",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/31.jpg",
+        memorial: "stolperstein",
+        name: "Franz Rosenkranz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Mirabellplatz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rosenkranz_Franz",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Verlegestelle Mirabellplatz 1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0441077, 47.8038159],
+      },
+      id: "node/2531954071",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954077",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/227.jpg",
+        memorial: "stolperstein",
+        name: "Fritz Tannenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Makartplatz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Tannenberger_Fritz",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0431731, 47.8029843],
+      },
+      id: "node/2531954077",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954079",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Gertrude Bonyhadi",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bonyhadi_Gertrude",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419921, 47.807241],
+      },
+      id: "node/2531954079",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954083",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/131.jpg",
+        inscription:
+          "Hier wohnte GISELA JELLINEK geb. Mandl JG. 1877 Deportiert 1942 Theresienstadt Ermordet 9.8.1943",
+        memorial: "stolperstein",
+        name: "Gisela Jellinek",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Dreifaltigkeitsgasse",
+        "person:date_of_death": "1943-08-09",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Jellinek_Gisela",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein salzburg, Gisela Jellinek (Dreifaltigkeitsgasse 1).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450887, 47.8019073],
+      },
+      id: "node/2531954083",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954089",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "24",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/237.jpg",
+        inscription:
+          "Hier wohnte HEINRICH WEBER JG. 1889 Deportiert 28.8.1941 Dachau Schloss Hartheim Ermordet 2.3.1942",
+        memorial: "stolperstein",
+        name: "Heinrich Weber",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1889-09-10",
+        "person:date_of_death": "1942-03-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weber_Heinrich",
+        wheelchair: "limited",
+        wikimedia_commons: "File:Stolpersteine Salzburg Heinrich Weber.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0462528, 47.8028364],
+      },
+      id: "node/2531954089",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954094",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/127.jpg",
+        inscription:
+          "Hier wohnte HERBERT LÖWY JG. 1926 Deportiert 1942 Theresienstadt Ermordet in Auschwitz",
+        memorial: "stolperstein",
+        name: "Herbert Löwy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1926-08-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Loewy_Herbert",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein_Salzburg,_Verlegestelle_Linzer_Gasse_5.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454356, 47.8021722],
+      },
+      id: "node/2531954094",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954099",
+        "at_bev:addr_date": "2020-04-01",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/187.jpg",
+        inscription:
+          "Hier wohnte HERBERT SCHMALZBACH JG. 1929 Flucht 1939 Frankreich Interniert Drancy Deportiert 9.9.1942 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Herbert Schmalzbach-Pirak",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "53",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1929-08-11",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schmalzbach-Pirak_Herbert",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Verlegestelle Linzer Gasse 53.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0486955, 47.8044545],
+      },
+      id: "node/2531954099",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954105",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/147.jpg",
+        inscription:
+          "Hier wohnte HERMANN KOHN JG. 1882 Deportiert 1942 Theresienstadt 1942 Lublin Ermordet in Majdanek",
+        memorial: "stolperstein",
+        name: "Hermann Kohn",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Wolf-Dietrich-Straße",
+        "person:date_of_birth": "1882-11-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kohn_Hermann",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Bertha und Hermann Kohn.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0474566, 47.8057825],
+      },
+      id: "node/2531954105",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954111",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/127.jpg",
+        inscription:
+          "Hier wohnte IDA LÖWY geb. Pick JG.1901 Deportiert 1942 Theresienstadt Ermordet in Auschwitz",
+        memorial: "stolperstein",
+        name: "Ida Löwy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1901-02-08",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Loewy_Ida",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein_Salzburg,_Verlegestelle_Linzer_Gasse_5.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454318, 47.8021804],
+      },
+      id: "node/2531954111",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954116",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "35",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/196.jpg",
+        inscription:
+          "Hier wohnte ISABELLA MAYR JG. 1903 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Isabella Mayr",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1903-07-27",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mayr_Isabella",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Isabella Mayr (Linzer Gasse 35).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0470738, 47.803522],
+      },
+      id: "node/2531954116",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954122",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/131.jpg",
+        inscription:
+          "Hier wohnte DR. JOHANN JELLINEK JG. 1875 Deportiert 1942 Theresienstadt Ermordet 20.3.1943",
+        memorial: "stolperstein",
+        name: "Johann Jellinek",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Dreifaltigkeitsgasse",
+        "person:date_of_birth": "1875-04-12",
+        "person:date_of_death": "1943-03-20",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Jellinek_Johann",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein salzburg, Dr. Johann Jellinek (Dreifaltigkeitsgasse 1).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450959, 47.8018972],
+      },
+      id: "node/2531954122",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954131",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Johann Langer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Langer_Johann",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420128, 47.8072147],
+      },
+      id: "node/2531954131",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954137",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/32.jpg",
+        memorial: "stolperstein",
+        name: "Ludwig Bonyhadi",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bonyhadi_Ludwig",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Rainerstraße 4 - 2017 10 10 - 7 Stolpersteine-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419975, 47.8072331],
+      },
+      id: "node/2531954137",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954142",
+        "at_bev:addr_date": "2020-04-01",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/186.jpg",
+        inscription:
+          "Hier wohnte MARIE SCHMALZBACH Geb. PIRAK JG. 1901 Flucht 1939 Frankreich Interniert Drancy Deportiert 9.9.1942 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Marie Schmalzbach-Pirak",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "53",
+        "object:postcode": "5020",
+        "object:street": "Linzer Gasse",
+        "person:date_of_birth": "1901-08-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schmalzbach-Pirak_Marie",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Verlegestelle Linzer Gasse 53.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0487175, 47.8044618],
+      },
+      id: "node/2531954142",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954148",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "24",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/194.jpg",
+        inscription:
+          "Hier wohnte OLGA SACHSEL Geb. LICHTENSTEIN JG. 1876 Deportiert 20.7.1942 Theresienstadt 1942 Treblinka Ermordet 22.4.1943",
+        memorial: "stolperstein",
+        name: "Olga Sachsel-Lichtenstein",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1876-07-27",
+        "person:date_of_death": "1943-04-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Sachsel-Lichtenstein_Olga",
+        wheelchair: "limited",
+        wikimedia_commons: "File:Stolpersteine Salzburg Olga Sachsel.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0462423, 47.8028258],
+      },
+      id: "node/2531954148",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954153",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/145.jpg",
+        memorial: "stolperstein",
+        name: "Rudolf Erich Müller",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Mirabellplatz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mueller_Rudolf-Erich",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Rudolf Erich Müller (Mirabellplatz 6).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043552, 47.8049921],
+      },
+      id: "node/2531954153",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954159",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/90.jpg",
+        inscription:
+          "Hier wohnte RUDOLF RASPOTNIG JG. 1906 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rudolf Raspotnig",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Wolf-Dietrich-Straße",
+        "person:date_of_birth": "1906-04-15",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Raspotnig_Rudolf",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Rudolf Raspotnig (Wolf-Dietrich-Straße 33).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0467674, 47.806586],
+      },
+      id: "node/2531954159",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954165",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/226.jpg",
+        memorial: "stolperstein",
+        name: "Siegfried Fritz Glasel",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Makartplatz",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Glasel_Siegfried-Fritz",
+        wheelchair: "limited",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0431994, 47.8029611],
+      },
+      id: "node/2531954165",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954170",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/161.jpg",
+        inscription:
+          "Hier wohnte THEODOR KURTZ JG. 1872 Verhaftet 22.11.1942 Zuchthaus Stein an der Donau Tot 24.8.1943 im Zuchthaus",
+        memorial: "stolperstein",
+        name: "Theodor Kurtz",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1872-10-28",
+        "person:date_of_death": "1943-08-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kurtz_Theodor",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Theodor Kurtz (Linzer Gasse 28).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0465093, 47.8030407],
+      },
+      id: "node/2531954170",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531954176",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/91.jpg",
+        memorial: "stolperstein",
+        name: "Therese Bammer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "49",
+        "object:postcode": "5020",
+        "object:street": "Auerspergstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bammer_Therese",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0479291, 47.8074711],
+      },
+      id: "node/2531954176",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991545",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/71.jpg",
+        inscription:
+          "Hier wohnte AUGUST GRUBER JG. 1894 im Widerstand verhaftet 5.2.1942 Berlin-Plötzensee Ermordet 23.3.1943",
+        memorial: "stolperstein",
+        name: "August Gruber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Herbert-von-Karajan-Platz",
+        "person:date_of_birth": "1894-04-13",
+        "person:date_of_death": "1943-03-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gruber_August",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0404755, 47.7996439],
+      },
+      id: "node/2531991545",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991546",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:postcode": "5020",
+        "addr:street": "St.-Peter-Bezirk",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/28.jpg",
+        inscription:
+          "Hier wohnte GOTTFRIED NEUNHÄUSERER Pater Romuld JG. 1882 Deportiert 1941 'Schloss Hartheim' Ermordet 8.5.1941",
+        memorial: "stolperstein",
+        name: "Gottfried Neunhäuserer",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_death": "1941-05-08",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neunhaeuserer_Gottfried",
+        wikimedia_commons:
+          "File:Stolperstein für Gottfried Neunhäuserer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0442194, 47.7973326],
+      },
+      id: "node/2531991546",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991547",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:postcode": "5020",
+        "addr:street": "St.-Peter-Bezirk",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/28.jpg",
+        inscription:
+          "Hier wohnte JAKOB FÖRTSCH Bruder Coelestin JG. 1896 Im Widerstand Deportiert 1943 Ravensbrück Ermordet 10.2.1944",
+        memorial: "stolperstein",
+        name: "Jakob Förtsch",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1896-07-08",
+        "person:date_of_death": "1944-02-10",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Foertsch_Jakob",
+        wikimedia_commons: "File:Stolperstein für Jakob Förtsch (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0441984, 47.7972734],
+      },
+      id: "node/2531991547",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991548",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/122.jpg",
+        inscription:
+          "Hier wohnte JOHANN HASLAUER JG. 1890 Zeuge Jehovas Kriegsdienst verweigert Verhaftet 9.11.1939 1940 Sachsenhausen Ermordet 12.8.1940",
+        memorial: "stolperstein",
+        name: "Johann Haslauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1890-01-05",
+        "person:date_of_death": "1940-08-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Haslauer_Johann",
+        wikimedia_commons:
+          "File:Stolperstein für Johann Haslauer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.041319, 47.7999694],
+      },
+      id: "node/2531991548",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991549",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/106.jpg",
+        inscription:
+          "Hier wohnte | JOHANNA STANDL | JG. 1887 | Deportiert 1941 | 'Schloss Hartheim' | Ermordet 1941",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Johanna Standl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Griesgasse",
+        "person:date_of_birth": "1887-06-12",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Standl_Johanna",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Johanna Standl (Griesgasse 8).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0399173, 47.8009187],
+      },
+      id: "node/2531991549",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991550",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/122.jpg",
+        inscription:
+          "Hier wohnte MARIE HASLAUER geb. Mackinger JG. 1899 Zeugin Jehovas Kriegsdienst verweigert Verhaftet 10.11.1939 Ravensbrück Auschwitz Ermordet 27.9.1942",
+        memorial: "stolperstein",
+        name: "Marie Haslauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1899-12-27",
+        "person:date_of_death": "1942-09-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Haslauer_Maria",
+        wikimedia_commons:
+          "File:Stolperstein für Marie Haslauer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0413116, 47.7999701],
+      },
+      id: "node/2531991550",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991551",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/107.jpg",
+        inscription:
+          "Hier wohnte OSKAR GOLDFUSS JG. 1899 Deportiert 1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Oskar Goldfuss",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "47",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1899-03-25",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Goldfuss_Oskar",
+        wikimedia_commons:
+          "File:Stolperstein für Oskar Goldfuss (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0402866, 47.7999807],
+      },
+      id: "node/2531991551",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991552",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/166.jpg",
+        inscription:
+          "Hier wohnte ROSA ENGLÄNDER JG. 1896 Deportiert 3.11.1941 Lodz Ermordet",
+        memorial: "stolperstein",
+        name: "Rosa Engländer",
+        "name:en": "Rosa Engländer אבן נגף",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Griesgasse",
+        "person:date_of_birth": "1896-03-06",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Englaender_Rosa",
+        wikimedia_commons:
+          "File:Stolperstein für Rosa Engländer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0426763, 47.800705],
+      },
+      id: "node/2531991552",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991553",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/106.jpg",
+        inscription:
+          "Hier wohnte | ROSEMARIE DAXER | JG. 1942 | Deportiert 1943 | 'Heilanstalt' am Spiegelgrund | Ermordet 12.8.1943",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Rosemarie Daxer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Griesgasse",
+        "person:date_of_birth": "1942-02-01",
+        "person:date_of_death": "1943-08-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Daxer_Rosemarie",
+        wikimedia_commons:
+          "File:Stolperstein für Rosemarie Daxer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0399296, 47.8009186],
+      },
+      id: "node/2531991553",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2531991554",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/105.jpg",
+        inscription:
+          "Hier wohnte VERONIKA MAULTASCH geb. Hofinger JG. 1876 Deportiert 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Veronika Maultasch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Mönchsberg",
+        "person:date_of_birth": "1876-03-28",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Maultasch_Veronika",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0439087, 47.7960151],
+      },
+      id: "node/2531991554",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107182",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/171.jpg",
+        inscription:
+          "Hier wohnte ALFRED SCHULHOF JG. 1881 Deportiert 24.10.1942 Theresienstadt 1944 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Alfred Schulhof",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "52",
+        "object:postcode": "5020",
+        "object:street": "Rudolfskai",
+        "person:date_of_birth": "1881-06-12",
+        "person:date_of_death": "1944",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schulhof_Alfred",
+        wikimedia_commons:
+          "File:Stolperstein für Alfred Schulhof (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0527328, 47.7978714],
+      },
+      id: "node/2532107182",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107187",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/157.jpg",
+        inscription:
+          "Hier wohnte ANGELA WEIL geborene Roederer JG. 1895 Deportiert 1942 Piaski Ermordet",
+        memorial: "stolperstein",
+        name: "Angela Weil",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Nonntaler Hauptstraße",
+        "person:date_of_birth": "1895-04-19",
+        "person:date_of_death": "1942",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weil_Angela",
+        wikimedia_commons: "File:Stolperstein für Angela Weil (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0528965, 47.7958024],
+      },
+      id: "node/2532107187",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107194",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/138.jpg",
+        inscription:
+          "Hier wohnte DOROTHEA GRINDLINGER JG. 1915 Deportiert 1942 Maly Trostinec Ermordet 18.9.1942",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Dorothea Grindlinger",
+        "name:he": "אבן נגף",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Judengasse",
+        "person:date_of_birth": "1915",
+        "person:date_of_death": "1942-09-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Grindlinger_Dorothea",
+        wikimedia_commons:
+          "File:Stolperstein für Dorothea Grindlinger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0467225, 47.7993983],
+      },
+      id: "node/2532107194",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107209",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/154.jpg",
+        inscription:
+          "Hier wohnte DR. ERNST LANGFELDER JG. 1892 Deportiert 1942 Maly Trostinec Ermordet 1.6.1942",
+        memorial: "stolperstein",
+        name: "Ernst Langfelder",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Pfeifergasse",
+        "person:date_of_birth": "1892-08-26",
+        "person:date_of_death": "1942-06-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Langfelder_Ernst",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0489675, 47.7984519],
+      },
+      id: "node/2532107209",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107213",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/17.jpg",
+        inscription:
+          "Hier wohnte HEINRICH SCHÖNBERG JG. 1882 Gestapohaft in Salzburg Tot 1.6.1941",
+        memorial: "stolperstein",
+        name: "Heinrich Schönberg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Chiemseegasse",
+        "person:date_of_birth": "1882-04-29",
+        "person:date_of_death": "1941-06-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schoenberg_Heinrich",
+        wikimedia_commons:
+          "File:Stolperstein für Heinrich Schönberg (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0495794, 47.7977844],
+      },
+      id: "node/2532107213",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107221",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/25.jpg",
+        inscription:
+          "Hier wohnte JOHANN GORUP JG. 1896 Verhaftet 1941 Zuchthaus Amberg Ermordet 8.3.1943",
+        memorial: "stolperstein",
+        name: "Johann Gorup",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Brodgasse",
+        "person:date_of_birth": "1896-06-19",
+        "person:date_of_death": "1943-03-08",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gorup_Johann",
+        wikimedia_commons: "File:Stolperstein für Johann Gorup (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0457646, 47.7996665],
+      },
+      id: "node/2532107221",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107225",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/152.jpg",
+        inscription:
+          "Hier wohnte KLARA KIESLER geb. Baron JG. 1871 Deportiert 1942 Theresienstadt 1943 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Klara Kiesler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Kaigasse",
+        "person:date_of_birth": "1879-01-06",
+        "person:date_of_death": "1943",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kiesler_Klara",
+        wikimedia_commons: "File:Stolperstein für Klara Kiesler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0493577, 47.79682],
+      },
+      id: "node/2532107225",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107229",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/152.jpg",
+        inscription:
+          "Hier wohnte LUDWIG KIESLER JG. 1865 Deportiert 1942 Theresienstadt Ermordet 28.1.1943",
+        memorial: "stolperstein",
+        name: "Ludwig Kiesler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Kaigasse",
+        "person:date_of_birth": "1865-06-13",
+        "person:date_of_death": "1943-01-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kiesler_Ludwig",
+        wikimedia_commons:
+          "File:Stolperstein für Ludwig Kiesler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0493412, 47.796822],
+      },
+      id: "node/2532107229",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107233",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/138.jpg",
+        inscription:
+          "Hier wohnte REGINA GRINDLINGER geb. Bonus JG. 1884 Deportiert 1942 Maly Trostinec Ermordet 18.9.1942",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Regina Grindlinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Judengasse",
+        "person:date_of_birth": "1884",
+        "person:date_of_death": "1942-09-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Grindlinger_Regina",
+        wikimedia_commons:
+          "File:Stolperstein für Regina Grindlinger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0467215, 47.7993827],
+      },
+      id: "node/2532107233",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107237",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/110.jpg",
+        inscription:
+          "Hier wohnte ROSA LEEB JG. 1921 Deportiert 16.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rosa Leeb",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Herrengasse",
+        "person:date_of_birth": "1921-08-07",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Leeb_Rosa",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0477562, 47.7964981],
+      },
+      id: "node/2532107237",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107240",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/88.jpg",
+        inscription:
+          "Hier wohnte RUDOLF GRUBER JG. 1913 Deportiert 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rudolf Gruber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Brodgasse",
+        "person:date_of_birth": "1913-04-09",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gruber_Rudolf",
+        wikimedia_commons: "File:Stolperstein für Rudolf Gruber (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.045752, 47.7997899],
+      },
+      id: "node/2532107240",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532107241",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/159.jpg",
+        inscription:
+          "Hier arbeitete WALTER SCHWARZ JG. 1884 Verhaftet Aug. 1938 Gestapohauptstelle München Tot 1.9.1938",
+        memorial: "stolperstein",
+        name: "Walter Schwarz",
+        "name:en": "Walter Schwarz אבן נגף",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Alter Markt",
+        "person:date_of_birth": "1884-12-30",
+        "person:date_of_death": "1938-09-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schwarz_Walter",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0451147, 47.7995647],
+      },
+      id: "node/2532107241",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129385",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/149.jpg",
+        inscription:
+          "Hier wohnte GISELA NEUWIRTH JG. 1921 Deportiert 1941 Ghetto Lagow Ghetto Opatow Ermordet 1942",
+        memorial: "stolperstein",
+        name: "Gisela Neuwirth",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Arenbergstraße",
+        "person:date_of_birth": "1921-04-16",
+        "person:date_of_death": "1942",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neuwirth_Gisela",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0590195, 47.8001584],
+      },
+      id: "node/2532129385",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129392",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/149.jpg",
+        inscription:
+          "Hier wohnte HENRIETTE NEUWIRTH geb. Engländer JG. 1893 Deportiert 1941 Ghetto Lagow Ghetto Opatow Ermordet 1942",
+        memorial: "stolperstein",
+        name: "Henriette Neuwirth",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Arenbergstraße",
+        "person:date_of_birth": "1893-02-15",
+        "person:date_of_death": "1942",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neuwirth_Henriette",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0590464, 47.8001595],
+      },
+      id: "node/2532129392",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129398",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/205.jpg",
+        memorial: "stolperstein",
+        name: "Hildegard Lohmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "29",
+        "object:postcode": "5020",
+        "object:street": "Wolfsgartenweg 29, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lohmann_Hildegard",
+        wikimedia_commons: "File:Stolperstein für Hildegard Lohmann.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0787141, 47.8041401],
+      },
+      id: "node/2532129398",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129404",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/104.jpg",
+        inscription:
+          "Hier wohnte KARL SONNLEITHNER JG. 1897 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Karl Sonnleithner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Arenbergstraße",
+        "person:date_of_birth": "1897-07-17",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Sonnleithner_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0540779, 47.8002715],
+      },
+      id: "node/2532129404",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129410",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/149.jpg",
+        inscription:
+          "Hier wohnte MAX NEUWIRTH JG. 1892 Verhaftet 1940 Buchenwald 1940 Dachau Ermordet 13.5.1944",
+        memorial: "stolperstein",
+        name: "Max Neuwirth",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Arenbergstraße",
+        "person:date_of_birth": "1892-06-16",
+        "person:date_of_death": "1941-05-13",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neuwirth_Max",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.059069, 47.8001584],
+      },
+      id: "node/2532129410",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129416",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/19.jpg",
+        inscription:
+          "MICHAEL CHARTSCHENKO JG. 1914 Erschossen von SS im Volksgarten 4.5.1945 Tag der Befreiung",
+        memorial: "stolperstein",
+        name: "Michael Chartschenko",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Volksgarten",
+        "person:date_of_birth": "1914-02-20",
+        "person:date_of_death": "1945-05-04",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Chartschenko_Michael",
+        wikimedia_commons:
+          "File:Stolperstein für Michael Chartschenko (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0590839, 47.7975258],
+      },
+      id: "node/2532129416",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129422",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/stolperstein/tiefgraber_notburga/#gallery-1",
+        inscription:
+          "Hier wohnte NOTBURGA TIEFGRABER geb Zillner JG. 1885 Zeugin Jehovas Verhaftet 15.11.1939 1940 Ravensbrück Ermordet 22.3.1944",
+        memorial: "stolperstein",
+        name: "Notburga Tiefgraber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5026",
+        "object:street": "Aigner Straße",
+        "person:date_of_birth": "1885-06-18",
+        "person:date_of_death": "1944-03-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/tiefgraber_notburga/",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein für Notburga Tiefgraber (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0647217, 47.7972693],
+      },
+      id: "node/2532129422",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532129425",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/170.jpg",
+        inscription:
+          "Hier wohnte VIKTOR POLLAK JG. 1865 Verhaftet 13.11.1941 Deportiert 1942 Zwangsarbeitslager Maltheuern bei Brüx Ermordet 14.11.1942",
+        memorial: "stolperstein",
+        name: "Viktor Pollak",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Frueaufgasse",
+        "person:date_of_birth": "1865-01-16",
+        "person:date_of_death": "1942-11-14",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Pollak_Viktor",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0669614, 47.7899696],
+      },
+      id: "node/2532129425",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171718",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/62.jpg",
+        memorial: "stolperstein",
+        name: "Anna Frauneder",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Fritschgasse",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Frauneder_Anna",
+        wikimedia_commons: "File:Stolperstein für Anna Frauneder.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0617375, 47.8081854],
+      },
+      id: "node/2532171718",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171719",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/84.jpg",
+        memorial: "stolperstein",
+        name: "Anna Steinwender",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "23",
+        "object:postcode": "5020",
+        "object:street": "Lasserstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Steinwender_Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0484436, 47.8081014],
+      },
+      id: "node/2532171719",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171720",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/26.jpg",
+        memorial: "stolperstein",
+        name: "Anton Reiter",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Mühlstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reiter_Anton",
+        wikimedia_commons: "File:Stolperstein für Anton Reiter (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0777057, 47.813601],
+      },
+      id: "node/2532171720",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171721",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/156.jpg",
+        inscription:
+          "Hier wohnte FELIX KLAR JG. 1900 verhaftet 16.10.1939 Buchenwald 1942 Auschwitz Todesmarsch nach Mittelbau-Dorau Tot an Haftfolgen 24.4.1946",
+        memorial: "stolperstein",
+        name: "Felix Klar",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Bayerhamerstraße",
+        "person:date_of_birth": "1900-03-26",
+        "person:date_of_death": "1946-04-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Klar_Felix",
+        wikimedia_commons: "File:Stolperstein für Felix Klar.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0517854, 47.8062151],
+      },
+      id: "node/2532171721",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171722",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/35.jpg",
+        memorial: "stolperstein",
+        name: "Helene Fröhlich",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Stelzhammerstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Froehlich_Helene",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0498171, 47.8083597],
+      },
+      id: "node/2532171722",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171723",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/30.jpg",
+        memorial: "stolperstein",
+        name: "Johann Facinelli",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Rupertgasse",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Facinelli_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0534499, 47.8076164],
+      },
+      id: "node/2532171723",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171724",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/115.jpg",
+        memorial: "stolperstein",
+        name: "Johann Gruber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Kirchbergsteig",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gruber_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0801165, 47.8118308],
+      },
+      id: "node/2532171724",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171725",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/47.jpg",
+        memorial: "stolperstein",
+        name: "Josef Micheler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "58",
+        "object:postcode": "5020",
+        "object:street": "Linzer Bundesstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Micheler_Josef",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Linzer Bundesstraße 58 - Stolpersteine Josef Wallis u Josef Micheler.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0702933, 47.8165306],
+      },
+      id: "node/2532171725",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171726",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/48.jpg",
+        memorial: "stolperstein",
+        name: "Josef Wallis",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "58",
+        "object:postcode": "5020",
+        "object:street": "Linzer Bundesstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wallis_Josef",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Linzer Bundesstraße 58 - Stolpersteine Josef Wallis u Josef Micheler.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0703045, 47.8165434],
+      },
+      id: "node/2532171726",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171727",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/92.jpg",
+        inscription:
+          "Hier wohnte KATHARINA HUEMER JG. 1905 Deportiert 18.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Katharina Huemer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "29",
+        "object:postcode": "5020",
+        "object:street": "Schallmooser Hauptstraße",
+        "person:date_of_birth": "1905",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Huemer_Katharina",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0539853, 47.8063006],
+      },
+      id: "node/2532171727",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171728",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/56.jpg",
+        memorial: "stolperstein",
+        name: "Maria Bumberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "26",
+        "object:postcode": "5020",
+        "object:street": "Linzer Bundesstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bumberger_Maria",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Linzer Bundesstraße 26 - Stolperstein Maria Bumberger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0679507, 47.8133439],
+      },
+      id: "node/2532171728",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171729",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/55.jpg",
+        memorial: "stolperstein",
+        name: "Marianne Innerberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "36",
+        "object:postcode": "5020",
+        "object:street": "Linzer Bundesstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Innerberger_Marianne",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Linzer Bundesstraße 36 - Stolperstein Marianne Innerberger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0686575, 47.8142433],
+      },
+      id: "node/2532171729",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171730",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/21.jpg",
+        memorial: "stolperstein",
+        name: "Otto Schneider",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "23",
+        "object:postcode": "5020",
+        "object:street": "Lasserstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schneider_Otto",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0484198, 47.8081131],
+      },
+      id: "node/2532171730",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532171731",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/50.jpg",
+        inscription:
+          "Hier wohnte VALENTIN AGLASSINGER JG. 1886 Im Widerstand verhaftet 15.3.1943 Deportiert 19.4.1944 Dachau Ermordet 7.2.1945",
+        memorial: "stolperstein",
+        name: "Valentin Aglassinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Turnerstraße",
+        "person:date_of_birth": "1886",
+        "person:date_of_death": "1945-02-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Aglassinger_Valentin",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Turnerstraße 10 - Stolperstein Valentin Aglassinger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.069048, 47.8165699],
+      },
+      id: "node/2532171731",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239066",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/102.jpg",
+        inscription:
+          "Hier wohnte ADOLF STILLER JG. 1888 Deportiert 17.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Adolf Stiller",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Stieglstraße",
+        "person:date_of_birth": "1888-11-19",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stiller_Adolf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0233615, 47.7958888],
+      },
+      id: "node/2532239066",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239067",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/203.jpg",
+        inscription:
+          "Hier wohnte ALFRED WEINGARTNER JG. 1930 Eingewiesen 18.4.1941 Heilanstalt Egling-Haar Tot 21.6.1942",
+        memorial: "stolperstein",
+        name: "Alfred Weingartner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "45",
+        "object:postcode": "5020",
+        "object:street": "Siezenheimer Straße",
+        "person:date_of_birth": "1930-01-17",
+        "person:date_of_death": "1942-06-21",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weingartner_Alfred",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0089202, 47.8057798],
+      },
+      id: "node/2532239067",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239068",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/103.jpg",
+        inscription:
+          "Hier wohnte ANNA FASSA geb. Krejci JG. 1878 Deportiert 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Anna Fassa",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Steinbruchstraße",
+        "person:date_of_birth": "1878-01-15",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fassa_Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0359774, 47.7961472],
+      },
+      id: "node/2532239068",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239069",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/34.jpg",
+        memorial: "stolperstein",
+        name: "Anna Pangerl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Bärengässchen",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Pangerl_Anna",
+        wikimedia_commons: "File:Stolperstein für Anna Pangerl (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0358811, 47.8062337],
+      },
+      id: "node/2532239069",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239070",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/211.jpg",
+        inscription:
+          "Hier wohnte ANTON BRUGGER JG. 1911 Adventist Kriegsdienst verweigert Zuchthaus Brandenburg -Görden Hingerichtet 3.2.1943",
+        memorial: "stolperstein",
+        name: "Anton Brugger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Josef Schwer Gasse",
+        "person:date_of_birth": "1911-04-09",
+        "person:date_of_death": "1943-02-03",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Brugger_Anton",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0242918, 47.7975431],
+      },
+      id: "node/2532239070",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239071",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/121.jpg",
+        inscription:
+          "Hier wohnte ANTON RAFETSEDER JG. 1908 Zeuge Jehovas Kriegsdienst verweigert Verhaftet 2.3.1940 Sachsenhausen Ermordet 29.4.1940",
+        memorial: "stolperstein",
+        name: "Anton Rafetseder",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Römergasse",
+        "person:date_of_birth": "1908-01-02",
+        "person:date_of_death": "1940-04-29",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rafetseder_Anton",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0274282, 47.8012607],
+      },
+      id: "node/2532239071",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239072",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/155.jpg",
+        inscription:
+          "Hier wohnte ARTHUR BONDY JG. 1877 Deportiert 1941 Minsk Ermordet",
+        memorial: "stolperstein",
+        name: "Arthur Bondy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1877-02-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bondy_Arthur",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0344267, 47.7976865],
+      },
+      id: "node/2532239072",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239073",
+        historic: "memorial",
+        image: "http://www.stolpersteine-salzburg.at/stolpersteine_imgs/98",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Bernhard Gold",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "25",
+        "object:postcode": "5020",
+        "object:street": "Müllner Hauptstraße",
+        "person:date_of_birth": "1897",
+        "person:date_of_death": "1942-10-09",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/de/orte_und_biographien?victim=Gold,Bernhard",
+        wikimedia_commons: "File:Stolperstein für Bernhard Gold (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.034796, 47.8063585],
+      },
+      id: "node/2532239073",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239074",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/93.jpg",
+        inscription:
+          "Hier wohnte ELISABETH LEITNER JG. 1885 Deportiert 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Elisabeth Leitner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "27",
+        "object:postcode": "5020",
+        "object:street": "Mönchsberg",
+        "person:date_of_birth": "1885-11-16",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Leitner_Elisabeth",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0365095, 47.8033443],
+      },
+      id: "node/2532239074",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239075",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/70.jpg",
+        inscription:
+          "Hier wohnte FERDINAND LANG JG. 1913 Im Widerstand Verhaftet Aug. 1944 'Wehrkraftzersetzung' Zuchthaus München-Stadelheim Hingerichtet 21.11.1944",
+        memorial: "stolperstein",
+        name: "Ferdinand Lang",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Untersbergstraße",
+        "person:date_of_birth": "1913-03-27",
+        "person:date_of_death": "1944-11-21",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lang_Ferdinand",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0353298, 47.7967184],
+      },
+      id: "node/2532239075",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239076",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/99.jpg",
+        inscription:
+          "Hier wohnte FRANZISKA CASAGRANDA geb. Schlager JG. 1894 Deportiert 18.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Franziska Casagranda",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Villagasse",
+        "person:date_of_birth": "1894-07-28",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Casagranda_Franziska",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0213174, 47.8030669],
+      },
+      id: "node/2532239076",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239077",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/210.jpg",
+        inscription:
+          "Hier wohnte HERMANN KOLLER JG. 1911 Im Widerstand Verhaftet 20.3.1943 Deportiert 17.5.1943 Dachau Ermordet 21.3.1945",
+        memorial: "stolperstein",
+        name: "Hermann Koller",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "18",
+        "object:postcode": "5020",
+        "object:street": "Gärtnerstraße",
+        "person:date_of_birth": "1911-06-12",
+        "person:date_of_death": "1945-03-21",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Koller_Hermann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0265305, 47.8008017],
+      },
+      id: "node/2532239077",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239078",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/34.jpg",
+        memorial: "stolperstein",
+        name: "Ida Petermann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Bärengässchen",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Petermann_Ida",
+        wikimedia_commons: "File:Stolperstein für Ida Petermann (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0358859, 47.806222],
+      },
+      id: "node/2532239078",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239080",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/155.jpg",
+        inscription:
+          "Hier wohnte IRMA BONDY geb. Kessler JG. 1887 Deportiert 1941 Minsk Ermordet",
+        memorial: "stolperstein",
+        name: "Irma Bondy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1887-02-25",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bondy_Irma",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0344788, 47.7976852],
+      },
+      id: "node/2532239080",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239081",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/217.jpg",
+        inscription:
+          "Hier wohnte JAN BLACH JG. 1875 Zwangsarbeit Tot 29.9.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Jan Blach",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "57",
+        "object:postcode": "5020",
+        "object:street": "Innsbrucker Bundesstraße",
+        "person:date_of_birth": "1875-01-06",
+        "person:date_of_death": "1944-09-29",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Blach_Jan",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0167899, 47.8016954],
+      },
+      id: "node/2532239081",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239082",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/216.jpg",
+        inscription:
+          "Hier wohnte JOHANN BRANDTHALER JG. 1895 Spanienkämpfer Deportiert 9.12.1940 Dachau 1942 Neuengamme Ermordet 27.1.1943",
+        memorial: "stolperstein",
+        name: "Johann Brandthaler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Schlossergasse",
+        "person:date_of_birth": "1895-06-04",
+        "person:date_of_death": "1943-01-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Brandthaler_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0222824, 47.8013034],
+      },
+      id: "node/2532239082",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239083",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/100.jpg",
+        inscription:
+          "Hier wohnte JOHANN HOLLEIS JG. 1939 Deportiert 1944 Heilanstalt am Spiegelgrund Ermordet 27.4.1944",
+        memorial: "stolperstein",
+        name: "Johann Holleis",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Bindergasse",
+        "person:date_of_birth": "1939-07-12",
+        "person:date_of_death": "1944-04-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Holleis_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0205596, 47.8038815],
+      },
+      id: "node/2532239083",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239084",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/214.jpg",
+        inscription:
+          "Hier wohnte JOHANN STOJKOWITSCH JG. 1896 Lovara Deportiert 20.4.1943 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Johann Stojkowitsch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "57",
+        "object:postcode": "5020",
+        "object:street": "Innsbrucker Bundesstraße",
+        "person:date_of_birth": "1896-06-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stojkowitsch_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0168036, 47.8016606],
+      },
+      id: "node/2532239084",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239085",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/121.jpg",
+        inscription:
+          "Hier wohnte JOSEF GÖLS JG. 1894 Zeuge Jehovas Kriegsdienst verweigert Verhaftet 10.1.1940 Sachsenhausen 1942 Dachau Ermordet 19.2.1945",
+        memorial: "stolperstein",
+        name: "Josef Göls",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Römergasse",
+        "person:date_of_birth": "1894-01-01",
+        "person:date_of_death": "1945-02-19",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Goels_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0273858, 47.8012814],
+      },
+      id: "node/2532239085",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239086",
+        historic: "memorial",
+        image: "https://www.stolpersteine-salzburg.at/wp-content/uploads/6.jpg",
+        inscription:
+          "Hier wohnte JOSEF PFEFFER JG. 1912 Verhaftet 1938 Deportiert 1940 Oranienburg Ermordet 28.1.1945",
+        memorial: "stolperstein",
+        name: "Josef Pfeffer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "52",
+        "object:postcode": "5020",
+        "object:street": "Maxglaner Hauptstraße",
+        "person:date_of_birth": "1912-01-01",
+        "person:date_of_death": "1945-01-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Pfeffer_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.018681, 47.7988061],
+      },
+      id: "node/2532239086",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239087",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/209.jpg",
+        inscription:
+          "Hier wohnte JOSEF WIMMER JG. 1903 Im Widerstand Verhaftet 25.8.1944 Deportiert 21.10.1944 Dachau 1944 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Josef Wimmer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Glockengießerstraße",
+        "person:date_of_birth": "1903-06-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wimmer_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0145509, 47.8022937],
+      },
+      id: "node/2532239087",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239092",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/97.jpg",
+        memorial: "stolperstein",
+        name: "Josefa Sölva",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Salzachgässchen",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Soelva_Josefa",
+        wikimedia_commons: "File:Stolperstein für Josefa Sölva (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0351963, 47.8070432],
+      },
+      id: "node/2532239092",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239098",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/68.jpg",
+        inscription:
+          "Hier wohnte KARL STEINOCHER JG. 1894 Im Widerstand Verhaftet 26.2.1942 Zuchthaus Salzburg 1944 Zuchthaus Hohenasperg Tot an Haftfolgen 16.5.1945",
+        memorial: "stolperstein",
+        name: "Karl Steinocher",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Bucklreuthstraße",
+        "person:date_of_birth": "1894-06-10",
+        "person:date_of_death": "1945-05-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Steinocher_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0383886, 47.7960115],
+      },
+      id: "node/2532239098",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239103",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/101.jpg",
+        inscription:
+          "Hier wohnte KARL VOGL JG. 1894 Deportiert 17.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Karl Vogl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "21",
+        "object:postcode": "5020",
+        "object:street": "Innsbrucker Bundesstraße",
+        "person:date_of_birth": "1894-08-04",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Vogl_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.02281, 47.8053176],
+      },
+      id: "node/2532239103",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239108",
+        historic: "memorial",
+        image: "http://www.stolpersteine-salzburg.at/stolpersteine_imgs/98",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Maria Schiemer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "25",
+        "object:postcode": "5020",
+        "object:street": "Müllner Hauptstraße",
+        "person:date_of_birth": "1887",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/de/orte_und_biographien?victim=Schiemer,Maria",
+        wikimedia_commons:
+          "File:Stolperstein für Maria Schiemer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0348019, 47.8063523],
+      },
+      id: "node/2532239108",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239114",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/155.jpg",
+        inscription:
+          "Hier wohnte OTTO BONDY JG. 1873 Deportiert 1942 Theresienstadt 1942 Treblinka Ermordet",
+        memorial: "stolperstein",
+        name: "Otto Bondy",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1873-09-05",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bondy_Otto",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0345251, 47.79768],
+      },
+      id: "node/2532239114",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239119",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/155.jpg",
+        inscription:
+          "Hier wohnte RACHEL ROSENMANN JG. 1873 Deportiert 1941 Lodz Ermordet",
+        memorial: "stolperstein",
+        name: "Rachel Rosenmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1873-09-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-21",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rosenmann_Rachel",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0345714, 47.7976774],
+      },
+      id: "node/2532239119",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239124",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/34.jpg",
+        memorial: "stolperstein",
+        name: "Regina Turek",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Bärengässchen",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Turek_Regina",
+        wikimedia_commons: "File:Stolperstein für Regina Turek (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0358898, 47.8062136],
+      },
+      id: "node/2532239124",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239130",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "5020",
+        "addr:street": "Kaserngasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/27.jpg",
+        inscription:
+          "Hier wohnte RICHARD HOLLEIS JG. 1910 Verhaftet 31.3.1941 Dachau Deportiert 20.1.1942 'Schloss Hartheim' Ermordet 1942",
+        memorial: "stolperstein",
+        name: "Richard Holleis",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1910-11-12",
+        "person:date_of_death": "1942",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Holleis_Richard",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0285582, 47.7956848],
+      },
+      id: "node/2532239130",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239137",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/64.jpg",
+        inscription:
+          "Hier wohnte ROSA HOFMANN JG. 1919 Im Widerstand Verhaftet 17.4.1942 Wehrkraftzersetzung Berlin-Plötzensee Hingerichtet 9.3.1943",
+        memorial: "stolperstein",
+        name: "Rosa Hofmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Moserstraße",
+        "person:date_of_birth": "1919-05-27",
+        "person:date_of_death": "1943-03-09",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hofmann_Rosa",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0144703, 47.8029993],
+      },
+      id: "node/2532239137",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239143",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/66.jpg",
+        inscription:
+          "Hier wohnte RUDOLF SMOLIK JG. 1902 Im Widerstand Verhaftet 24.2.1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Rudolf Smolik",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Maxglaner Hauptstraße",
+        "person:date_of_birth": "1902-04-14",
+        "person:date_of_death": "1943-07-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Smolik_Rudolf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0241308, 47.7965449],
+      },
+      id: "node/2532239143",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239145",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/67.jpg",
+        inscription:
+          "Hier wohnte SUSANNE LEGERER JG. 1919 Im Widerstand Verhaftet 18.6.1940 Deportiert 1940 Ravensbrück Ermordet 4.4.1941",
+        memorial: "stolperstein",
+        name: "Susanne Legerer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Josef Schwer Gasse",
+        "person:date_of_birth": "1919-09-16",
+        "person:date_of_death": "1941-04-04",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Legerer_Susanne",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0252548, 47.7971638],
+      },
+      id: "node/2532239145",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532239146",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/215.jpg",
+        inscription:
+          "Hier wohnte WILHELM JAKOB JG. 1914 Verhaftet 21.5.1938 Deportiert 27.6.1938 Dachau 1939 Mauthausen Ermordet 17.2.1940",
+        memorial: "stolperstein",
+        name: "Wilhelm Jakob",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Ganshoferstraße",
+        "person:date_of_birth": "1914-04-27",
+        "person:date_of_death": "1940-02-17",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Jakob_Wilhelm",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0254557, 47.8017967],
+      },
+      id: "node/2532239146",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379231",
+        "addr:street": "Kreuzstraße",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/59.jpg",
+        inscription:
+          "Hier wohnte ANNA REINDL JG. 1903 Im Widerstand Verhaftet 26.1.1942 Deportiert März 1942 Auschwitz Ermordet 24.8.1942",
+        memorial: "stolperstein",
+        name: "Anna Reindl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1903-05-14",
+        "person:date_of_death": "1942-08-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reindl_Anna",
+        wikimedia_commons: "File:Stolperstein für Anna Reindl (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0457825, 47.8194632],
+      },
+      id: "node/2532379231",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379236",
+        "addr:street": "Kreuzstraße",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/57.jpg",
+        inscription:
+          "Hier wohnte ANTON REINDL JG. 1903 Im Widerstand Verhaftet 26.1.1942 Zuchthaus München-Stadelheim Hingerichtet 8.7.1943",
+        memorial: "stolperstein",
+        name: "Anton Reindl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1903-12-18",
+        "person:date_of_death": "1943-07-08",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reindl_Anton",
+        wikimedia_commons: "File:Stolperstein für Anton Reindl (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0458258, 47.8194609],
+      },
+      id: "node/2532379236",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379239",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/189.jpg",
+        inscription:
+          "Hier wohnte EMIL WIELAND JG. 1914 Verhaftet 3.10.1944 Deportiert 27.12.1944 Dachau 13. Eisenbahn-Baubrigade Tot Februar/März 1945",
+        memorial: "stolperstein",
+        name: "Emil Wieland",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "32",
+        "object:postcode": "5020",
+        "object:street": "Itzlinger Hauptstraße",
+        "person:date_of_birth": "1914-01-07",
+        "person:date_of_death": "1945",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wieland_Emil",
+        wikimedia_commons: "File:Stolperstein für Emil Wieland (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.045703, 47.8220381],
+      },
+      id: "node/2532379239",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379242",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/60.jpg",
+        inscription:
+          "Hier wohnte ENGELBERT WEISS JG. 1891 Im Widerstand Verhaftet 5.2.1942 Zuchthaus Berlin-Plötzensee Hingerichtet 7.4.1944",
+        memorial: "stolperstein",
+        name: "Engelbert Weiss",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Engelbert-Weiß-Weg",
+        "person:date_of_birth": "1891-04-30",
+        "person:date_of_death": "1944-04-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weiss_Engelbert",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454103, 47.8153104],
+      },
+      id: "node/2532379242",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379247",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/167.jpg",
+        memorial: "stolperstein",
+        name: "Ernestine Muik",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Muik_Ernestine",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0404608, 47.8104166],
+      },
+      id: "node/2532379247",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379250",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/238.jpg",
+        inscription:
+          "Hier wohnte ERNST-PAUL STOIBER JG. 1922 Im Widerstand Verhaftet 16.1.1942 Zuchthaus München-Stadelheim Hingerichtet 10.6.1943",
+        memorial: "stolperstein",
+        name: "Ernst-Paul Stoiber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Fanny-von-Lehnert-Straße",
+        "person:date_of_birth": "1922-05-10",
+        "person:date_of_death": "1943-06-10",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stoiber_Ernst-Paul",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443866, 47.8157216],
+      },
+      id: "node/2532379250",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379253",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/255.jpg",
+        inscription:
+          "Hier wohnte FRANZ ASCHENBERGER JG. 1898 Im Widerstand Verhaftet 12.2.1942 Zuchthaus München-Stadelheim Hingerichtet 11.5.1943",
+        memorial: "stolperstein",
+        name: "Franz Aschenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "67",
+        "object:postcode": "5020",
+        "object:street": "Itzlinger Hauptstraße",
+        "person:date_of_birth": "1898-07-11",
+        "person:date_of_death": "1943-05-11",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-05-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Aschenberger_Franz",
+        wikimedia_commons:
+          "File:Salzburg - Itzling - Itzlinger Hauptstraße Stolperstein Aschenberger - 2019 07 04.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0399317, 47.824464],
+      },
+      id: "node/2532379253",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379258",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/207.jpg",
+        inscription:
+          "Hier wohnte FRANZ OFNER JG. 1921 Im Widerstand Verhaftet 16.1.1942 Zuchthaus München-Stadelheim Hingerichtet 15.7.1943",
+        memorial: "stolperstein",
+        name: "Franz Ofner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "22",
+        "object:postcode": "5020",
+        "object:street": "Itzlinger Hauptstraße",
+        "person:date_of_birth": "1921-07-28",
+        "person:date_of_death": "1943-07-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Ofner_Franz",
+        wikimedia_commons: "File:Stolperstein für Franz Ofner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.044361, 47.8210614],
+      },
+      id: "node/2532379258",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379260",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/86.jpg",
+        inscription:
+          "Hier wohnte FANNY MATTSEEROIDER JG. 1892 Deportiert 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Franziska Mattseeroider",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "53",
+        "object:postcode": "5020",
+        "object:street": "Elisabethstraße",
+        "person:date_of_birth": "1892-12-28",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mattseeroider_Franziska",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0441539, 47.8170742],
+      },
+      id: "node/2532379260",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379263",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/169.jpg",
+        inscription:
+          "Hier wohnte HERMANN RUBENKES JG. 1901 Deportiert 25.6.1938 Dachau 1940 Buchenwald Ermordet 12.3.1942 Bernburg/Saale",
+        memorial: "stolperstein",
+        name: "Hermann Rubenkes",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Werkstättenstraße",
+        "person:date_of_birth": "1901-07-10",
+        "person:date_of_death": "1942-03-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rubenkes_Hermann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0465485, 47.8199709],
+      },
+      id: "node/2532379263",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379264",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/190.jpg",
+        inscription:
+          "Hier wohnte HUGO ROSENBERG JG. 1894 Vertrieben 1838 Flucht Polen Schicksal unbekannt",
+        memorial: "stolperstein",
+        name: "Hugo Rosenberg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "28",
+        "object:postcode": "5020",
+        "object:street": "Josef Mayburger Kai",
+        "person:date_of_birth": "1894-05-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rosenberg_Hugo",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Josef-Mayburger-Kai 28 - Stolperstein Hugo Rosenberg.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0374952, 47.8135337],
+      },
+      id: "node/2532379264",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379265",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/82.jpg",
+        inscription:
+          "Hier wohnte JOHANN BELOUSOV JG. 1938 Eingewiesen 25.7.1941 Heilanstalt Eglfing-Haar Ermordet 16.8.1941",
+        memorial: "stolperstein",
+        name: "Johann Belousov",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Werkstättenstraße",
+        "person:date_of_birth": "1938-10-16",
+        "person:date_of_death": "1941-08-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Belousov_Johann",
+        wikimedia_commons:
+          "File:Stolperstein für Johann Belousov (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0461836, 47.8199988],
+      },
+      id: "node/2532379265",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379266",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/52.jpg",
+        inscription:
+          "Hier wohnte JOHANN BERMOSER JG. 1903 Im Widerstand Verhaftet 1942 Tot an Haftfolgen 20.11.1944",
+        memorial: "stolperstein",
+        name: "Johann Bermoser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Schopperstraße",
+        "person:date_of_birth": "1903-08-18",
+        "person:date_of_death": "1944-11-20",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bermoser_Johann",
+        wikimedia_commons:
+          "File:Stolperstein für Johann Bermoser (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0486196, 47.8223374],
+      },
+      id: "node/2532379266",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379270",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/266.jpg",
+        inscription:
+          "Hier wohnte JOHANN ILLNER JG. 1908 Im Widerstand Verhaftet 18.1.1942 Zuchthaus München-Stadelheim Hingerichtet 19.4.1943",
+        memorial: "stolperstein",
+        name: "Johann Illner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Stauffenstraße",
+        "person:date_of_birth": "1908-12-08",
+        "person:date_of_death": "1943-04-19",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-05-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Illner_Johann",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Stauffenstraße 10 - Stolperstein Johann Illner.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0398676, 47.813031],
+      },
+      id: "node/2532379270",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379278",
+        "addr:street": "Kreuzstraße",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/257.jpg",
+        inscription:
+          "Hier wohnte JOSEF THALHAMMER JG. 1902 Im Widerstand Verhaftet 8.4.1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Josef Thalhammer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1902-07-28",
+        "person:date_of_death": "1943-07-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-05-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Thalhammer_Josef",
+        wikimedia_commons:
+          "File:Stolperstein für Josef Thalhammer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454968, 47.8194737],
+      },
+      id: "node/2532379278",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379280",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/258.jpg",
+        inscription:
+          "Hier wohnte JOSEF WARTINGER JG. 1897 Im Widerstand Verhaftet Jan. 1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Josef Wartinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Muhrgasse",
+        "person:date_of_birth": "1897-02-06",
+        "person:date_of_death": "1943-07-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-05-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wartinger_Josef",
+        wikimedia_commons:
+          "File:Stolperstein für Josef Wartinger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0434152, 47.8240229],
+      },
+      id: "node/2532379280",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379285",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/44.jpg",
+        inscription:
+          "Hier wohnte KARL EMMINGER JG. 1878 Im Widerstand Verhaftet 18.11.1942 Tot an Haftfolgen 3.5.1944",
+        memorial: "stolperstein",
+        name: "Karl Emminger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Kreuzstraße",
+        "person:date_of_birth": "1878-09-26",
+        "person:date_of_death": "1944-05-03",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Emminger_Karl",
+        wikimedia_commons: "File:Stolperstein für Karl Emminger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0468752, 47.8193516],
+      },
+      id: "node/2532379285",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379287",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/41.jpg",
+        inscription:
+          "Hier wohnte KARL REITMAIER JG. 1913 Dienst an der Waffe verweigert Erschossen 27.6.1942 in Glanegg",
+        memorial: "stolperstein",
+        name: "Karl Reitmaier",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "74",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        "person:date_of_birth": "1913-06-26",
+        "person:date_of_death": "1942-06-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reitmaier_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410293, 47.8182473],
+      },
+      id: "node/2532379287",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379293",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/51.jpg",
+        inscription:
+          "Hier wohnte KARL SCHALLMOSER JG. 1906 Im Widerstand Verhaftet 27.1.1942 Zuchthaus München-Stadelheim Hingerichtet 22.7.1943",
+        memorial: "stolperstein",
+        name: "Karl Schallmoser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Schopperstraße",
+        "person:date_of_birth": "1906-10-08",
+        "person:date_of_death": "1943-07-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schallmoser_Karl",
+        wikimedia_commons:
+          "File:Stolperstein für Karl Schallmoser (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0486819, 47.822306],
+      },
+      id: "node/2532379293",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379298",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/192.jpg",
+        memorial: "stolperstein",
+        name: "Leah Eisenberg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Lessingstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Eisenberg_Leah",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.041287, 47.8097339],
+      },
+      id: "node/2532379298",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379300",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/116.jpg",
+        inscription:
+          "Hier wohnte NIKOLAUS FRAUNHOFER JG. 1914 Zeuge Jehovas Verhaftet 5.12.1938 Deportiert 19.2.1940 Sachsenhausen Ermordet 22.6.1940",
+        memorial: "stolperstein",
+        name: "Nikolaus Fraunhofer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Theodebertstraße",
+        "person:date_of_birth": "1914-11-29",
+        "person:date_of_death": "1940-06-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fraunhofer_Nikolaus",
+        wikimedia_commons:
+          "File:Stolperstein für Nikolaus Fraunhofer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0423847, 47.8193053],
+      },
+      id: "node/2532379300",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379301",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/109.jpg",
+        inscription:
+          "Hier wohnte MARIA PRODINGER JG. 1914 Deportiert 16.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Prodinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Stauffenstraße",
+        "person:date_of_birth": "1914-09-09",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-27",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Prodinger_Maria",
+        wikimedia_commons: "File:StolpersteinSalzburgProdingerMaria.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0411264, 47.8130722],
+      },
+      id: "node/2532379301",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379305",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/52.jpg",
+        inscription:
+          "Hier wohnte ROSA BERMOSER geb. Schallmoser JG. 1900 Im Widerstand Deportiert 1942 Auschwitz Ermordet 14.10.1942",
+        memorial: "stolperstein",
+        name: "Rosa Bermoser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "20",
+        "object:postcode": "5020",
+        "object:street": "Schopperstraße",
+        "person:date_of_birth": "1900-01-17",
+        "person:date_of_death": "1942-10-13",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bermoser_Rosa",
+        wikimedia_commons: "File:Stolperstein für Rosa Bermoser (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0486525, 47.8223199],
+      },
+      id: "node/2532379305",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379308",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/49.jpg",
+        inscription:
+          "Hier wohnte RUDOLF BEER JG. 1901 Deportiert 31.8.1938 Dachau 1939 Mauthausen Ermordet 17.4.1940",
+        memorial: "stolperstein",
+        name: "Rudolf Beer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Salzburger Schützenstraße",
+        "person:date_of_birth": "1901-10-02",
+        "person:date_of_death": "1940-04-17",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Beer_Rudolf",
+        wikimedia_commons: "File:Stolperstein für Rudolf Beer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0468897, 47.8187341],
+      },
+      id: "node/2532379308",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379311",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/191.jpg",
+        inscription:
+          "Hier wohnte RUDOLF FRIEDLÄNDER JG. 1876 Deportiert 9.4.1942 Ghetto Izbica Ermordet 1942",
+        memorial: "stolperstein",
+        name: "Rudolf Friedländer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "50a",
+        "object:postcode": "5020",
+        "object:street": "Josef-Mayburger-Kai",
+        "person:date_of_birth": "1876-02-26",
+        "person:date_of_death": "1942",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Friedlaender_Rudolf",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0373571, 47.8151039],
+      },
+      id: "node/2532379311",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379316",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/267.jpg",
+        inscription:
+          "Hier wohnte RUDOLF HARTL JG. 1909 Im Widerstand Verhaftet 2.4.1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Rudolf Hartl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "49",
+        "object:postcode": "5020",
+        "object:street": "Elisabethstraße",
+        "person:date_of_birth": "1909-09-04",
+        "person:date_of_death": "1943-07-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-05-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hartl_Rudolf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0437976, 47.8167058],
+      },
+      id: "node/2532379316",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532379318",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/85.jpg",
+        inscription:
+          "Hier wohnte THERESIA SCHAMBERGER geb. Eichinger JG. 1872 Deportiert 21.5.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Theresia Schamberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "17",
+        "object:postcode": "5020",
+        "object:street": "Salzburger Schützenstraße",
+        "person:date_of_birth": "1872-05-27",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schamberger_Theresia",
+        wikimedia_commons:
+          "File:Stolperstein für Theresia Schamberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0469503, 47.8187306],
+      },
+      id: "node/2532379318",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423927",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        inscription:
+          "AGATHE BAUMANN Geb. 1941 im Lager Maxglan Deportiert 1943 Auschwitz Ermordet 12.5.1943",
+        memorial: "stolperstein",
+        name: "Agathe Baumann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1941",
+        "person:date_of_death": "1943-05-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Baumann_Agathe",
+        wikimedia_commons:
+          "File:Stolperstein für Agathe Baumann (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092773, 47.778627],
+      },
+      id: "node/2532423927",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423933",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Agathe Herzenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Herzenberger_Agathe",
+        wikimedia_commons:
+          "File:Stolperstein für Agathe Herzenberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092536, 47.7786078],
+      },
+      id: "node/2532423933",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423936",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Alban Lutz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lutz_Alban",
+        wikimedia_commons: "File:Stolperstein für Alban Lutz (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.009253, 47.7786244],
+      },
+      id: "node/2532423936",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423942",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/53.jpg",
+        inscription:
+          "Hier wohnte ANNA PRÄHAUSER geb. Pichler JG. 1902 Im Widerstand Deportiert Juni 1942 Auschwitz Ermordet 16.10.1942",
+        memorial: "stolperstein",
+        name: "Anna Prähauser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "91",
+        "object:postcode": "5020",
+        "object:street": "Vogelweidstraße",
+        "person:date_of_birth": "1902-08-06",
+        "person:date_of_death": "1942-10-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Praehauser_Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0529965, 47.819271],
+      },
+      id: "node/2532423942",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423944",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/125.jpg",
+        inscription:
+          "Hier wohnte ANNA WEGSCHEIDER geb. Hochgründler JG. 1904 Zeugin Jehovas Kriegsdienst verweigert Deportiert 28.12.1939 KZ Ravensbrück Ermordet 8.6.1942",
+        memorial: "stolperstein",
+        name: "Anna Wegscheider",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Landstraße",
+        "person:date_of_birth": "1904-09-24",
+        "person:date_of_death": "1942-06-08",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wegscheider_Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0556368, 47.8266371],
+      },
+      id: "node/2532423944",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423949",
+        historic: "memorial",
+        image: "https://www.stolpersteine-salzburg.at/wp-content/uploads/5.jpg",
+        inscription:
+          "Hier wohnte ANTON SCHUBERT JG. 1910 Verhaftet 1942 Enthauptet 22.7.1943 München-Stadelheim",
+        memorial: "stolperstein",
+        name: "Anton Schubert",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Stadlhofstraße",
+        "person:date_of_birth": "1910-09-19",
+        "person:date_of_death": "1943-07-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schubert_Anton",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0575389, 47.8222019],
+      },
+      id: "node/2532423949",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423954",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Antonia Krems",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Krems_Antonia",
+        wikimedia_commons: "File:Stolperstein für Antonia Krems (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092725, 47.7786047],
+      },
+      id: "node/2532423954",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423959",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/20.jpg",
+        inscription:
+          "Hier wohnte AUGUST STRASSER JG. 1895 Deportiert 26.8.1944 Mauthausen Ermordet 7.2.1945",
+        memorial: "stolperstein",
+        name: "August Strasser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "93",
+        "object:postcode": "5020",
+        "object:street": "Vogelweidstraße",
+        "person:date_of_birth": "1895-06-22",
+        "person:date_of_death": "1945-02-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Strasser_August",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0529615, 47.8195091],
+      },
+      id: "node/2532423959",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423961",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        inscription:
+          "ANTON EBERLE Geb. 1940 im Lager Maxglan Deportiert 1943 Auschwitz Ermordet 23.5.1943",
+        memorial: "stolperstein",
+        name: "Eberle Anton",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1940",
+        "person:date_of_death": "1943-05-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Eberle_Anton",
+        wikimedia_commons: "File:Stolperstein für Anton Eberle (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092398, 47.7786155],
+      },
+      id: "node/2532423961",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423964",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Engelbert Raiminius",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Raiminius_Engelbert",
+        wikimedia_commons:
+          "File:Stolperstein für Engelbert Raiminius (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092518, 47.778639],
+      },
+      id: "node/2532423964",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423968",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/125.jpg",
+        inscription:
+          "Hier wohnte FRANZ MITTENDORFER JG. 1903 Zeuge Jehovas Kriegsdienst verweigert Enthauptet 6.1.1940 Berlin-Plötzensee",
+        memorial: "stolperstein",
+        name: "Franz Mittendorfer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Landstraße",
+        "person:date_of_birth": "1903-09-10",
+        "person:date_of_death": "1940-01-06",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mittendorfer_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0556201, 47.8266259],
+      },
+      id: "node/2532423968",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423969",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        inscription:
+          "FRIEDA BAUMANN Geb. 1939 im Lager Maxglan Deportiert 1943 Auschwitz Ermordet 31.10.1943",
+        memorial: "stolperstein",
+        name: "Frieda Baumann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1939",
+        "person:date_of_death": "1943-10-31",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2008-08-28",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Baumann_Frieda",
+        wikimedia_commons:
+          "File:Stolperstein für Frieda Baumann (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092898, 47.7786339],
+      },
+      id: "node/2532423969",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423972",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        inscription:
+          "GUSTAV EBERLE Geb. 1943 im Lager Maxglan Deportiert 1943 Auschwitz Ermordet 23.4.1943",
+        memorial: "stolperstein",
+        name: "Gustav Eberle",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1943",
+        "person:date_of_death": "1943-04-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Eberle_Gustav",
+        wikimedia_commons: "File:Stolperstein für Gustav Eberle (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092296, 47.7786078],
+      },
+      id: "node/2532423972",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423982",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/54.jpg",
+        inscription:
+          "Hier wohnte HEINRICH AUER JG. 1909 Im Widerstand Verhaftet 1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Heinrich Auer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "91",
+        "object:postcode": "5020",
+        "object:street": "Vogelweidstraße",
+        "person:date_of_birth": "1909-09-21",
+        "person:date_of_death": "1943-07-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Auer_Heinrich",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0529923, 47.8192943],
+      },
+      id: "node/2532423982",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532423994",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Helmuth Lichtenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lichtenberger_Helmuth",
+        wikimedia_commons:
+          "File:Stolperstein für Helmuth Lichtenberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092436, 47.7785981],
+      },
+      id: "node/2532423994",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424002",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Jakob Reinhardt",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reinhardt_Jakob",
+        wikimedia_commons:
+          "File:Stolperstein für Jakob Reinhardt (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.009267, 47.7786168],
+      },
+      id: "node/2532424002",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424009",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/119.jpg",
+        inscription:
+          "Hier wohnte JOHANN PICHLER JG. 1899 Zeuge Jehovas Kriegsdienst verweigert Erschossen 26.9.1938 in Glanegg",
+        memorial: "stolperstein",
+        name: "Johann Pichler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Bachwinkelweg",
+        "person:date_of_birth": "1899-11-15",
+        "person:date_of_death": "1938-09-26",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Pichler_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.064947, 47.825539],
+      },
+      id: "node/2532424009",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424016",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/195.jpg",
+        inscription:
+          "Hier wohnte JOSEF EGGER JG. 1891 Deportiert 5.10.1940 Dachau Ermordet 5.4.1941",
+        memorial: "stolperstein",
+        name: "Josef Egger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Meierhofweg",
+        "person:date_of_birth": "1891-03-08",
+        "person:date_of_death": "1941-04-05",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Egger_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0564965, 47.8215924],
+      },
+      id: "node/2532424016",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424025",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Josef Krems",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Krems_Josef",
+        wikimedia_commons: "File:Stolperstein für Josef Krems (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092635, 47.7786329],
+      },
+      id: "node/2532424025",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424034",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/125.jpg",
+        inscription:
+          "Hier wohnte JOSEF WEGSCHEIDER JG. 1897 Zeuge Jehovas Kriegsdienst verweigert Erschossen 26.9.1939 in Glanegg",
+        memorial: "stolperstein",
+        name: "Josef Wegscheider",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Landstraße",
+        "person:date_of_birth": "1897-09-28",
+        "person:date_of_death": "1939-09-26",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2007-08-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wegscheider_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0556507, 47.8266493],
+      },
+      id: "node/2532424034",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424036",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Juliana Krems",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Krems_Juliana",
+        wikimedia_commons: "File:Stolperstein für Juliana Krems (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092774, 47.7786408],
+      },
+      id: "node/2532424036",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424043",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Katharina Kugler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kugler_Katharina",
+        wikimedia_commons:
+          "File:Stolperstein für Katharina Kugler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092283, 47.7786229],
+      },
+      id: "node/2532424043",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424057",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Maria Kerndlbacher",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kerndlbacher_Maria",
+        wikimedia_commons:
+          "File:Stolperstein für Maria Kerndlbacher (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092839, 47.7786141],
+      },
+      id: "node/2532424057",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424061",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/168.jpg",
+        inscription:
+          "Hier wohnte MAXIMILIAN HERMANN JG. 1888 Verhaftet 28.2.1942 Deportiert 18.5.1942 Flossenbürg Ermordet 29.5.1942",
+        memorial: "stolperstein",
+        name: "Maximilian Hermann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Baron-Schwarz-Park",
+        "person:date_of_birth": "1888-01-03",
+        "person:date_of_death": "1942-05-29",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hermann_Maximilian",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0547492, 47.8220933],
+      },
+      id: "node/2532424061",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424063",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Stefan Leimberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Leimberger_Stefan",
+        wikimedia_commons:
+          "File:Stolperstein für Stefan Leimberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092404, 47.7786315],
+      },
+      id: "node/2532424063",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424066",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Walter Reinhardt",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reinhardt_Walter",
+        wikimedia_commons:
+          "File:Stolperstein für Walter Reinhardt (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092173, 47.778614],
+      },
+      id: "node/2532424066",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532424069",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/36.jpg",
+        memorial: "stolperstein",
+        name: "Wilhelm Raiminius",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Schwarzgrabenweg, Salzburg",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Raiminius_Wilhelm",
+        wikimedia_commons:
+          "File:Stolperstein für Wilhelm Raiminius (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092636, 47.7786477],
+      },
+      id: "node/2532424069",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459149",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/83.jpg",
+        inscription:
+          "Hier wohnte BALTHASAR WÖSS JG. 1892 Deportiert 21.5.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Balthasar Wöss",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Thumegger Bezirk",
+        "person:date_of_birth": "1892-11-28",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Woess_Balthasar",
+        wikimedia_commons:
+          "File:Stolperstein für Balthasar Wöss (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0444911, 47.7850773],
+      },
+      id: "node/2532459149",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459150",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/158.jpg",
+        inscription:
+          "Hier wohnte EDUARD BIGLER JG. 1868 Deportiert 1944 Bergen-Belsen Ermordet 4.6.1944",
+        memorial: "stolperstein",
+        name: "Eduard Bigler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "60",
+        "object:postcode": "5020",
+        "object:street": "Schwarzenbergpromenade",
+        "person:date_of_birth": "1868-03-15",
+        "person:date_of_death": "1944-06-04",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bigler_Eduard",
+        wikimedia_commons: "File:Stolperstein für Eduard Bigler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0895569, 47.781647],
+      },
+      id: "node/2532459150",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459151",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/212.jpg",
+        inscription:
+          "Hier wohnte GEORG PRODINGER JG. 1924 Kriegsdienst verweigert Zuchthaus München-Stadelheim Hingerichtet 25.1.1944",
+        memorial: "stolperstein",
+        name: "Georg Prodinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "35",
+        "object:postcode": "5020",
+        "object:street": "Leopoldskronstraße",
+        "person:date_of_birth": "1924-06-24",
+        "person:date_of_death": "1944-01-25",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Prodinger_Georg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0340541, 47.791132],
+      },
+      id: "node/2532459151",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459152",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/42.jpg",
+        inscription:
+          "Hier wohnte JOSEF REISCHENBÖCK Jg. 1890 Im Widerstand verhaftet 14.3.1942 Zuchthaus München-Stadelheim Hingerichtet 7.5.1943",
+        memorial: "stolperstein",
+        name: "Josef Reischenböck",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "35",
+        "object:postcode": "5020",
+        "object:street": "Fürstenweg",
+        "person:date_of_birth": "1890-03-23",
+        "person:date_of_death": "1943-05-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reischenboeck_Josef",
+        wikimedia_commons:
+          "File:Stolperstein für Josef Reischenböck (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0640405, 47.7635546],
+      },
+      id: "node/2532459152",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459153",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/118.jpg",
+        inscription:
+          "Hier wohnte JOSEF SCHÖFEGGER JG. 1906 Zeuge Jehovas Kriegsdienst verweigert verhaftet 24.11.1939 1940 Sachsenhausen Ermordet 15.4.1940",
+        memorial: "stolperstein",
+        name: "Josef Schöfegger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "120",
+        "object:postcode": "5020",
+        "object:street": "Nonntaler Hauptstraße",
+        "person:date_of_birth": "1906-08-04",
+        "person:date_of_death": "1940-04-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2010-07-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schoefegger_Josef",
+        wikimedia_commons:
+          "File:Stolperstein für Josef Schöfegger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0489208, 47.7818102],
+      },
+      id: "node/2532459153",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459154",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/185.jpg",
+        inscription:
+          "Hier wirkte MAX REINHARDT JG. 1873 Vertrieben 1938 Exil USA Tot 31.10.1943 New York",
+        memorial: "stolperstein",
+        name: "Max Reinhardt",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "56-58",
+        "object:postcode": "5020",
+        "object:street": "Leopoldskronstraße",
+        "person:date_of_birth": "1873-09-09",
+        "person:date_of_death": "1943-10-31",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        "subject:wikidata": "Q78639",
+        "subject:wikipedia": "de:Max Reinhardt",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reinhardt_Max",
+        wikidata: "Q43674751",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0372164, 47.7891002],
+      },
+      id: "node/2532459154",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2532459155",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/184.jpg",
+        inscription:
+          "Hier wirkte RICHARD METZL JG. 1870 Vertrieben 1938 Exil Frankreich Tot 31.10.1941 Paris",
+        memorial: "stolperstein",
+        name: "Richard Metzl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "56-58",
+        "object:postcode": "5020",
+        "object:street": "Leopoldskronstraße",
+        "person:date_of_birth": "1870-04-20",
+        "person:date_of_death": "1941-10-31",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Metzl_Richard",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0372586, 47.7891388],
+      },
+      id: "node/2532459155",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533794183",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/172.jpg",
+        inscription:
+          "Hier wohnte ADOLF ARON WEISS JG. 1874 Tot an Unterernährung in Salzburg 6.11.1944 Gruft der Vergessenen",
+        memorial: "stolperstein",
+        name: "Adolf Aron Weiss",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Vierthalerstraße",
+        "person:date_of_birth": "1874-07-31",
+        "person:date_of_death": "1944-11-06",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2012-03-23",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weiss_Adolf-Aron",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Adolf Aron Weiss (Vierthalerstraße 5).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.04932, 47.8054914],
+      },
+      id: "node/2533794183",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533794184",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "26",
+        "addr:postcode": "5020",
+        "addr:street": "Linzer Gasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/89.jpg",
+        inscription:
+          "Hier wohnte ELVIRA POSCH JG. 1912 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Elvira Posch",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1912-10-30",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-07",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Posch_Elvira",
+        wheelchair: "limited",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Elvira Posch - Linzer Gasse 26.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0463977, 47.8029544],
+      },
+      id: "node/2533794184",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857473",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/204.jpg",
+        inscription:
+          "Hier wohnte BALDUR TÜCHLER JG. 1941 Eingewiesen 17.9.1942 Heilanstalt Eglfing-Haar Tot 28.10.1942",
+        memorial: "stolperstein",
+        name: "Baldur Dagobert Tüchler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Dornberggasse",
+        "person:date_of_birth": "1941-12-28",
+        "person:date_of_death": "1942-10-28",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Tuechler_Baldur-Dagobert",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0215631, 47.8171442],
+      },
+      id: "node/2533857473",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857474",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/199.jpg",
+        inscription:
+          "Hier wohnte EMMA NEUMAYR JG. 1878 Deportiert 16.4.1941 'Schloss Hartheim'",
+        memorial: "stolperstein",
+        name: "Emma Neumayr",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "34",
+        "object:postcode": "5020",
+        "object:street": "Ignaz-Harrer-Straße",
+        "person:date_of_birth": "1878-10-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neumayr_Emma",
+        wikimedia_commons: "File:Stolperstein für Emma Neumayr (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0308514, 47.8113701],
+      },
+      id: "node/2533857474",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857475",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/73.jpg",
+        inscription:
+          "Hier wohnte FRANZ PÖTTINGER JG. 1907 Im Widerstand Verhaftet 1941 Hingerichtet 19.4.1943 München-Stadelheim",
+        memorial: "stolperstein",
+        name: "Franz Pöttinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Weiserhofstraße",
+        "person:date_of_birth": "1907-01-08",
+        "person:date_of_death": "1943-04-19",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2009-06-22",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Poettinger_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0477668, 47.8124567],
+      },
+      id: "node/2533857475",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857476",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/202.jpg",
+        inscription:
+          "Hier wohnte HELMUT ZÖLLNER JG. 1943 Eingewiesen 16.12.1943 Heilanstalt am Spiegelgrund Ermordet 18.1.1944",
+        memorial: "stolperstein",
+        name: "Helmut Zöllner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Thomas-Bernhard-Straße",
+        "person:date_of_birth": "1943-10-20",
+        "person:date_of_death": "1944-01-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Zoellner_Helmut",
+        wikimedia_commons:
+          "File:Stolperstein für Helmut Zöllner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0290334, 47.81544],
+      },
+      id: "node/2533857476",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857477",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/200.jpg",
+        inscription:
+          "Hier wohnte INGEBORG ORTNER JG. 1925 Deportiert 16.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Ingeborg Ortner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Thomas-Bernhard-Straße",
+        "person:date_of_birth": "1925-03-01",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Ortner_Ingeborg",
+        wikimedia_commons:
+          "File:Stolperstein für Ingeborg Ortner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0289521, 47.815405],
+      },
+      id: "node/2533857477",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857478",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/208.jpg",
+        inscription:
+          "Hier wohnte JOHANN REITER JG. 1898 Kriegsdienst verweigert Erschossen 25.7.1940 Wien-Kagran",
+        memorial: "stolperstein",
+        name: "Johann Reiter",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Thomas-Bernhard-Straße",
+        "person:date_of_birth": "1898-10-28",
+        "person:date_of_death": "1940-07-25",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Reiter_Johann",
+        wikimedia_commons: "File:Stolperstein für Johann Reiter (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0289736, 47.8154173],
+      },
+      id: "node/2533857478",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857479",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/259.jpg",
+        memorial: "stolperstein",
+        name: "Johann Wagner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wagner_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0403782, 47.8097214],
+      },
+      id: "node/2533857479",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857480",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/201.jpg",
+        inscription:
+          "Hier wohnte ROSINA STIEGER geb. Pitter JG. 1909 Deportiert 18.4.1941 'Schloss Hartheim' Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rosina Stieger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Thomas-Bernhard-Straße",
+        "person:date_of_birth": "1909-02-14",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2013-04-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stieger_Rosina",
+        wikimedia_commons:
+          "File:Stolperstein für Rosina Stieger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0290027, 47.8154287],
+      },
+      id: "node/2533857480",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2533857481",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/63.jpg",
+        inscription:
+          "Hier wohnte THERESIA FLACHBERGER JG. 1911 Im Widerstand Verhaftet 13.4.1944 Wehrkraftzersetzung Zuchthaus Aichach Ermordet 24.1.1945",
+        memorial: "stolperstein",
+        name: "Therese Flachberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Gaswerkgasse",
+        "person:date_of_birth": "1911-11-15",
+        "person:date_of_death": "1945-01-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2011-07-06",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Flachberger_Therese",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0331229, 47.8110389],
+      },
+      id: "node/2533857481",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994404",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Anna Sagl",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5400",
+        "object:street": "Postgasse",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/das-ist-ein-titeltext/",
+        wikimedia_commons: "File:Stolperstein für Anna Sagl (Hallein).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0935086, 47.6821603],
+      },
+      id: "node/2536994404",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994411",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Antonie Brunauer",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5400",
+        "object:street": "Schöndorferplatz",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/brunauer-antonie/",
+        wikimedia_commons: "File:Stolperstein für Antonie Brunauer.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0919016, 47.6817582],
+      },
+      id: "node/2536994411",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994417",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Edmund Molnar",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5400",
+        "object:street": "Molnarplatz",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/edmund-molnar/",
+        wikimedia_commons: "File:Stolperstein für Edmund Molnar.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0940476, 47.6809031],
+      },
+      id: "node/2536994417",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994423",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Georg Schnöll",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5400",
+        "object:street": "Khuenburggasse",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/georg-schnoll/",
+        wikimedia_commons: "File:Stolperstein für Georg Schnöll.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0917164, 47.6818595],
+      },
+      id: "node/2536994423",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994428",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Gertraud Pötzelsberger",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5400",
+        "object:street": "Schöndorferplatz",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/potzelsberger-gertraud/",
+        wikimedia_commons: "File:Stolperstein für Gertraud Pötzelsberger.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0918944, 47.6818453],
+      },
+      id: "node/2536994428",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994434",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Herbert Schmittner",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5400",
+        "object:street": "Salzgasse",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/schmittner-herbert/",
+        wikimedia_commons: "File:Stolperstein für Herbert Schmittner.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0943394, 47.682566],
+      },
+      id: "node/2536994434",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994438",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Johanna Schnöll",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5400",
+        "object:street": "Schöndorferplatz",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/johanna-schnoll/",
+        wikimedia_commons: "File:Stolperstein für Johanna Schnöll.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0919916, 47.6818054],
+      },
+      id: "node/2536994438",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994443",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Karl Strobl",
+        network: "Stolpersteine Hallein",
+        "object:city": "Hallein",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5400",
+        "object:street": "Wichtelhuberstraße",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/karl-strobl/",
+        wikimedia_commons: "File:Stolperstein für Karl Strobl (Hallein).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0914855, 47.6830262],
+      },
+      id: "node/2536994443",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2536994448",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Ursula Sandgathe",
+        network: "Stolpersteine Hallein",
+        "object:city": "Bad Dürrnberg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5422",
+        "object:street": "Rumpelgasse",
+        source: "stolpersteine-hallein.at",
+        website: "https://stolpersteine-hallein.at/ursula-sandgathe/",
+        wikimedia_commons: "File:Stolperstein für Ursula Sandgathe.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0904914, 47.6604099],
+      },
+      id: "node/2536994448",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2554231759",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Hl. Johannes Nepomuk",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0190308, 47.804637],
+      },
+      id: "node/2554231759",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2627098201",
+        historic: "memorial",
+        name: "Gedenkstätte",
+        note: "Gedenkstätte zur Erinnerung an das Ende des Todesmarsches aus dem Regensburger Aussenlager des KZ Flossenbürg",
+        source: "survey",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9322049, 47.9367272],
+      },
+      id: "node/2627098201",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2646067523",
+        historic: "memorial",
+        name: "Mahnmal",
+        salzburg_wiki:
+          "http://www.salzburg.com/wiki/index.php/Mahnmal_f%C3%BCr_die_ungenannten_Opfer_und_Verfolgten_des_20._Jahrhunderts",
+        wikimedia_commons:
+          "File:Memorial for unnamed victims on cemetery Maxglan in district Maxglan, Salzburg, Austria PNr°1137.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0141902, 47.8050041],
+      },
+      id: "node/2646067523",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2908236559",
+        historic: "memorial",
+        name: "Dorferneuerung Marktschellenberg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0460095, 47.6945682],
+      },
+      id: "node/2908236559",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948046529",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/309.jpg",
+        inscription:
+          "Rabbiner Dr. ADOLF ALTMANN JG. 1879 Flucht Holland 1938 Deportiert 25.2.1944 Theresienstadt 16.5.1944 Auschwitz Ermordet 7.7.1944",
+        memorial: "stolperstein",
+        name: "Adolf Altmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Lasserstraße",
+        "person:date_of_birth": "1879-09-08",
+        "person:date_of_death": "1944-07-07",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Altmann_Adolf",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Synagoge Stolpersteine - 2020 07 22-2.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0501601, 47.8076978],
+      },
+      id: "node/2948046529",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948046530",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/304.jpg",
+        inscription:
+          'Hier wohnte ALFRED SCHUECH JG. 1893 Deportiert 17.4.1941 "Schloss Hartheim" Ermordet',
+        memorial: "stolperstein",
+        name: "Alfred Schuech",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Imbergstiege",
+        "person:date_of_birth": "1893-04-11",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schuech_Alfred",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Alfred Schuech (Imbergstiege 4).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0457748, 47.8015524],
+      },
+      id: "node/2948046530",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948046531",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/302.jpg",
+        inscription:
+          'Hier wohnte ANNA PENK JG. 1885 Deportiert 16.4.1941 "Schloss Hartheim" Ermordet 1941',
+        memorial: "stolperstein",
+        name: "Anna Penk",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "35",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1885-07-26",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Penk_Anna",
+        wikimedia_commons: "File:Stolperstein für Anna Penk (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.041121, 47.7999702],
+      },
+      id: "node/2948046531",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948046532",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/316.jpg",
+        inscription:
+          "Hier wohnte ANNA STUCHLY Geb. POLLAK JG. 1872 Deportiert 14.7.1942 Theresienstadt 21.9.1942 Treblinka Ermordet",
+        memorial: "stolperstein",
+        name: "Anna Stuchly",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        "person:date_of_birth": "1872-12-16",
+        "person:date_of_death": "1942-09-21",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stuchly_Anna",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Verlegestelle Rainerstrasse 2.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0425072, 47.8064186],
+      },
+      id: "node/2948046532",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047033",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "5020",
+        "addr:street": "Krotachgasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/308.jpg",
+        inscription:
+          "Hier wohnte ANNA VITZTHUM JG. 1900 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Anna Vitzthum",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1900-06-18",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Vitzthum_Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0496876, 47.7973446],
+      },
+      id: "node/2948047033",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047034",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/311.jpg",
+        inscription:
+          "Hier wohnte ANTON GRAF JG. 1899 im Widerstand verhaftet 3.4.1942 Landesgericht Wien Hingerichtet 21.7.1943",
+        memorial: "stolperstein",
+        name: "Anton Graf",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5023",
+        "object:street": "Minnesheimstraße",
+        "person:date_of_birth": "1899-06-14",
+        "person:date_of_death": "1943-07-21",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Graf_Anton",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Minnesheimstraße 2 - Stolperstein Anton Graf.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0678508, 47.8130146],
+      },
+      id: "node/2948047034",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047035",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/307.jpg",
+        inscription:
+          "Zwangsarbeiter BRONISLAW WEJA JG. 1898 Verhaftet 8.3.1944 Tot 9.3.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Bronislaw Weja",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Kapitelgasse",
+        "person:date_of_birth": "1898-09-18",
+        "person:date_of_death": "1944-03-09",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weja_Bronislaw",
+        wikimedia_commons:
+          "File:Stolperstein für Bronislaw Weja (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0479479, 47.7972862],
+      },
+      id: "node/2948047035",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047036",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/297.jpg",
+        inscription:
+          'Hier wohnte CHRISTIAN WALLINGER JG. 1910 Deportiert 17.4.1941 "Schloss Hartheim" Ermordet 1941',
+        memorial: "stolperstein",
+        name: "Christian Wallinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Gaisbergstraße",
+        "person:date_of_birth": "1910-01-07",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wallinger_Christian",
+        wikimedia_commons: "File:Stolperstein für Christian Wallinger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0718044, 47.8021265],
+      },
+      id: "node/2948047036",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047037",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/320.jpg",
+        inscription:
+          "Hier wohnte FRIEDA SCHABLIN Geb. LÖWIT JG 1900 Flucht 1938 Frankreich Interniert Drancy Deportiert 4.11.1942 Auschwitz Ermordet",
+        memorial: "stolperstein",
+        name: "Frieda Schablin",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Sonnleitenweg",
+        "person:date_of_birth": "1900-10-23",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schablin_Frieda",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0874024, 47.8038306],
+      },
+      id: "node/2948047037",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047038",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/305.jpg",
+        inscription:
+          "Hier wohnte HEINRICH GITTLER JG. 1915 im Widerstand verhaftet 18.1.1942 Hingerichtet 15.7.1943 München-Stadelheim",
+        memorial: "stolperstein",
+        name: "Heinrich Gittler",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Ulrike-Gschwandtner-Straße",
+        "person:date_of_birth": "1915-05-23",
+        "person:date_of_death": "1943-07-15",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gittler_Heinrich",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0557258, 47.7941456],
+      },
+      id: "node/2948047038",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047039",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "5020",
+        "addr:street": "Kaigasse",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/306.jpg",
+        inscription:
+          "Hier lebte versteckt HENRIETTE FLEISCHMANN JG. 1875 Tot 31.3.1943 Salzburg",
+        memorial: "stolperstein",
+        name: "Henriette Fleischmann",
+        network: "Stolpersteine Salzburg",
+        "person:date_of_birth": "1875-02-04",
+        "person:date_of_death": "1943-03-31",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fleischmann_Henriette",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0489472, 47.7976668],
+      },
+      id: "node/2948047039",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047040",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/329.jpg",
+        inscription:
+          "Hier wohnte HUBERT RANZENBERGER JG. 1901 Spanienkämpfer Deportiert 6.10.1941 Dachau 28.1.1944 Majdanek",
+        name: "Hubert Ranzenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Schallmooser Hauptstraße",
+        "person:date_of_birth": "1901-02-15",
+        "person:date_of_death": "1944-01-28",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Ranzenberger_Hubert",
+        wikimedia_commons:
+          "File:Stolperstein für Hubert Ranzenberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.050803, 47.8050648],
+      },
+      id: "node/2948047040",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047041",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/315.jpg",
+        inscription:
+          "Hier wohnte IRMA HERZ Geb. POLLAK JG. 1870 Deportiert 30.7.1942 Theresienstadt Ermordet 18.11.1942",
+        memorial: "stolperstein",
+        name: "Irma Herz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        "person:date_of_birth": "1870-05-11",
+        "person:date_of_death": "1942-11-18",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        "toilets:wheelchair": "no",
+        website: "https://www.stolpersteine-salzburg.at/stolperstein/Herz_Irma",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Verlegestelle Rainerstrasse 2.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0424965, 47.8064357],
+      },
+      id: "node/2948047041",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047042",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/301.jpg",
+        inscription:
+          'Hier wohnte JOSEF GEER JG. 1887 Deportiert 21.4.1941 "Schloss Hartheim" Ermordet 1941',
+        memorial: "stolperstein",
+        name: "Josef Geer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1887-03-12",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Geer_Josef",
+        wikimedia_commons: "File:Stolperstein für Josef Geer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0412916, 47.7999689],
+      },
+      id: "node/2948047042",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047043",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/295.jpg",
+        inscription:
+          'Hier wohnte JOSEF GRON JG. 1899 Deportiert 17.6.1938 Dachau Ermordet 22.1.1942 "Schloss Hartheim"',
+        name: "Josef Gron",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "21",
+        "object:postcode": "5020",
+        "object:street": "Bergstraße",
+        "person:date_of_birth": "1899-08-06",
+        "person:date_of_death": "1942-01-22",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gron_Josef",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg, Josef Gron (Bergstraße 21).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0453157, 47.8037018],
+      },
+      id: "node/2948047043",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047044",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/317.jpg",
+        inscription:
+          "Hier wohnte JOSEF WITTERNIGG JG. 1881 im Widerstand verhaftet Feb. 1934 Tot an Haftfolgen Salzburg 28.2.1937",
+        memorial: "stolperstein",
+        name: "Josef Witternigg",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Rainerstraße",
+        "person:date_of_birth": "1881-10-12",
+        "person:date_of_death": "1937-02-28",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Witternigg_Josef",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Verlegestelle Rainerstrasse 2.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0425197, 47.8063997],
+      },
+      id: "node/2948047044",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047045",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/300.jpg",
+        inscription:
+          "Hier wohnte JOSEFINE SCHNEIDER JG. 1906 Deportiert 24.2.1939 Ravensbrück Ermordet 7.4.1942 Bernburg/Saale",
+        memorial: "stolperstein",
+        name: "Josefine Schneider",
+        "name:ko": "조세핀 슈나이더",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1906-07-08",
+        "person:date_of_death": "1942-04-07",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schneider_Josefine",
+        wikimedia_commons:
+          "File:Stolperstein für Josefine Schneider (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0423224, 47.8000503],
+      },
+      id: "node/2948047045",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047046",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/314.jpg",
+        inscription:
+          "Hier wohnte Dr. KARL BIACK JG. 1900 im Widerstand verhaftet 20.3.1944 Hingerichtet 7.11.1944 München-Stadelheim",
+        memorial: "stolperstein",
+        name: "Karl Biack",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Prälat-Winkler-Straße",
+        "person:date_of_birth": "1900-09-12",
+        "person:date_of_death": "1944-11-07",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Biack_Karl",
+        wikimedia_commons:
+          "File:Stolperstein für Dr. Karl Biack (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0630325, 47.7957056],
+      },
+      id: "node/2948047046",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047047",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/296.jpg",
+        inscription:
+          "Hier wohnte KARL RINNERTHALER JG. 1885 Im Widerstand Verhaftet 23.11.1942 Zuchthaus Kaisheim Tot an Haftfolgen 28.1.1946",
+        memorial: "stolperstein",
+        name: "Karl Rinnerthaler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Franz-Josef-Kai",
+        "person:date_of_birth": "1885-05-15",
+        "person:date_of_death": "1946-01-28",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rinnerthaler_Karl",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein für Karl Rinnerthaler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0414224, 47.8012029],
+      },
+      id: "node/2948047047",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047048",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/322.jpg",
+        inscription:
+          "Hier wohnte KONRAD HERTZKA JG. 1911 Landesheilanstalt Uchtspringe Sachsen-Anhalt Tot 7.3.1942",
+        memorial: "stolperstein",
+        name: "Konrad Hertzka",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "18",
+        "object:postcode": "5020",
+        "object:street": "Wolf-Dietrich-Straße",
+        "person:date_of_birth": "1911-10-08",
+        "person:date_of_death": "1942-03-07",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hertzka_Konrad",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Konrad Hertzka - Wolf-Dietrich-Straße 18.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472341, 47.8060794],
+      },
+      id: "node/2948047048",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047049",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/310.jpg",
+        inscription:
+          "Hier wohnte KONRAD LORENZ JG. 1879 im Widerstand verhaftet Feb. 1942 Haftanstalt Salzburg Tot 15.4.1942",
+        memorial: "stolperstein",
+        name: "Konrad Lorenz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Lastenstraße",
+        "person:date_of_birth": "1879-11-24",
+        "person:date_of_death": "1942-04-15",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lorenz_Konrad",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0488682, 47.8150422],
+      },
+      id: "node/2948047049",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047050",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/299.jpg",
+        inscription:
+          'Hier wohnte MARIA RAUSCH JG. 1906 Deportiert 16.4.1941 "Schloss Hartheim" Ermordet 1941',
+        memorial: "stolperstein",
+        name: "Maria Rausch",
+        "name:ko": "마리아 라우스",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1906-06-16",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rausch_Maria",
+        wikimedia_commons: "File:Stolperstein für Maria Rausch (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043242, 47.800061],
+      },
+      id: "node/2948047050",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047051",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/294.jpg",
+        inscription:
+          "Hier wohnte MICHAEL KRITZINGER JG. 1893 im Widerstand verhaftet 9.2.1942 Hingerichtet 13.9.1943 Berlin-Plötzensee",
+        memorial: "stolperstein",
+        name: "Michael Kritzinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Bayerhamerstraße",
+        "person:date_of_birth": "1893-06-02",
+        "person:date_of_death": "1943-09-13",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kritzinger_Michael",
+        wikimedia_commons:
+          "File:Salzburg - Neustadt - Bayerhamerstraße 5 - 2017 04 26 - Stolperstein Michael Kritzinger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0516741, 47.8062294],
+      },
+      id: "node/2948047051",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047052",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/298.jpg",
+        inscription:
+          "Hier wohnte Dr. OTTO KEMPTNER JG. 1890 Verhaftet 12.3.1938 Deportiert 15.10.1938 Dachau Buchenwald 1939 Tot an Haftfolgen 3.5.1944",
+        memorial: "stolperstein",
+        name: "Dr. Otto Kemptner",
+        "name:ko": "오토 켐트너",
+        "name:ru": "НордСии- кафе",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Getreidegasse",
+        "person:date_of_birth": "1890-08-19",
+        "person:date_of_death": "1944-05-03",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kemptner_Otto",
+        wikimedia_commons:
+          "File:Stolperstein für Dr. Otto Kemptner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0434205, 47.8000623],
+      },
+      id: "node/2948047052",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047053",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/321.jpg",
+        inscription:
+          "Hier wohnte RICHARD LÖWIT Gen. FRITZ RICHARD JG. 1870 Tot 9.2.1933 Berlin",
+        memorial: "stolperstein",
+        name: "Richard Löwit",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Sonnleitenweg",
+        "person:date_of_birth": "1870-01-06",
+        "person:date_of_death": "1933-02-09",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Loewit_Richard",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0873748, 47.8038393],
+      },
+      id: "node/2948047053",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047054",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/313.jpg",
+        inscription:
+          'Hier wohnte ROSALIA WITZMANN JG. 1884 Deportiert 21.5.1941 "Schloss Hartheim" Ermordet 1941',
+        memorial: "stolperstein",
+        name: "Rosalia (Rosa) Witzmann",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Pfeifergasse",
+        "person:date_of_birth": "1884-07-31",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Witzmann_Rosalia",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0491858, 47.7983296],
+      },
+      id: "node/2948047054",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047055",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/318.jpg",
+        inscription:
+          "SONIA HERZENBERGER Geb. 17.4.1943 Auschwitz Ermordet 30.4.1943 Auschwitz",
+        memorial: "stolperstein",
+        name: "Sonia Herzenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1943-04-17",
+        "person:date_of_death": "1943-04-30",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Herzenberger_Sonia",
+        wikimedia_commons:
+          "File:Stolperstein für Sonia Herzenberger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092959, 47.7786225],
+      },
+      id: "node/2948047055",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047056",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/319.jpg",
+        inscription:
+          "Hier wohnte THERESIA KARAS JG.1928 1939 Diakoniewerk Gallneukirchen Deportiert 13.1.1941 Schloss Hartheim Ermordet 1941",
+        name: "Theresia Karas",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Aglassingerstraße",
+        "person:date_of_birth": "1928-05-13",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Karas_Therese",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0665671, 47.8145364],
+      },
+      id: "node/2948047056",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2948047057",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/312.jpg",
+        inscription:
+          "Hier wohnte Dr. VICTOR MORDECHAI GOLDSCHMIDT JG. 1853 Flucht aus Heidelberg Deutschland Tot 8.5.1933 Salzburg",
+        memorial: "stolperstein",
+        name: "Victor Mordechai Goldschmidt",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "18",
+        "object:postcode": "5020",
+        "object:street": "Paris-Lodron-Straße",
+        "person:date_of_birth": "1853-02-10",
+        "person:date_of_death": "1933-05-08",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-07-02",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Goldschmidt_Victor-Mordechai",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Dr. Victor Mordechai Goldschmidt (Paris-Lodron-Straße 18).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0477718, 47.8056669],
+      },
+      id: "node/2948047057",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2966877261",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9367666, 47.9422619],
+      },
+      id: "node/2966877261",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2966907203",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+        note: "Das Laufener Kriegerdenkmal wurde vom Münchener Bildhauer Valentin Kraus geschaffen und 1911 von dem Freilassinger Fabrikanten Georg Wrede für die Gefallenen des Krieges 1870 / 1871 gestiftet.",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9354309, 47.9386089],
+      },
+      id: "node/2966907203",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/2975332473",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/303.jpg",
+        inscription:
+          "HELENE TAUSSIG JG. 1879 Verhaftet April 1940 Deportiert 9.4.1942 Ghetto Izbica Ermordet 21.4.1942",
+        memorial: "stolperstein",
+        name: "Helene von Taussig",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Anif",
+        "object:country": "AT",
+        "object:postcode": "5081",
+        "object:street": "Kirchenvorplatz",
+        "person:date_of_birth": "1879-05-10",
+        "person:date_of_death": "1942-04-21",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2014-07-03",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/von-Taussig_Helene",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0648632, 47.7483808],
+      },
+      id: "node/2975332473",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3015108833",
+        historic: "memorial",
+        material: "stone",
+        memorial: "stele",
+        name: "Friedrich Ludwig Jahn",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3536442, 47.85197],
+      },
+      id: "node/3015108833",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3015108849",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3527764, 47.8526368],
+      },
+      id: "node/3015108849",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3015108855",
+        historic: "memorial",
+        memorial: "sculpture",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3550153, 47.8527701],
+      },
+      id: "node/3015108855",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3015108858",
+        historic: "memorial",
+        memorial: "stone",
+        name: "Robert Baum",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3516456, 47.8518104],
+      },
+      id: "node/3015108858",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3149865976",
+        historic: "memorial",
+        memorial: "stone",
+        name: "Schiller",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8922962, 47.7210112],
+      },
+      id: "node/3149865976",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308711",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/435",
+        inscription:
+          "ALEXANDER DUBINA JG.1926 Ukraine Ermordet 20.8.1943 Kasern",
+        memorial: "stolperstein",
+        name: "Alexander Dubina",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1926",
+        "person:date_of_death": "1943-08-20",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Dubina,Alexander",
+        wikimedia_commons: "File:Alexander Dubina.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0622992, 47.8372967],
+      },
+      id: "node/3345308711",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308712",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/408",
+        inscription:
+          "ALEXANDER ZIELONKA JG. 1913 Weissrussland Standgericht der GESTAPO Abschreckungsurteil Volksschädigungsverordnung Ermordet 17.10.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Alexander Zielonka",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1913",
+        "person:date_of_death": "1944-10-17",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Zielonka,Alexander",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Alexander Zielonka.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0444054, 47.8134986],
+      },
+      id: "node/3345308712",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308713",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/407",
+        inscription:
+          "ARCANGELO PESENTI JG. 1918 Italien Verhaftet 17.10.1944 Sondergericht Salzburg Volksschädlingsverordnung Hingerichtet 31.1.1945 München-Stadelheim",
+        memorial: "stolperstein",
+        name: "Arcangelo Pesenti",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1918",
+        "person:date_of_death": "1945-01-31",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Pesenti,Arcangelo",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Arcangelo Pesenti.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443059, 47.8135231],
+      },
+      id: "node/3345308713",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308714",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/520",
+        inscription: "EUGENE VADON JG. 1921 Frankreich Tot 8.5.1943 Salzburg",
+        memorial: "stolperstein",
+        name: "Eugene Vadon",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1921",
+        "person:date_of_death": "1943-05-08",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Vadon,Eugene",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Eugene Vadon.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443823, 47.8135055],
+      },
+      id: "node/3345308714",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308715",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/70",
+        inscription:
+          "FERDINAND LAND JG. 1913 Im Widerstand Zuchthaus München-Stadelheim Hingerichtet 21.11.1944",
+        memorial: "stolperstein",
+        name: "Ferdinand Lang",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1913",
+        "person:date_of_death": "1944-11-21",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Lang,Ferdinand",
+        wikimedia_commons: "File:Ferdinand Lang.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0633861, 47.8369726],
+      },
+      id: "node/3345308715",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308716",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/364",
+        inscription:
+          "FRIEDRICH FIMBERGER JG. 1901 Im Widerstand deportiert 3.12.1944 Dachau Ermordet 25.2.1945",
+        memorial: "stolperstein",
+        name: "Friedrich Fimberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1901",
+        "person:date_of_death": "1945-02-25",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Fimberger,Friedrich",
+        wikimedia_commons: "File:Friedrich Fimberger.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0633076, 47.837015],
+      },
+      id: "node/3345308716",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308717",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/440",
+        inscription:
+          "HALINA STASCHKO JG. 1926 Ukraine Ermordet 1.5.1945 Kasern",
+        memorial: "stolperstein",
+        name: "Halina Staschko",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1926",
+        "person:date_of_death": "1945-05-01",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Staschko,Halina",
+        wikimedia_commons: "File:Halina Staschko.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0635029, 47.8369086],
+      },
+      id: "node/3345308717",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308718",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/405",
+        inscription:
+          "JEAN BAPTISTE CHADEBAUD JG. 1905 Frankreich Tot 16.10.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Jean Baptiste Chadebaud",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1905",
+        "person:date_of_death": "1944-10-16",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Chadebaud,Jean+Baptiste",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Jean Baptiste Cahdebaud.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443871, 47.8135465],
+      },
+      id: "node/3345308718",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308719",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/524",
+        inscription:
+          "KLAWDIA SOLOMACHA GEB. SCHULIKA JG. 1913 Ukraine Tot 20.12.1943 Salzburg",
+        memorial: "stolperstein",
+        name: "Klawdia (Claudia) Solomacha",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1913",
+        "person:date_of_death": "1943-12-20",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Solomacha,Klawdia",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Lawida Solomacha.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443407, 47.8135175],
+      },
+      id: "node/3345308719",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308720",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/525",
+        inscription: "LATIF CELIKOVIC JG. 1902 Bosnien Tot 3.3.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Latif Čeliković",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1902",
+        "person:date_of_death": "1944-03-03",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=%C4%8Celikovi%C4%87,Latif",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Latif Celikovic.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443623, 47.813552],
+      },
+      id: "node/3345308720",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308721",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/441",
+        inscription:
+          "LEONID STEPHANOW JG. 1922 Ukraine Ermordet 20.8.1943 Kasern",
+        memorial: "stolperstein",
+        name: "Leonid Stephanow",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1922",
+        "person:date_of_death": "1943-08-20",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Stepanow,Leonid",
+        wikimedia_commons: "File:Leonid Stepanow.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0635291, 47.8368921],
+      },
+      id: "node/3345308721",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308722",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/350",
+        inscription:
+          "LEOPOLD HOCK JG. 1914 Im Widerstand verhaftet 30.3.1942 Zuchthaus München-Stadelheim Hingerichtet 30.7.1943",
+        memorial: "stolperstein",
+        name: "Leopold Hock",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1914",
+        "person:date_of_death": "1943-07-30",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Hock,Leopold",
+        wikimedia_commons: "File:Leopold Hock.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0633353, 47.8370005],
+      },
+      id: "node/3345308722",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308723",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/521",
+        inscription: "LUIGI COBAI JG. 1898 Italien Tot 16.7.1942 Salzburg",
+        memorial: "stolperstein",
+        name: "Luigi Cobai",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1898",
+        "person:date_of_death": "1942-07-16",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Cobai,Luigi",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Luigi Cobai.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0444236, 47.8135376],
+      },
+      id: "node/3345308723",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308724",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/355",
+        inscription:
+          "MATHIAS HORVATH JG. 1888 Ungarn Im Widerstand Ermordet 29.1.1944 Mauthausen",
+        memorial: "stolperstein",
+        name: "Mathias Horvath",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1888",
+        "person:date_of_death": "1944-01-29",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Horvath,Mathias",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Mathias Horvath.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443209, 47.8135431],
+      },
+      id: "node/3345308724",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308725",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/522",
+        inscription:
+          "MIROSLAW KOLAR JG. 1922 Tschechien Tot 27.3.1942 Salzburg",
+        memorial: "stolperstein",
+        name: "Miroslaw Kolar",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1922",
+        "person:date_of_death": "1942-03-27",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Kolar,Miroslaw",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Miroslav Kolar.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443573, 47.8135365],
+      },
+      id: "node/3345308725",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308726",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/438",
+        inscription:
+          "NIKOLAJ PRILIPA JG. 1924 Ukraine Verhaftet 21.2.1943 Deportiert 4.9.1943 Dachau Mittelbau-Dora Todesmarsch 4.4.1945",
+        memorial: "stolperstein",
+        name: "Nikolaj Prilipa",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1924",
+        "person:date_of_death": "1945-04-04",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Prilipa,Nikolaj",
+        wikimedia_commons: "File:Nikolai Prilipa.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.063446, 47.8369427],
+      },
+      id: "node/3345308726",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308727",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/437",
+        inscription: "RAWIS PLACHE JG. 1925 Ukraine Ermordet 20.8.1943 Kasern",
+        memorial: "stolperstein",
+        name: "Rawis Plache",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1925",
+        "person:date_of_death": "1943-08-20",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Plache,Rawis",
+        wikimedia_commons: "File:Rawis Plache.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0634168, 47.8369561],
+      },
+      id: "node/3345308727",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308728",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/406",
+        inscription: "STEFAN KULKA JG. 1890 Polen Tot 16.10.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Stefan Kulka",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1890",
+        "person:date_of_death": "1944-10-16",
+        source: "Stolpersteine Salzburg",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Kulka,Stefan",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Stefan Kulka.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0444203, 47.8135198],
+      },
+      id: "node/3345308728",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308729",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/442",
+        inscription:
+          "WASIL WASILENKO JG. 1918 Ukraine Deportiert 4.9.1943 Dachau Ermordet 22.9.1944",
+        memorial: "stolperstein",
+        name: "Wasil Wasilenko",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1918",
+        "person:date_of_death": "1944-09-22",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Wasilenko,Wasil",
+        wikimedia_commons: "File:Wasil Wasilenko.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0635583, 47.8368756],
+      },
+      id: "node/3345308729",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308730",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/436",
+        inscription:
+          "WLADIMIR HUNTSCHENKO JG. 1926 Ukraine Deportiert 10.4.1943 Dachau Ermordet 3.3.1944",
+        memorial: "stolperstein",
+        name: "Wladimir Huntschenko",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1926",
+        "person:date_of_death": "1944-03-03",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Huntschenko,Wladimir",
+        wikimedia_commons: "File:Wladimir Huntschenko.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0633568, 47.8369871],
+      },
+      id: "node/3345308730",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308731",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/439",
+        inscription:
+          "WLADIMIR SLESAROW JG. 1924 Ukraine Ermordet 20.8.1943 Kasern",
+        memorial: "stolperstein",
+        name: "Wladimir Slesarow",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        "person:date_of_birth": "1926",
+        "person:date_of_death": "1943-08-20",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Slesarow,Wladimir",
+        wikimedia_commons: "File:Wladimir Slesarow.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0634753, 47.8369252],
+      },
+      id: "node/3345308731",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308732",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/523",
+        inscription:
+          "WLADYSLAW JAN KOWAL JG. 1913 Polen Tot 30.7.1943 Salzburg",
+        memorial: "stolperstein",
+        name: "Wladyslaw Jan Kowal",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        "person:date_of_birth": "1913",
+        "person:date_of_death": "1943-07-30",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website:
+          "https://stolpersteine-salzburg.at/de/orte_und_biographien?victim=Kowal,Wladyslaw+Jan",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Jan Wladislaw Kowal.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443855, 47.8135298],
+      },
+      id: "node/3345308732",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308733",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/536",
+        inscription:
+          "ZWANGSARBEIT FÜR DIE DEUTSCHE REICHSBAHN 1939-1945 Hauptbahnhof Salzburg",
+        memorial: "stolperstein",
+        name: "Zwangsarbeit für die Deutsche Reichsbahn",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Südtirolerplatz",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-01-27",
+        website: "https://www.stolpersteine-salzburg.at/",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Südtirolerplatz Stolpersteine Hauptbahnhof - Zwangsarbeit.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443325, 47.8135587],
+      },
+      id: "node/3345308733",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3345308734",
+        historic: "memorial",
+        image: "http://stolpersteine-salzburg.at/stolpersteine_imgs/458",
+        inscription:
+          "ZWANGSARBEIT FÜR DIE RÜSTUNG 1939-1945 Metallgiesserei Oberascher",
+        memorial: "stolperstein",
+        name: "Zwangsarbeit für die Rüstung",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Söllheimerstrasse",
+        source: "Stolpersteine Salzburg",
+        start_date: "2014-10-24",
+        website: "https://www.stolpersteine-salzburg.at/",
+        wikimedia_commons: "File:Oberascher - allgemein.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0632646, 47.8370428],
+      },
+      id: "node/3345308734",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3376697931",
+        description:
+          "Holzkreuz mit weißer Gedenktafel aus Marmor mit Bild und Inschrift.",
+        historic: "memorial",
+        inscription:
+          "Andenken an unseren lieben Sohn Albert Hauthaler v. Lienzbauer in Dorfleiten verungl. 6.7.1977 i. 18.Lbj.",
+        material: "wood",
+        memorial: "cross",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0421871, 47.9327457],
+      },
+      id: "node/3376697931",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3386208155",
+        denomination: "catholic",
+        description:
+          "Holzkreuz mit Dach, Rückwand und Relief Maria mit Jesukind. Darunter grüne Gedenktafel aus Marmor mit Bild und Inschrift.",
+        historic: "memorial",
+        inscription:
+          "Vergesst nicht unsere geliebte Rosa; Der Herr hat sie hier am 14. Jänner 1972 vom Schulweg auf seinem Kreuzweg mitgenommen und ihr Leben vollenden lassen",
+        material: "wood",
+        memorial: "cross",
+        religion: "christian",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0189404, 47.9298719],
+      },
+      id: "node/3386208155",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3396134093",
+        historic: "memorial",
+        name: "Kaiserjäger-Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1164804, 47.7868174],
+      },
+      id: "node/3396134093",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3473267379",
+        denomination: "catholic",
+        historic: "memorial",
+        inscription: "Franz Schnaitl, verunglückt 9.3.1990",
+        material: "wood",
+        memorial: "cross",
+        name: "Franz Schnaitl",
+        religion: "christian",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.092509, 47.9368835],
+      },
+      id: "node/3473267379",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3673976956",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Rainer Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0477367, 47.7952709],
+      },
+      id: "node/3673976956",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363161",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/526.jpg",
+        inscription:
+          "Hier wohnte ADOLF JACOBY JG. 1859 Flucht 1938 Holland Tot 2.1.1943 Den Haag",
+        memorial: "stolperstein",
+        name: "Adolf Jacoby",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Hubert Sattler Gasse",
+        "person:date_of_birth": "1859-01-30",
+        "person:date_of_death": "1943-01-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Jacoby_Adolf",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0449578, 47.8068131],
+      },
+      id: "node/3787363161",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363162",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/391.jpg",
+        inscription:
+          "Hier wohnte | AUGUSTE VOLKMANN | Geb. Tengler | JG. 1899 | Deportiert 21.5.1941 | Schloss Hartheim | Ermordet 1941 memorial:type=stolperstein name=Auguste Volkmann network=Stolpersteine Salzburg",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Auguste Volkmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "2",
+        "object:postcode": "5020",
+        "object:street": "Müllner Hauptstraße",
+        "person:date_of_birth": "1899",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Volkmann_Auguste",
+        wikimedia_commons:
+          "File:Stolperstein für Auguste Volkmann (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0367845, 47.8047055],
+      },
+      id: "node/3787363162",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363163",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/396.jpg",
+        inscription:
+          "Hier wohnte BERTHA KOHN JG. 1874 Flucht 1938 Tschechoslowakei Schicksal unbekannt",
+        memorial: "stolperstein",
+        name: "Bertha Kohn",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Wolf-Dietrich-Straße",
+        "person:date_of_birth": "1874-06-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kohn_Bertha",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Bertha und Hermann Kohn.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0474489, 47.8057922],
+      },
+      id: "node/3787363163",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363164",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/423.jpg",
+        inscription:
+          "Hier wohnte CHRISTINE NEUHAUSER JG. 1894 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Christine Neuhauser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "40",
+        "object:postcode": "5020",
+        "object:street": "Merianstraße",
+        "person:date_of_birth": "1894-07-09",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neuhauser_Christine",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0468763, 47.8117104],
+      },
+      id: "node/3787363164",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363165",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/362.jpg",
+        inscription:
+          "Hier wohnte FRANZ ROIDER JG. 1895 Im Widerstand Gestapo-Haft 19.1.1942 Tot 25.2.1942 Salzburg",
+        memorial: "stolperstein",
+        name: "Franz Roider",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "96",
+        "object:postcode": "5020",
+        "object:street": "Vogelweidstraße",
+        "person:date_of_birth": "1895-10-18",
+        "person:date_of_death": "1942-02-25",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Roider_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0532818, 47.8186128],
+      },
+      id: "node/3787363165",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363166",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/291.jpg",
+        inscription:
+          "Hier wohnte FRANZ SCHMIDHAMMER JG. 1916 Spanienkämpfer Tot 24.2.1938 Spanien",
+        memorial: "stolperstein",
+        name: "Franz Schmidhammer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street":
+          "Aglassingerstraße/S-Bahn-Haltestelle Salzburg-Sam, 5020 Salzburg",
+        "person:date_of_birth": "1916-05-19",
+        "person:date_of_death": "1938-02-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schmidhammer_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0629835, 47.8202387],
+      },
+      id: "node/3787363166",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363167",
+        historic: "memorial",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Stolperstein_Salzburg%2C_Franz_Zeiss_%28Mirabellplatz_5%29.jpg/609px-Stolperstein_Salzburg%2C_Franz_Zeiss_%28Mirabellplatz_5%29.jpg?20170108203642",
+        inscription:
+          "PFARRER FRANZ ZEISS JG. 1892 VERHAFTET MÄRZ 1940 1941 GEFANGENENHAUS ENTLASSEN 1941 UNTER BEOBACHTUNG BEFREIT/ÜBERLEBT",
+        material: "brass",
+        memorial: "stolperstein",
+        name: "Franz Zeiss",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Mirabellplatz",
+        "person:date_of_birth": "1892-11-07",
+        "person:date_of_death": "1991-05-14",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        "toilets:wheelchair": "no",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Franz Zeiss (Mirabellplatz 5).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0433999, 47.8059094],
+      },
+      id: "node/3787363167",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363168",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/373.jpg",
+        inscription:
+          "Hier wohnte FRIEDRICH TISCHER JG. 1920 Deportiert Aug. 1944 Neuengamme Aussenkommando Kaltenkirchen Tot 13.11.1944",
+        memorial: "stolperstein",
+        name: "Friedrich Tischer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Königsgässchen",
+        "person:date_of_birth": "1920-05-27",
+        "person:date_of_death": "1944-11-13",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Tischer_Friedrich",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450739, 47.8024043],
+      },
+      id: "node/3787363168",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363169",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/385.jpg",
+        inscription:
+          "Hier wohnte GEORG MAX PRECHTL JG. 1893 Deportiert Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Georg Max Prechtl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Schillinghofstraße",
+        "person:date_of_birth": "1893-09-02",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Prechtl_Georg-Max",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Schillinghofstraße 9 - Stolperstein Georg Max Prechtl.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0678241, 47.8154657],
+      },
+      id: "node/3787363169",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363170",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/374.jpg",
+        inscription:
+          "HERMINE GRAUPNER | JG. 1908 | Terror-Opfer der illegalen NSDAP | Tot 12.7.1934 Salzburg",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Hermine Graupner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Müllner Hauptstraße",
+        "person:date_of_birth": "1908-11-9",
+        "person:date_of_death": "1934-07-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Graupner_Hermine",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Hermine Graupner (Müllner Hauptstraße 8).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0365578, 47.8051062],
+      },
+      id: "node/3787363170",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363171",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/389.jpg",
+        inscription:
+          "Hier wohnte HILDEGARD STIEGLER JG. 1908 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Hildegard Stiegler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "59b",
+        "object:postcode": "5020",
+        "object:street": "Bayerhamerstraße",
+        "person:date_of_birth": "1908",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Stiegler_Hildegard",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0499783, 47.8140444],
+      },
+      id: "node/3787363171",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363172",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/338.jpg",
+        inscription:
+          "JOHANN GRABER JG. 1918 Im Widerstand verhaftet Aug. 1940 München-Stadelheim Hingerichtet 18.2.1944",
+        memorial: "stolperstein",
+        name: "Johann Graber",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Paris Lodron Straße",
+        "person:date_of_birth": "1918-02-21",
+        "person:date_of_death": "1944-02-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Graber_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0464974, 47.8053052],
+      },
+      id: "node/3787363172",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363173",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/357.jpg",
+        inscription:
+          "Hier wohnte JOHANN PÖTTLER JG. 1910 Im Widerstand verhaftet Mai 1942 Berlin-Plötzensee Hingerichtet 1.6.1943",
+        memorial: "stolperstein",
+        name: "Johann Pöttler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Poschingerstraße",
+        "person:date_of_birth": "1910-01-30",
+        "person:date_of_death": "1943-06-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Poettler_Johann",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0524948, 47.818663],
+      },
+      id: "node/3787363173",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363174",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/365.jpg",
+        inscription:
+          "Hier wohnte JOHANN SCHWEITZER JG. 1913 Im Widerstand verhaftet 20.5.1942 Zuchthaus Lüttringhausen Ermordet 11.3.1944",
+        memorial: "stolperstein",
+        name: "Johann Schweitzer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Turnerstraße",
+        "person:date_of_birth": "1913-01-14",
+        "person:date_of_death": "1944-03-11",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schweitzer_Johann",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Turnerstraße 6 - Stolperstein Johann Schweitzer-1.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0694974, 47.8164545],
+      },
+      id: "node/3787363174",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363175",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/stolperstein/bieronski_josef/#gallery-1",
+        inscription:
+          "JOSEF BIERONSKI JG. 1924 Zwangsarbeit Bomben entschärfen Tot 18.11.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Josef Bieronski",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Dreifaltigkeitsgasse",
+        "person:date_of_birth": "1924-12-20",
+        "person:date_of_death": "1944-11-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/bieronski_josef/",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Josef Bieronski (Dreifaltigkeitsgasse 3).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450507, 47.8020218],
+      },
+      id: "node/3787363175",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363176",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/369.jpg",
+        inscription:
+          "Hier wohnte JOSEF GÖTZENBERGER JG. 1896 Gestapo-Haft 16.2.1945 Tot an Haftfolgen 9.10.1945",
+        memorial: "stolperstein",
+        name: "Josef Götzenberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "30",
+        "object:postcode": "5020",
+        "object:street": "Schallmooser Hauptstraße",
+        "person:date_of_birth": "1896-03-27",
+        "person:date_of_death": "1945-10-09",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Goetzenberger_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0540762, 47.8061877],
+      },
+      id: "node/3787363176",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363177",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/347.jpg",
+        inscription:
+          "Hier wohnte JOSEF HAIDINGER JG. 1898 Im Widerstand verhaftet 17.4.1942 München-Stadelheim Hingerichtet 11.3.1943",
+        memorial: "stolperstein",
+        name: "Josef Haidinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Josef Waach Straße",
+        "person:date_of_birth": "1898-02-15",
+        "person:date_of_death": "1943-03-11",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Haidinger_Josef",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Josef-Waach-Straße 13 - Stolperstein (2).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0687256, 47.8182869],
+      },
+      id: "node/3787363177",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363178",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/358.jpg",
+        inscription:
+          "Hier wohnte JOSEF KUMHART JG. 1897 Im Widerstand verhaftet 3.3.1942 Strafeinheit 'Organisation Todt' Tot 24.12.1944 Kevelaer",
+        memorial: "stolperstein",
+        name: "Josef Kumhart",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Siedlerstraße",
+        "person:date_of_birth": "1897-03-15",
+        "person:date_of_death": "1944-12-24",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kumhart_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.067645, 47.817828],
+      },
+      id: "node/3787363178",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363179",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/293.jpg",
+        inscription:
+          "Hier wohnte JOSEF MACKINGER JG. 1892 Im Widerstand verhaftet 15.6.1942 Zuchthaus Bruchsal bei Karlsruhe Ermordet 16.12.1944",
+        memorial: "stolperstein",
+        name: "Josef Mackinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Amselstraße",
+        "person:date_of_birth": "1892-03-12",
+        "person:date_of_death": "1944-12-16",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mackinger_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0734686, 47.8197037],
+      },
+      id: "node/3787363179",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363180",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/394.jpg",
+        inscription:
+          "Hier wohnte KARL KOFLER JG. 1912 Verhaftet Sept. 1939 Deportiert 29.9.1941 Flossenbürg Ermordet 7.5.1942",
+        memorial: "stolperstein",
+        name: "Karl Kofler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "96",
+        "object:postcode": "5020",
+        "object:street": "Vogelweidstraße",
+        "person:date_of_birth": "1912-06-02",
+        "person:date_of_death": "1942-05-07",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kofler_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0532817, 47.818623],
+      },
+      id: "node/3787363180",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363181",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/388.jpg",
+        inscription:
+          "Hier wohnte KARL SCHUCH JG. 1880 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Karl Schuch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "16",
+        "object:postcode": "5020",
+        "object:street": "Ignaz Harrer Straße",
+        "person:date_of_birth": "1918-01-02",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schuch_Karl",
+        wikimedia_commons:
+          "File:Stolperstein für Dr. Karl Schuch (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0333564, 47.8112253],
+      },
+      id: "node/3787363181",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363182",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/393.jpg",
+        inscription:
+          "Hier wohnte KATHARINA FLEISCHER Geb. Lederer JG. 1878 Deportiert 9.6.1942 Maly Trostinec Ermordet 15.6.1942",
+        memorial: "stolperstein",
+        name: "Katharina Fleischer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "27",
+        "object:postcode": "5020",
+        "object:street": "Faberstraße",
+        "person:date_of_birth": "1878-12-13",
+        "person:date_of_death": "1942-06-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fleischer_Katharina",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0428399, 47.80882],
+      },
+      id: "node/3787363182",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363183",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/380.jpg",
+        inscription:
+          "Hier wohnte KATHARINA GRÖBNER JG. 1892 Deportiert 21.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Katharina Gröbner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Grazer Bundesstraße 14, 5020 Salzburg",
+        "person:date_of_birth": "1892-04-23",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Groebner_Katharina",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0741444, 47.8142049],
+      },
+      id: "node/3787363183",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363184",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/404.jpg",
+        inscription:
+          "LECH MANCZAK JG. 1922 Zwangsarbeit Bomben entschärfen Tot 18.11.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Lech Manczak",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Dreifaltigkeitsgasse",
+        "person:date_of_birth": "1922-06-07",
+        "person:date_of_death": "1944-11-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Manczak_Lech",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Lech Manczak (Dreifaltigkeitsgasse 3).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450438, 47.8020327],
+      },
+      id: "node/3787363184",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363185",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/356.jpg",
+        inscription:
+          "Hier wohnte LORENZ KÜNSTEL JG. 1886 Im Widerstand verhaftet 27.2.1942 Zuchthaus Straubing Tot an Haftfolgen 18.9.1945",
+        memorial: "stolperstein",
+        name: "Lorenz Künstel",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "32",
+        "object:postcode": "5020",
+        "object:street": "Grazer Bundesstraße",
+        "person:date_of_birth": "1886-08-09",
+        "person:date_of_death": "1945-09-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kuenstel_Lorenz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0846495, 47.8127958],
+      },
+      id: "node/3787363185",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363186",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/376.jpg",
+        inscription:
+          "Hier wohnte MARGARETHE ASCHENBRENNER JG. 1887 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Margarethe Aschenbrenner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Rupertgasse",
+        "person:date_of_birth": "1887-10-01",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Aschenbrenner_Margarethe",
+        wikimedia_commons:
+          "File:Salzburg_-_Neustadt_-_Rupertgasse_4_-_2017_10_10_-_Stolperstein_Margarethe_Aschenbrenner.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.050617, 47.8067962],
+      },
+      id: "node/3787363186",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363187",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/398.jpg",
+        inscription:
+          "Hier wohnte MARGARETHE WEISSENSTEIN JG. 1893 Flucht 1938 Frankreich, Italien Deportiert 14.12.1944 Ravensbrück Ermordet Feb. 1945",
+        memorial: "stolperstein",
+        name: "Margarethe Weissenstein",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        "person:date_of_birth": "1893-11-05",
+        "person:date_of_death": "1945-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weissenstein_Margarethe",
+        wikimedia_commons:
+          "File:Stolpersteine Salzburg Margarethe Weissenstein.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0441126, 47.8074297],
+      },
+      id: "node/3787363187",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363188",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/381.jpg",
+        inscription:
+          "Hier wohnte MARIA ANNA HEINY JG. 1895 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Anna Heiny",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Haydnstraße",
+        "person:date_of_birth": "1895-10-30",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Heiny_Maria-Anna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0455686, 47.8088123],
+      },
+      id: "node/3787363188",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363189",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/412.jpg",
+        inscription:
+          "Hier wohnte MARIA BRANDSTÄTTER JG. 1887 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Brandstätter",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Ernest Thun Straße",
+        "person:date_of_birth": "1887-06-18",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Brandstaetter_Maria",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.040795, 47.8083874],
+      },
+      id: "node/3787363189",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363190",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/378.jpg",
+        inscription:
+          "Hier wohnte MARIA FISCHER JG. 1885 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Fischer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Paris Lodron Straße",
+        "person:date_of_birth": "1885-01-22",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Fischer_Maria",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Maria Fischer (Paris-Lodron-Straße 5).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0456879, 47.8050299],
+      },
+      id: "node/3787363190",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363191",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/419.jpg",
+        inscription:
+          "Hier wohnte MARIA KURZ JG. 1885 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Kurz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Paris Lodron Straße",
+        "person:date_of_birth": "1885-01-16",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kurz_Maria",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Maria Kurz (Paris-Lodron-Straße 6).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0457099, 47.8049506],
+      },
+      id: "node/3787363191",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363192",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/392.jpg",
+        inscription:
+          "Hier wohnte MARIE WURM JG. 1904 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Marie Wurm",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Virgilgasse",
+        "person:date_of_birth": "1904-05-31",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wurm_Marie",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0525043, 47.8063696],
+      },
+      id: "node/3787363192",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363193",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/403.jpg",
+        inscription:
+          "MARTIN GAY JG. 1912 Zwangsarbeit Bomben entschärfen Tot 18.11.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Martin Gay",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Dreifaltigkeitsgasse",
+        "person:date_of_birth": "1912-08-01",
+        "person:date_of_death": "1944-11-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gay_Martin",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Martin Gay (Dreifaltigkeitsgasse 3).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.045048, 47.8020272],
+      },
+      id: "node/3787363193",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363194",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/399.jpg",
+        inscription:
+          "Hier wohnte OLGA ZWEIG JG. 1885 Verhaftet 11.3.1941 Polizeihaft Salzburg Entlassen 11.5.1942 Deportiert 1945 Theresienstadt Befreit/Überlebt",
+        memorial: "stolperstein",
+        name: "Olga Zweig",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Linzergasse",
+        "person:date_of_birth": "1885-01-09",
+        "person:date_of_death": "1966-02-05",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Zweig_Olga",
+        wikimedia_commons: "File:Stolperstein für Olga Zweig (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454925, 47.8021606],
+      },
+      id: "node/3787363194",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363195",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/340.jpg",
+        inscription:
+          "OTTO HORST JG. 1886 Im Widerstand verhaftet Sept. 1940 München-Stadelheim Hingerichtet 18.2.1944",
+        memorial: "stolperstein",
+        name: "Otto Horst",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "9",
+        "object:postcode": "5020",
+        "object:street": "Paris Lodron Straße",
+        "person:date_of_birth": "1886-07-15",
+        "person:date_of_death": "1944-02-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Horst_Otto",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0465063, 47.8053079],
+      },
+      id: "node/3787363195",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363196",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/401.jpg",
+        inscription:
+          "PARASKA MENSJUK JG. 1923 Ukraine Verhaftet 27.6.1944 Gestapohaft Salzburg Ermordet 30.6.1944",
+        memorial: "stolperstein",
+        name: "Paraska Mensjuk",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3a",
+        "object:postcode": "5020",
+        "object:street": "Paris Lodron Straße",
+        "person:date_of_birth": "1923-10-25",
+        "person:date_of_death": "1944-06-30",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        "toilets:wheelchair": "no",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Mensjuk_Paraska",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0450681, 47.8048376],
+      },
+      id: "node/3787363196",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363197",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/379.jpg",
+        inscription:
+          "Hier wohnte PAULINE GASSNER JG. 1916 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Pauline Gassner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "13",
+        "object:postcode": "5020",
+        "object:street": "Müllner Hauptstraße",
+        "person:date_of_birth": "1916-07-03",
+        "person:date_of_death": "1941",
+        source: "Stolpersteine Salzburg",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gassner_Pauline",
+        wikimedia_commons:
+          "File:Stolperstein Salzburg, Pauline Gassner (Müllner Hauptstraße 13).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0356051, 47.8058374],
+      },
+      id: "node/3787363197",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363198",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/430.jpg",
+        inscription:
+          "Hier wohnte PHILOMENA STEINBERGER JG. 1896 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Philomena Steinberger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "23",
+        "object:postcode": "5020",
+        "object:street": "Markus Sittikus Straße",
+        "person:date_of_birth": "1896-02-21",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Steinberger_Philomena",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0428204, 47.8085047],
+      },
+      id: "node/3787363198",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363199",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/384.jpg",
+        inscription:
+          "Hier wohnte STEFANIE MARESCH JG. 1885 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Stefanie Maresch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Maxglanerstraße 26, 5020 Salzburg",
+        "person:date_of_birth": "1885-12-21",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Maresch_Stefanie",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0218184, 47.797151],
+      },
+      id: "node/3787363199",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363200",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/383.jpg",
+        inscription:
+          "Hier wohnte THERESIA MACHALA Geb. Poppenreiter JG. 1894 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Theresia Machala",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "19",
+        "object:postcode": "5020",
+        "object:street": "Grazer Bundesstraße",
+        "person:date_of_birth": "1894-01-31",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Machala_Theresia",
+        wikimedia_commons:
+          "File:Stolperstein für Theresia Machala (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0740923, 47.8142474],
+      },
+      id: "node/3787363200",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363201",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/390.jpg",
+        inscription:
+          "Hier wohnte THERESIA TRENKE Geb. Forstner JG. 1876 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Theresia Trenke",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Schillinghofstraße",
+        "person:date_of_birth": "1876-09-22",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Trenke_Theresia",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Schillinghofstraße 6 - Stolperstein Theresia Trenke.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0684695, 47.8153739],
+      },
+      id: "node/3787363201",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3787363202",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/290.jpg",
+        inscription:
+          "Hier wohnte WALTER HINTSCHICH JG. 1911 Spanienkämpfer Tot Februar 1938 Spanien",
+        memorial: "stolperstein",
+        name: "Walter Hintschich",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "11",
+        "object:postcode": "5020",
+        "object:street": "Ignaz Härtl Straße",
+        "person:date_of_birth": "1911-05-19",
+        "person:date_of_death": "1938-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2015-07-13",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hintschich_Walter",
+        wikimedia_commons: "File:Stolperstein für Walter Hintschich.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0652953, 47.8092428],
+      },
+      id: "node/3787363202",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3804802559",
+        artist_name: "Giacomo Manzù",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Paris Lodron Statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0597483, 47.7887551],
+      },
+      id: "node/3804802559",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3842848269",
+        historic: "memorial",
+        inscription:
+          "Zur Erinnerung an die Errichtung des Volksgartens unter KFJ",
+        memorial: "stone",
+        name: "Kaiser Franz Josef Memorial",
+        start_date: "1898",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0598285, 47.7963387],
+      },
+      id: "node/3842848269",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3843410491",
+        historic: "memorial",
+        material: "stone",
+        memorial: "stele",
+        name: "Sylvester Wagner, heimischer Volksdichter 1909",
+        year_of_construction: "1909",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.035785, 47.8046109],
+      },
+      id: "node/3843410491",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3851806167",
+        description: "Gedenktafel",
+        historic: "memorial",
+        material: "stone",
+        memorial: "plaque",
+        name: "Stadtgemeinde 1892",
+        start_date: "1892",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0371919, 47.7989345],
+      },
+      id: "node/3851806167",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/3860861656",
+        "genus:en": "Oak",
+        historic: "memorial",
+        inscription: "60 . Regierungsjubiläum",
+        memorial: "stone",
+        name: "Kaiser Franz Josef Jubiläums Eiche",
+        start_date: "1908",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0591546, 47.7973317],
+      },
+      id: "node/3860861656",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4142690602",
+        historic: "memorial",
+        inscription:
+          "Dr. Franz Rehrl - Landeshauptmann in den Jahren 1922-1938",
+        memorial: "wall",
+        name: "Dr. Franz Rehrl",
+        "subject:wikidata": "Q1268604",
+        "subject:wikipedia": "de:Franz Rehrl",
+        wikimedia_commons:
+          "File:Salzburg_Denkmal_Franz_Rehrl_Max-Reinhardt-Platz.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0430123, 47.7980495],
+      },
+      id: "node/4142690602",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4142834463",
+        historic: "memorial",
+        inscription:
+          "Zum Gedenken an die hunderten Kriegsgefangenen und Zwangsarbeiter, die von 1941 bis 1945 gegen ihren Willen und unter grossen Opfern an der Errichtung dieser Brücke arbeiten mussten.",
+        memorial: "sculpture",
+        name: "Beyond Recall",
+        wikidata: "Q15107562",
+        wikimedia_commons: "Category:Beyond_Recall",
+        wikipedia: "de:Beyond Recall (Salzburg)",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0442768, 47.8006293],
+      },
+      id: "node/4142834463",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4142834464",
+        historic: "memorial",
+        inscription:
+          "Zum Gedenken an die hunderten Kriegsgefangenen und Zwangsarbeiter, die von 1941 bis 1945 gegen ihren Willen und unter grossen Opfern an der Errichtung dieser Brücke arbeiten mussten.",
+        memorial: "sculpture",
+        name: "Beyond Recall",
+        tourism: "artwork",
+        website:
+          "https://salzburgfoundation.at/en/beyond-recall-2/beyond-recall/",
+        wikidata: "Q15107562",
+        wikimedia_commons: "Category:Beyond_Recall",
+        wikipedia: "de:Beyond Recall (Salzburg)",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0446355, 47.8013147],
+      },
+      id: "node/4142834464",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4145021209",
+        artist_name: "Josef Thorak",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Paracelsus",
+        "name:ru": "Памятник Парацельсу",
+        tourism: "artwork",
+        url: "http://www.salzburg.com/wiki/index.php/Paracelsus",
+        wikimedia_commons: "Category:Paracelsus (Josef Thorak)",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0398832, 47.8059573],
+      },
+      id: "node/4145021209",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4159052428",
+        format: "irregular",
+        height: "1",
+        historic: "memorial",
+        inscription: "Verbauung der Nußdorfer Wildbäche in den Jahren 1970-",
+        memorial: "stone",
+        name: "Verbauung der Nußdorfer Wildbäche",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9866289, 47.9316706],
+      },
+      id: "node/4159052428",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4159583309",
+        denomination: "catholic",
+        description: "Holzkreuz mit Blechdach",
+        historic: "memorial",
+        material: "wood",
+        religion: "christian",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9903166, 47.9354415],
+      },
+      id: "node/4159583309",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4170140811",
+        format: "irregular",
+        height: "1",
+        historic: "memorial",
+        memorial: "stone",
+        name: "Gasteiner-Graben-Regulierung",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9786995, 47.9323487],
+      },
+      id: "node/4170140811",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4388659966",
+        description:
+          "Stein in Kreuzform mit Bild, Inschrift und darunter zwei gekreuzte Prangerstutzen",
+        historic: "memorial",
+        inscription:
+          "Hans Kreuzberger Katzmoosbauer; In Erinnerung an den am 5. Februar 1998 im 43. Lebensjahr bei der Holzarbeit verunglückten Kameraden.",
+        material: "stone",
+        memorial: "cross",
+        name: "Hans Kreuzberger, Katzmoosbauer",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0679158, 47.8562274],
+      },
+      id: "node/4388659966",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4391264375",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0672252, 47.8678643],
+      },
+      id: "node/4391264375",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4508674229",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Gedenktafel Dr. Richard Schuster",
+        wikimedia_commons: "File:Mirabell-Salzburg 6733.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419714, 47.8052806],
+      },
+      id: "node/4508674229",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4509094681",
+        artist_name: "Leo von Moos",
+        artwork_type: "sculpture",
+        historic: "memorial",
+        memorial: "bust",
+        name: "Jahndenkmal",
+        start_date: "1903",
+        tourism: "artwork",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0404531, 47.806387],
+      },
+      id: "node/4509094681",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4509220336",
+        artist_name: "Josef Thorak",
+        artwork_type: "statue",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Kopernikus",
+        tourism: "artwork",
+        wikimedia_commons: "File:Josef Thorak - Kopernikus.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410036, 47.8050244],
+      },
+      id: "node/4509220336",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4613802389",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0776177, 47.9371101],
+      },
+      id: "node/4613802389",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4643884106",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2336421, 47.7779263],
+      },
+      id: "node/4643884106",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116764",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/425.jpg",
+        inscription:
+          "Hier wohnte MARIA PELLER GEB. PONCELET JG. 1871 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Peller",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Moosbauernstraße",
+        "person:date_of_birth": "1871-12-07",
+        "person:date_of_death": "1941",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Peller_Maria",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0536206, 47.8167524],
+      },
+      id: "node/4683116764",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116765",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/424.jpg",
+        inscription:
+          "Hier wohnte KLARA OBERWEGER JG. 1907 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Klara Oberweger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Christian Doppler Straße",
+        "person:date_of_birth": "1907-02-07",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Oberweger_Klara",
+        wikimedia_commons:
+          "File:Stolperstein für Klara Oberweger (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0336871, 47.8100378],
+      },
+      id: "node/4683116765",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116766",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/422.jpg",
+        inscription:
+          "Hier wohnte FRANZ NEUDORFER JG. 1911 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Franz Neudorfer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Mittelstraße",
+        "person:date_of_birth": "1911-06-30",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Neudorfer_Franz",
+        wikimedia_commons:
+          "File:Stolperstein für Franz Neudorfer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0458623, 47.8190757],
+      },
+      id: "node/4683116766",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116767",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/420.jpg",
+        inscription:
+          "Hier wohnte KARL LACKENBAUER JG. 1881 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Karl Lackenbauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "24",
+        "object:postcode": "5020",
+        "object:street": "Erzherzog Eugen Straße 24, 5020 Salzburg",
+        "person:date_of_birth": "1881-10-31",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Lackenbauer_Karl",
+        wikimedia_commons:
+          "File:Stolperstein für Karl Lackenbauer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0403497, 47.818603],
+      },
+      id: "node/4683116767",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116768",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/418.jpg",
+        inscription:
+          "Hier wohnte THERESIA KOMENDA GEB. ZINK JG. 1890 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Theresia Komenda",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "10",
+        "object:postcode": "5020",
+        "object:street": "Wildenhoferstraße",
+        "person:date_of_birth": "1890-04-22",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Komenda_Theresia",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0519523, 47.8196787],
+      },
+      id: "node/4683116768",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116769",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/527.jpg",
+        inscription:
+          "Hier wohnte JOHANN KENDLHOFER JG. 1908 Kriegsdienst verweigert Erschossen 2.6.1942 Wien-Kagran",
+        memorial: "stolperstein",
+        name: "Johann Kendlhofer",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Glockengasse",
+        "person:date_of_birth": "1908-12-09",
+        "person:date_of_death": "1942-06-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Kendlhofer_Johann&hilite=kendlhofer",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0521172, 47.805151],
+      },
+      id: "node/4683116769",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116770",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/416.jpg",
+        inscription:
+          "Hier wohnte JOSEF HOCH JG. 1921 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Josef Hoch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "28",
+        "object:postcode": "5020",
+        "object:street": "Elisabethstraße",
+        "person:date_of_birth": "1921-03-02",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hoch_Josef",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Elisabethstraße 28 - 2017 03 10 - Stolperstein Josef Hoch.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.04443, 47.8213482],
+      },
+      id: "node/4683116770",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116771",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/447.jpg",
+        inscription: "Hier wohnte FRANZISKA HAMMER JG. 1888",
+        memorial: "stolperstein",
+        name: "Franziska Hammer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Linzergasse",
+        "person:date_of_birth": "1888-01-20",
+        "person:date_of_death": "1974",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hammer_Franziska&hilite=hammer",
+        wikimedia_commons:
+          "File:Stolperstein für Franziska Hammer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454841, 47.8021518],
+      },
+      id: "node/4683116771",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116772",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/360.jpg",
+        inscription:
+          "Hier wohnte FRANZ HAGER JG. 1907 Im Widerstand verhaftet 14.5.1942 Zuchthaus Kaisheim Strafeinheit 500 Tot 15.1.1945",
+        memorial: "stolperstein",
+        name: "Franz Hager",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Seeauergasse",
+        "person:date_of_birth": "1907-01-07",
+        "person:date_of_death": "1945-01-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hager_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0167449, 47.8033549],
+      },
+      id: "node/4683116772",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116773",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/415.jpg",
+        inscription:
+          "Hier wohnte MARIA GSTÖTTNER JG. 1896 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Gstöttner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "4",
+        "object:postcode": "5020",
+        "object:street": "Kreuzstraße",
+        "person:date_of_birth": "1896-11-26",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Gstoettner_Maria",
+        wikimedia_commons:
+          "File:Stolperstein für Maria Gstöttner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0451562, 47.8194504],
+      },
+      id: "node/4683116773",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116774",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/335.jpg",
+        inscription:
+          "RICHARD PANZENBÖCK JG. 1909 Kriegsdienst verweigert 26.8.1943 versteckt Auf der Flucht erschossen 11.6.1944 Salzburg",
+        memorial: "stolperstein",
+        name: "Richard Panzenböck",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "35",
+        "object:postcode": "5020",
+        "object:street": "Fürstenweg",
+        "person:date_of_birth": "1909-03-23",
+        "person:date_of_death": "1944-06-11",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-15",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Panzenboeck_Richard",
+        wikimedia_commons:
+          "File:Stolperstein für Richard Panzenböck (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0640061, 47.7635457],
+      },
+      id: "node/4683116774",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116775",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/431.jpg",
+        inscription:
+          "Hier wohnte ADALBERT SYKYTA JG. 1912 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Adalbert Sykyta",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Membergerstraße",
+        "person:date_of_birth": "1912-01-17",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-15",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Sykyta_Adalbert",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0715371, 47.785583],
+      },
+      id: "node/4683116775",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683116776",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/433.jpg",
+        inscription:
+          "Hier wohnte ALOISIA WALLMANN JG. 1912 Deportiert 18.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Aloisia Wallmann",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "43",
+        "object:postcode": "5020",
+        "object:street": "Eichstraße",
+        "person:date_of_birth": "1912-06-16",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-15",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Wallmann_Aloisia",
+        wikimedia_commons:
+          "File:Salzburg - Gnigl - Eichstraße 43 - Stolperstein Aloisia Wallmann.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0741455, 47.811591],
+      },
+      id: "node/4683116776",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683136396",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/434.jpg",
+        inscription:
+          "Hier wohnte KAROLINE WEINHANDL JG. 1917 Deportiert 16.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Karoline Weinhandl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5a",
+        "object:postcode": "5020",
+        "object:street": "Elisabethstraße",
+        "person:date_of_birth": "1917-04-22",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weinhandl_Karoline",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0416566, 47.810984],
+      },
+      id: "node/4683136396",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683136397",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/375.jpg",
+        inscription:
+          "Hier wohnte GEORG STRASSER JG. 1887 Deportiert 17.6.1938 Dachau Tot an Haftfolgen 27.10.1942",
+        memorial: "stolperstein",
+        name: "Georg Strasser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Franz Schubert Straße",
+        "person:date_of_birth": "1887-03-05",
+        "person:date_of_death": "1942-10-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Strasser_Georg",
+        wikimedia_commons:
+          "File:Stolperstein für Georg Strasser (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0410076, 47.8214218],
+      },
+      id: "node/4683136397",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683136398",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/372.jpg",
+        inscription:
+          "Hier wohnte BLASIUS SKERL JG. 1905 Deportiert 27.9.1944 Dachau Neuengamme Bremen-Schützenhof Ermordet 2.4.1945",
+        memorial: "stolperstein",
+        name: "Blasius Skerl",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Franz Schubert Straße",
+        "person:date_of_birth": "1905-02-03",
+        "person:date_of_death": "1945-04-02",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Skerl_Blasius",
+        wikimedia_commons: "File:Stolperstein für Blasius Skerl (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0409948, 47.8214385],
+      },
+      id: "node/4683136398",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4683136399",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/386.jpg",
+        inscription:
+          "Hier wohnte MARIA SCHEURINGER GEB. KÖNIGSDORFER JG. 1888 Deportiert 21.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Scheuringer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Pflanzmannstraße",
+        "person:date_of_birth": "1888-06-24",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-11-14",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Scheuringer_Maria",
+        wikimedia_commons:
+          "File:Stolperstein für Maria Scheuringer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0505287, 47.8235435],
+      },
+      id: "node/4683136399",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128791",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/600.jpg",
+        inscription:
+          "Hier wohnte FRIDERIKE ZWEIG-WINTERNITZ GEB. BURGER JG. 1882 Flucht 1938 Frankreich USA",
+        memorial: "stolperstein",
+        name: "Friderike Zweig-Winternitz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Kapuzinerberg",
+        "person:date_of_birth": "1882-12-04",
+        "person:date_of_death": "1971-01-18",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        "subject:wikipedia": "de:Friderike Maria Zweig",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Zweig-Winternitz_Friderike",
+        wikidata: "Q43675690",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472892, 47.8027385],
+      },
+      id: "node/4690128791",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128792",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/595.jpg",
+        inscription:
+          "Hier wohnte STEFAN ZWEIG JG. 1881 Flucht 1934 England, USA, Brasilien Flucht in den Tod 23.2.1942 Petropolis",
+        memorial: "stolperstein",
+        name: "Stefan Zweig",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Kapuzinerberg",
+        "person:date_of_birth": "1881-11-28",
+        "person:date_of_death": "1942-02-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        "subject:wikipedia": "de:Stefan Zweig",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Zweig_Stefan",
+        wikidata: "Q43674873",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472879, 47.8027592],
+      },
+      id: "node/4690128792",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128793",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/607.jpg",
+        inscription:
+          "Hier wohnte SUSANNA WINTERNITZ JG. 1910 Flucht 1938 Frankreich USA",
+        memorial: "stolperstein",
+        name: "Susanna Winternitz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Kapuzinerberg",
+        "person:date_of_birth": "1910",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Winternitz_Susanna",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472745, 47.8027461],
+      },
+      id: "node/4690128793",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128794",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/605.jpg",
+        inscription:
+          "Hier wohnte ALEXIA WINTERNITZ JG. 1907 Flucht 1938 Frankreich USA",
+        memorial: "stolperstein",
+        name: "Alexia Winternitz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Kapuzinerberg",
+        "person:date_of_birth": "1907",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Winternitz_Alexia",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472738, 47.8027538],
+      },
+      id: "node/4690128794",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128795",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/432.jpg",
+        inscription:
+          "Hier wohnte | FRANZ TANNERT | JG. 1885 | Deportiert 17.4.1941 | Schloss Hartheim | Ermordet 1941",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Franz Tannert",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "37",
+        "object:postcode": "5020",
+        "object:street": "Griesgasse",
+        "person:date_of_birth": "1885-08-23",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Tannert_Franz",
+        wikimedia_commons: "File:Stolperstein für Franz Tannert (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0396796, 47.8008052],
+      },
+      id: "node/4690128795",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128796",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/336.jpg",
+        inscription:
+          "Hier arbeitete NIKOLAUS SCHWARZ JG. 1898 Im Widerstand verhaftet 7.4.1943 München-Stadelheim Hingerichtet 10.2.1944",
+        memorial: "stolperstein",
+        name: "Nikolaus Schwarz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "45",
+        "object:postcode": "5020",
+        "object:street": "Fürbergstraße",
+        "person:date_of_birth": "1898-02-28",
+        "person:date_of_death": "1944-02-10",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schwarz_Nikolaus",
+        wikimedia_commons: "File:Stolperstein für Nikolaus Schwarz.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0659788, 47.8062851],
+      },
+      id: "node/4690128796",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128797",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/609.jpg",
+        inscription:
+          "Hier wohnte DR. LUDWIG SCHÖNWALD JG. 1890 Flucht 1938 Tot Jan. 1939 Hamburg",
+        memorial: "stolperstein",
+        name: "Ludwig Franz Schönwald",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "6",
+        "object:postcode": "5020",
+        "object:street": "Nesselthalerstraße",
+        "person:date_of_birth": "1890-07-30",
+        "person:date_of_death": "1939-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schoenwald_Ludwig-Franz",
+        wikimedia_commons:
+          "File:Stolperstein für Dr. Ludwig Schönwald (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0661593, 47.7950359],
+      },
+      id: "node/4690128797",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128798",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/529.jpg",
+        inscription:
+          "Hier wohnte FRANZ SCHAFFGOTSCH JG. 1902 Flucht 1938 Jugoslawien Interniert Dubrovnik Tot 21.12.1942",
+        memorial: "stolperstein",
+        name: "Franz Gotthard Schaffgotsch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "25",
+        "object:postcode": "5020",
+        "object:street": "Arenbergstraße",
+        "person:date_of_birth": "1902-12-13",
+        "person:date_of_death": "1942-12-21",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schaffgotsch_Franz-Gotthard",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0571816, 47.8001958],
+      },
+      id: "node/4690128798",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128799",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/610.jpg",
+        inscription:
+          "Hier wohnte FRANZ NACHTNEPEL JG. 1902 Deportiert 23.4.1944 Dachau Mauthausen Ermordet 15.4.1945",
+        memorial: "stolperstein",
+        name: "Franz Nachtnepel",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "3",
+        "object:postcode": "5020",
+        "object:street": "Universitätsplatz",
+        "person:date_of_birth": "1902-10-24",
+        "person:date_of_death": "1945-04-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Nachtnepel_Franz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.041485, 47.7996538],
+      },
+      id: "node/4690128799",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128800",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/421.jpg",
+        inscription:
+          "Hier wohnte JULIANA LEITNER JG. 1903 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Juliana Leitner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Franz Josef Straße",
+        "person:date_of_birth": "1903-05-22",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Leitner_Juliana",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0488832, 47.8058599],
+      },
+      id: "node/4690128800",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128801",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/292.jpg",
+        inscription:
+          "Hier wohnte | GEORG LEITNER | JG. 1884 | Im Widerstand verhaftet Aug. 1944 Dachau | Tot an Haftfolgen",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Georg Leitner",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "12",
+        "object:postcode": "5020",
+        "object:street": "Goldgasse",
+        "person:date_of_birth": "1884-04-09",
+        source: "www.stolpersteine-salzburg.at;local knowledge",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Leitner_Georg",
+        wikimedia_commons: "File:Stolperstein für Georg Leitner (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0460183, 47.7988682],
+      },
+      id: "node/4690128801",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690128802",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/368.jpg",
+        inscription:
+          "Hier wohnte JOSEF GIRZINGER JG. 1897 Im Widerstand deportiert 23.9.1942 Mauthausen Gusen Ermordet 14.4.1943",
+        memorial: "stolperstein",
+        name: "Josef Girzinger",
+        network: "Stolpersteine",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Judenbergweg",
+        "person:date_of_birth": "1897-06-14",
+        "person:date_of_death": "1943-04-14",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-19",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Girzinger_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0822183, 47.8034087],
+      },
+      id: "node/4690128802",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905875",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/363.jpg",
+        inscription:
+          "Hier arbeitete KARL WEITENTHALER JG. 1896 Im Widerstand verhaftet 1.9.1941 1944 Mauthausen Aussenlager Linz III Ermordet 12.4.1945",
+        memorial: "stolperstein",
+        name: "Karl Weitenthaler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "35",
+        "object:postcode": "5020",
+        "object:street": "Kleßheimer Allee",
+        "person:date_of_birth": "1896-01-14",
+        "person:date_of_death": "1945-04-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weitenthaler_Karl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0146749, 47.8088322],
+      },
+      id: "node/4690905875",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905876",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/397.jpg",
+        inscription:
+          "Hier wohnte CAMILL WEIL JG. 1885 Flucht 1938 Schweden Tot 22.11.1943",
+        memorial: "stolperstein",
+        name: "Camill Weil",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "8",
+        "object:postcode": "5020",
+        "object:street": "Josef Mayburger Kai",
+        "person:date_of_birth": "1885-03-02",
+        "person:date_of_death": "1943-11-22",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Weil_Camill",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Josef-Mayburger-Kai 8 - Stolperstein Camill Weil.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0374845, 47.8122242],
+      },
+      id: "node/4690905876",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905877",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/429.jpg",
+        inscription:
+          "Hier wohnte JOHANNA SPANNRING GEB. HEJL JG. 1903 Deportiert 21.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Johanna Spannring",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "26",
+        "object:postcode": "5020",
+        "object:street": "Plainstraße",
+        "person:date_of_birth": "1903-05-27",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Spannring_Johanna",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Plainstraße 26 - 2017 10 25 - Stolperstein Johanna Spannring.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0406146, 47.8126574],
+      },
+      id: "node/4690905877",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905878",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/370.jpg",
+        inscription:
+          "Hier wohnte FRANZ SEIWALD JG. 1897 Im Widerstand deportiert 28.3.1942 Dachau Schloss Hartheim Ermordet 12.8.1942",
+        memorial: "stolperstein",
+        name: "Franz Seiwald",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Esshaverstraße",
+        "person:date_of_birth": "1897-10-12",
+        "person:date_of_death": "1942-08-12",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Seiwald_Franz",
+        wikimedia_commons: "File:Stolperstein für Franz Seiwald (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0270265, 47.8109462],
+      },
+      id: "node/4690905878",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905879",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/428.jpg",
+        inscription:
+          "Hier wohnte HERBERT SCHWARZ JG. 1918 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Herbert Schwarz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "15",
+        "object:postcode": "5020",
+        "object:street": "Itzlinger Hauptstraße",
+        "person:date_of_birth": "1918-03-27",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Schwarz_Herbert",
+        wikimedia_commons:
+          "File:Stolperstein für Herbert Schwarz (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.044259, 47.8204328],
+      },
+      id: "node/4690905879",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905880",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/337.jpg",
+        inscription:
+          "Hier wohnte WALTER RUDLE JG. 1915 Kriegsdienst verweigert Hingerichtet 23.4.1945 Oslo",
+        memorial: "stolperstein",
+        name: "Walter Rudle",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "7",
+        "object:postcode": "5020",
+        "object:street": "Chiemgaustraße",
+        "person:date_of_birth": "1915-06-24",
+        "person:date_of_death": "1945-04-23",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rudle_Walter",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0159999, 47.8112055],
+      },
+      id: "node/4690905880",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905881",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/361.jpg",
+        inscription:
+          "Hier wohnte JOSEF RIEDHERR JG. 1894 Im Widerstand verhaftet 26.3.1942 Zuchthaus Straubing Tot an Haftfolgen",
+        memorial: "stolperstein",
+        name: "Josef Riedherr",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Stieglstraße",
+        "person:date_of_birth": "1894-03-05",
+        "person:date_of_death": "1947-05-01",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Riedherr_Josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.023431, 47.7960571],
+      },
+      id: "node/4690905881",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905882",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/427.jpg",
+        inscription:
+          "Hier wohnte MARIA RAUTER JG. 1900 Deportiert 21.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Maria Rauter",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "28",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1900-12-31",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Rauter_Marie",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0331299, 47.7976471],
+      },
+      id: "node/4690905882",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905883",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/426.jpg",
+        inscription:
+          "Hier wohnte RUDOLF PEUKER JG. 1907 Deportiert 21.5.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rudolf Peuker",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "42",
+        "object:postcode": "5020",
+        "object:street": "Neutorstraße",
+        "person:date_of_birth": "1907-06-28",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Peuker_Rudolf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0282141, 47.7965354],
+      },
+      id: "node/4690905883",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905884",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/417.jpg",
+        inscription:
+          "Hier wohnte ELISABETH JUNGWIRTH JG. 1884 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Elisabeth Jungwirth",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Maxglaner Hauptstraße 36, 5020 Salzburg",
+        "person:date_of_birth": "1884-03-27",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Jungwirth_Elisabeth",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0204692, 47.7977845],
+      },
+      id: "node/4690905884",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905885",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/382.jpg",
+        inscription:
+          "Hier wohnte ROMAN HOFBAUER JG. 1894 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Roman Hofbauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Moosstraße",
+        "person:date_of_birth": "1894-05-17",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Hofbauer_Roman",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0300266, 47.7958102],
+      },
+      id: "node/4690905885",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905886",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/354.jpg",
+        inscription:
+          "Hier wohnte IGNAZ GRABLER JG. 1884 Im Widerstand verhaftet 6.3.1942 Zuchthaus Straubing Tot an Haftfolgen",
+        memorial: "stolperstein",
+        name: "Ignaz Grabler",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "14",
+        "object:postcode": "5020",
+        "object:street": "Itzlinger Hauptstraße",
+        "person:date_of_birth": "1884-03-24",
+        "person:date_of_death": "1949-08-27",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Grabler_Ignaz",
+        wikimedia_commons: "File:Stolperstein für Ignaz Grabler (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443764, 47.8201663],
+      },
+      id: "node/4690905886",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905887",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/377.jpg",
+        inscription:
+          "Hier wohnte Ludwig Dunhofer JG. 1900 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Ludwig Dunhofer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "45",
+        "object:postcode": "5020",
+        "object:street": "Ignaz Harrer Straße",
+        "person:date_of_birth": "1900-09-29",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Dunhofer_Ludwig",
+        wikimedia_commons:
+          "File:Stolperstein für Ludwig Dunhofer (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0273182, 47.8114929],
+      },
+      id: "node/4690905887",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690905888",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/414.jpg",
+        inscription:
+          "Hier wohnte RUDOLF DULLINGER JG. 1884 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Rudolf Dullinger",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "27",
+        "object:postcode": "5020",
+        "object:street": "Römergasse",
+        "person:date_of_birth": "1884-05-14",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Dullinger_Rudolf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0263245, 47.8019433],
+      },
+      id: "node/4690905888",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690906489",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/413.jpg",
+        inscription:
+          "Hier wohnte IGNAZ DUDA JG. 1899 Deportiert 17.4.1941 Schloss Hartheim Ermordet 1941",
+        memorial: "stolperstein",
+        name: "Ignaz Duda",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Josef Schwer Gasse",
+        "person:date_of_birth": "1899-02-06",
+        "person:date_of_death": "1941",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Duda_Ignaz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0246608, 47.7973332],
+      },
+      id: "node/4690906489",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690906490",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/346.jpg",
+        inscription:
+          "Hier wohnte JOHANN BRUCKMOSER JG. 1906 Im Widerstand verhaftet 25.2.1942 Zuchthaus Straubing Tot an Haftfolgen",
+        memorial: "stolperstein",
+        name: "Johann Bruckmoser",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "33",
+        "object:postcode": "5020",
+        "object:street": "Gärtnerstraße",
+        "person:date_of_birth": "1906-06-17",
+        "person:date_of_death": "1948-06-15",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Bruckmoser_Johann",
+        wheelchair: "yes",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0255466, 47.8013271],
+      },
+      id: "node/4690906490",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4690906491",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/345.jpg",
+        inscription:
+          "Hier wohnte FRANZ BROZ JG. 1889 Im Widerstand verhaftet 4.3.1942 Zuchthaus Straubing Tot an Haftfolgen",
+        memorial: "stolperstein",
+        name: "Franz Broz",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "27",
+        "object:postcode": "5020",
+        "object:street": "Haunspergstraße",
+        "person:date_of_birth": "1889-07-13",
+        "person:date_of_death": "1946-08-12",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2016-08-18",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/Broz_Franz",
+        wikimedia_commons:
+          "File:Salzburg - Elisabeth-Vorstadt - Haunspergstraße 27 - Stolperstein Franz Broz.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0389484, 47.8129018],
+      },
+      id: "node/4690906491",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4703073547",
+        description: "Marmorblock mit Namenschildern der hier Bestatteten",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0373521, 47.839131],
+      },
+      id: "node/4703073547",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4703073548",
+        description: "Marmorblock mit Namenschildern der hier Bestatteten",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0373776, 47.839194],
+      },
+      id: "node/4703073548",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4910615944",
+        historic: "memorial",
+        material: "metal",
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3067568, 47.815624],
+      },
+      id: "node/4910615944",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/4976768237",
+        ele: "770",
+        historic: "memorial",
+        inscription: "Hier stand der große Kaiser Josef II am 28. Oktober 1779",
+        memorial: "stone",
+        name: "Gedenkpyramide",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0087519, 47.9266389],
+      },
+      id: "node/4976768237",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5081741424",
+        description: "Holztafel auf Pfahl mit Reiterbild und Laterne",
+        historic: "memorial",
+        inscription:
+          "Zur Erinnerung an Julia Pikl, die am 12.April 1990 im 13.Lebensjahr hier verunglückte.",
+        name: "Julia Pikl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1145148, 47.8837295],
+      },
+      id: "node/5081741424",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5106748103",
+        historic: "memorial",
+        inscription: "Brötzner R. C. Kopeindlgut 2005",
+        memorial: "stone",
+        name: "Kopeindlgut",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9695072, 47.7931407],
+      },
+      id: "node/5106748103",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5109098103",
+        historic: "memorial",
+        inscription: "Sankt Rupert 1967",
+        memorial: "statue",
+        name: "Sankt Rupert",
+        start_date: "1967",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1232575, 47.8857648],
+      },
+      id: "node/5109098103",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5114595707",
+        description: "Bronzeskulptur auf hellen Granitsockel",
+        historic: "memorial",
+        inscription:
+          "Dem Priester Joseph Mohr als den Dichter und dem Lehrer Franz Gruber als Komponisten",
+        memorial: "sculpture",
+        name: "Mohr-Gruber-Denkmal",
+        wikidata: "Q20717207",
+        wikipedia: "de:Mohr-Gruber-Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.943011, 47.9397577],
+      },
+      id: "node/5114595707",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5114634571",
+        description:
+          "Bronzebüste auf rosa-weißen Marmorblock, daneben zwei helle Marmorblöcke mit Aufschrift",
+        historic: "memorial",
+        inscription:
+          "J.Michael Rottmayr 1654-1730 1986 Gestiftet vom Lionsclub Salzach",
+        material: "metal",
+        memorial: "bust",
+        name: "Johann-Michael-Rottmayr-Denkmal",
+        start_date: "1986",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9430063, 47.9395955],
+      },
+      id: "node/5114634571",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5114634572",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9423105, 47.9397507],
+      },
+      id: "node/5114634572",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5116789135",
+        historic: "memorial",
+        inscription:
+          "Güterweg Fischtaging erbaut in den Jahren 1974 bis 1985 von der Weggenossenschaft mit Unterstützung des Landes des Bundes und der Gemeinde Seekirchen",
+        memorial: "plaque",
+        name: "Güterweg Fischtaging",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1482939, 47.8797351],
+      },
+      id: "node/5116789135",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5124169287",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Heiliger Johannes von Nepomuk",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1269173, 47.89089],
+      },
+      id: "node/5124169287",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5126624086",
+        description: "Zwei schnurspringende Mädchenfiguren aus Bronze",
+        historic: "memorial",
+        memorial: "statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.124436, 47.8639761],
+      },
+      id: "node/5126624086",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5128797255",
+        artist_name: "Alfred Gruber",
+        description:
+          "Auf einer Platte ragen drei sich zuspitzende Metall-Pfeiler(Freiheit Friede Fairness) empor und tragen eine Metall-Schale;Am Boden steht eine Kerze;geschätzte Höhe 4 m;Im Bodenbereich steht der Name A Gruber",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Freiheit Friede Fairness",
+        start_date: "2016-09-11",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1279325, 47.871893],
+      },
+      id: "node/5128797255",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5177205978",
+        historic: "memorial",
+        memorial: "war_memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8900072, 47.7317099],
+      },
+      id: "node/5177205978",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5177205979",
+        historic: "memorial",
+        memorial: "obelisk",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8891127, 47.7321049],
+      },
+      id: "node/5177205979",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5275325171",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1142251, 47.8540445],
+      },
+      id: "node/5275325171",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5279125669",
+        ele: "665",
+        historic: "memorial",
+        inscription: "Johann Schwarzbauer",
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9311649, 47.7234302],
+      },
+      id: "node/5279125669",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5366120525",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        historic: "memorial",
+        memorial: "statue",
+        name: "Kaiserin-Elisabeth-Denkmal",
+        website: "https://www.sn.at/wiki/Kaiserin-Elisabeth-Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0440188, 47.8125569],
+      },
+      id: "node/5366120525",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5565342143",
+        historic: "memorial",
+        name: "In Erinnerung",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9333305, 47.9314383],
+      },
+      id: "node/5565342143",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/5684205247",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2099022, 47.7748866],
+      },
+      id: "node/5684205247",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6305856936",
+        historic: "memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0601535, 47.731466],
+      },
+      id: "node/6305856936",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6327766926",
+        ele: "515",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1819314, 47.9052629],
+      },
+      id: "node/6327766926",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6327767302",
+        historic: "memorial",
+        inscription:
+          "Diese Linden wurden um das Jahr 1870 zum Gedenken an den Bauer Brandstätter gepflanzt, der beim Holzfällen tödlich verunglücke.",
+        leisure: "nature_reserve",
+        memorial: "tree",
+        name: "Linden in Kirchfenning",
+        natural: "tree",
+        start_date: "1870",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1726983, 47.8971305],
+      },
+      id: "node/6327767302",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6327767303",
+        historic: "memorial",
+        inscription:
+          "Diese Linden wurden um das Jahr 1870 zum Gedenken an den Bauer Brandstätter gepflanzt, der beim Holzfällen tödlich verunglücke.",
+        leisure: "nature_reserve",
+        memorial: "tree",
+        name: "Linden in Kirchfenning",
+        natural: "tree",
+        start_date: "1870",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1725984, 47.8971165],
+      },
+      id: "node/6327767303",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6440496206",
+        historic: "memorial",
+        memorial: "stolperstein",
+        name: "Joseph Hoch",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "28",
+        "object:postcode": "5020",
+        "object:street": "Elisabethstraße",
+        source: "www.stolpersteine-salzburg.at",
+        website:
+          "https://www.stolpersteine-salzburg.at/stolperstein/hoch_josef",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0435543, 47.8163633],
+      },
+      id: "node/6440496206",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/6770289626",
+        historic: "memorial",
+        inscription: "E - 22. August 1867",
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.993061, 47.7405626],
+      },
+      id: "node/6770289626",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7021290331",
+        historic: "memorial",
+        memorial: "sculpture",
+        name: "Pest-Gedenken",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0395215, 47.8019052],
+      },
+      id: "node/7021290331",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7021600057",
+        artist_name: "Benjamin Zsak",
+        historic: "memorial",
+        inscription:
+          "30 Bauarbeiter verunglückten im Jahr 2017 im Rahmen ihrer beruflichen Tätigkeit tödlich. Dieses Denkmal wurde zum Gedenken an alle bei der Arbeit verunglückten oder an den Folgen von Berufskrankheiten verstorbenen ArbeitnehmerInnen errichtet.",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0722066, 47.7762194],
+      },
+      id: "node/7021600057",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151546779",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Niederländisches Ehrenfeld Salzburg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0482178, 47.7755165],
+      },
+      id: "node/7151546779",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151598028",
+        historic: "memorial",
+        inscription: "Dem Gedenken der Opfer für Freiheit und Menschenwürde",
+        memorial: "memorial",
+        name: "Mahnmal für die Opfer des Nationalsozialismus",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0486805, 47.7754525],
+      },
+      id: "node/7151598028",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151618222",
+        historic: "memorial",
+        inscription:
+          "IN DER ZEIT VOM 16. OKTOBER 1944 BIS 1. MAI 1945 WARFEN TAUSEND FLUGZEUGE 7566 BOMBEN AUF DIE STADT SALZBURG UND VERNICHTETEN 710 MENSCHENLEBEN. \n197 RUHEN AN DIESER STAETTE\n+ GEDENKE ALL DER OPFER +",
+        memorial: "memorial",
+        name: "Denkmal für die Bombenopfer der Stadt Salzburg in den Jahren 1944 und 1945",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0489095, 47.7760879],
+      },
+      id: "node/7151618222",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151682827",
+        historic: "memorial",
+        inscription:
+          "HIER LIEGEN 55 SOWJETBÜRGER \nVON DEUTSCH-FASCHISTISCHEN EROBERERN INS ELEND GETRIEBEN UND FERN VON DER HEIMAT UMS LEBEN GEKOMMEN",
+        memorial: "war_memorial",
+        name: "Gedenkstätte sowjetischer Kriegsopfer und anderer Nationen",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0453019, 47.7768892],
+      },
+      id: "node/7151682827",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151731824",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal von Leopoldskron-Moos",
+        source:
+          "http://www.marterl.at/index.php?id=54&no_cache=1&oid=3783#.Xih6iyMo-Hs",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0222569, 47.7762601],
+      },
+      id: "node/7151731824",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151775279",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Gnigler Kriegerdenkmal",
+        source:
+          "https://www.marterl.at/index.php?id=54&no_cache=1&oid=7868#.Xih5nSMo-Hs",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0746556, 47.8118902],
+      },
+      id: "node/7151775279",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151786232",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal von Itzling",
+        source:
+          "https://www.marterl.at/index.php?id=54&no_cache=1&oid=9232#.Xih4-SMo-Hs",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0472083, 47.8244879],
+      },
+      id: "node/7151786232",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151828421",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal Liefering",
+        source:
+          "https://www.marterl.at/index.php?id=54&no_cache=1&oid=1475#.Xih-AyMo-Hs",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092245, 47.8237855],
+      },
+      id: "node/7151828421",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7151897139",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal Nonntal",
+        source:
+          "https://www.marterl.at/index.php?id=54&no_cache=1&oid=3669#.XiiDPiMo-Hs",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0524798, 47.7958085],
+      },
+      id: "node/7151897139",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7316851603",
+        historic: "memorial",
+        memorial: "statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0906887, 47.66275],
+      },
+      id: "node/7316851603",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7560002355",
+        historic: "memorial",
+        inscription:
+          "Zur Erinnerung an die verunglückten u. gefallenen Mitglieder des Schifferschützencorps; 1278 - 1978",
+        material: "stone",
+        memorial: "statue",
+        start_date: "1978",
+        website:
+          "https://www.sn.at/wiki/Datei:Denkmal_des_Schiffersch%C3%BCtzencorps_an_der_Salzach.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9398151, 47.94062],
+      },
+      id: "node/7560002355",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7575271420",
+        description:
+          "Zum Gedenken an Salzburgerinnen, die wegen ihres politischen Widerstands von den Nationalsozialisten ermordet wurden",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Rosa Hofmann Gedenkstein",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0197755, 47.8032297],
+      },
+      id: "node/7575271420",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7596635690",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Hier erlegte Friedrich Mayr Melnhof am 1. August 1940 seinen 1000 Rehbock",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.987669, 47.8839724],
+      },
+      id: "node/7596635690",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7620237380",
+        historic: "memorial",
+        material: "wood",
+        name: "Zwei Linden in Henndorf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1848406, 47.9120361],
+      },
+      id: "node/7620237380",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7887471960",
+        historic: "memorial",
+        inscription: "geboren 06.08.1967 vermisst seit 21.01.2012",
+        name: "Gerhard Leitner",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9865956, 47.724863],
+      },
+      id: "node/7887471960",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/7956014448",
+        historic: "memorial",
+        inscription: "Unseren Gefallenen",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1318933, 47.6961821],
+      },
+      id: "node/7956014448",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8018084178",
+        historic: "memorial",
+        name: "Irene Dziub",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0485472, 47.7981237],
+      },
+      id: "node/8018084178",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8084658416",
+        historic: "memorial",
+        inscription: "Georg von Liebig 1827-1903",
+        material: "bronze",
+        memorial: "bust",
+        name: "Georg von Liebig",
+        "subject:wikidata": "Q1506624",
+        "subject:wikipedia": "de:Georg von Liebig",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8831745, 47.7287362],
+      },
+      id: "node/8084658416",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8138849246",
+        historic: "memorial",
+        inscription: "Polier Vinzenz Pfeiffenberger verunglückt . 12. 1940",
+        material: "stone",
+        memorial: "stone",
+        name: "Gedenkstein Pfeiffenberger Vinzenz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1478549, 47.7007452],
+      },
+      id: "node/8138849246",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8245388970",
+        description:
+          "Kopie; s. http://www.ubi-erat-lupa.org/monument.php?id=4474",
+        historic: "memorial",
+        inscription:
+          "In memor[iam] / M(arci) Procul(eii) [Iu]/stini M(arcus) Pro/cul(eius) Martial(is) / dec(urio) et II vir / et Gavia Ius/tina parentes",
+        material: "stone",
+        memorial: "stone",
+        name: "Grabaltar des Marcus Proculeius Iustinus (1. Jh.)",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.934699, 47.9398143],
+      },
+      id: "node/8245388970",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8287817362",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0471875, 47.8244999],
+      },
+      id: "node/8287817362",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8460566717",
+        artist_name: "Georg Weninger",
+        historic: "memorial",
+        material: "metal",
+        memorial: "war_memorial",
+        name: "Friedenstaube",
+        wikidata: "Q110826887",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1665176, 47.6932509],
+      },
+      id: "node/8460566717",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8640446332",
+        historic: "memorial",
+        memorial: "ghost_bike",
+        start_date: "2021-04-17",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0564007, 47.8271023],
+      },
+      id: "node/8640446332",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8753757463",
+        historic: "memorial",
+        name: "Flurbereinigung Leobendorf",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9063431, 47.9338354],
+      },
+      id: "node/8753757463",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8806956682",
+        historic: "memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0256733, 47.8592035],
+      },
+      id: "node/8806956682",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8811945573",
+        historic: "memorial",
+        inscription:
+          "Im Weltkrieg 1914-1918 für die Heimat den Heldentod erlitten",
+        material: "concrete",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+        wikidata: "Q134931285",
+        wikimedia_commons: "Category:Kriegerdenkmal, Ebenau",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1747043, 47.7920894],
+      },
+      id: "node/8811945573",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8814931982",
+        historic: "memorial",
+        inscription: "Verstorbene Bauern aus der Umgebung",
+        material: "wood",
+        memorial: "plaque",
+        name: "Totenbretter",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9128512, 47.8740345],
+      },
+      id: "node/8814931982",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8815294298",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1803158, 47.716028],
+      },
+      id: "node/8815294298",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8815294302",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Leichladen",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1885963, 47.7137955],
+      },
+      id: "node/8815294302",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8815294303",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Leichladen",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1837306, 47.7153809],
+      },
+      id: "node/8815294303",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8839317000",
+        historic: "memorial",
+        memorial: "stone",
+        name: "Basejump Denkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3486827, 47.8139689],
+      },
+      id: "node/8839317000",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860619045",
+        historic: "memorial",
+        inscription:
+          "Im 1. Stock der Residenz wurde Hans Makart, berühmter Maler der Ringstraßenzeit, geboren | * Salburg 28.Mai 1840 | † Wien 3.Oktober 1884",
+        memorial: "plaque",
+        name: "Hans Makart",
+        "subject:wikidata": "Q511444",
+        wikimedia_commons: "File:Residenz Salzburg Museum 7047.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0454835, 47.7986171],
+      },
+      id: "node/8860619045",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860619056",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Marko-Feingold-Steg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420286, 47.8012486],
+      },
+      id: "node/8860619056",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860619057",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Marko-Feingold-Steg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0424915, 47.8021906],
+      },
+      id: "node/8860619057",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860720584",
+        historic: "memorial",
+        inscription:
+          "Hier wohnte | JOHANN REHRL | Jg 1874 | deportiert 17.4.1941 | Schloss Hartheim | ermordet 1941",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "Johann Rehrl",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "1",
+        "object:postcode": "5020",
+        "object:street": "Griesgasse",
+        wikimedia_commons: "File:Stolperstein für Johann Rehrl (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0443628, 47.8004071],
+      },
+      id: "node/8860720584",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860765089",
+        historic: "memorial",
+        inscription:
+          "Das war ein Vorspiel nur - dort wo man Bücher verbrennt, verbrennt man auch am Ende Menschen. Heinrich Heine, 1823 | Zur mahnenden Erinnerung an die am 30.April 1938 von den Nationalsozialisten inszenierte Bücherverbrennung auf dem Residenzplatz. | Stadt",
+        material: "granite",
+        memorial: "plaque",
+        name: "Bücherverbrennung",
+        wikimedia_commons:
+          "Category:Gedenktafel_für_NS-Opfer_(Salzburg_(Stadt),_Residenzplatz,_Bücherverbrennung)",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0469105, 47.7987912],
+      },
+      id: "node/8860765089",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8860778547",
+        historic: "memorial",
+        inscription:
+          "René Lucien Coilliaux | Jg. 1913 | Französischer Kriegsgefangener | Zwangsarbeit Brückenbau | tot 2.12.1942",
+        material: "metal",
+        memorial: "stolperstein",
+        "memorial:conflict": "Holocaust",
+        name: "René Lucien Coilliaux",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "object:street": "Staatsbrücke",
+        "person:date_of_birth": "1913",
+        "person:date_of_death": "1942-12-02",
+        wikimedia_commons:
+          "File:Salzburg - Altstadt - Staatsbrücke Stolperstein Coilliaux - 2019 11 08.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0446491, 47.8012829],
+      },
+      id: "node/8860778547",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8865788312",
+        historic: "memorial",
+        inscription:
+          "In diesem Haus erfand im Jahr 1890 der Salzburger Conditor PAUL FÜRST (1856-1941) die heute weltbekannte Original Salzburger Mozartkugel",
+        material: "granite",
+        memorial: "plaque",
+        name: "Paul Fürst",
+        "subject:wikidata": "Q2059683",
+        wikimedia_commons: "File:Paul-Fürst-ErfinderMozartkugel.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0455351, 47.7991674],
+      },
+      id: "node/8865788312",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8865788313",
+        historic: "memorial",
+        inscription: "Geburtshaus des Dichters | GEORG TRAKL | 1887-1914",
+        memorial: "plaque",
+        name: "Georg Trakl",
+        "subject:wikidata": "Q78476",
+        wikimedia_commons: "File:GeorgTrakl-Geburtshaus.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0470861, 47.7993413],
+      },
+      id: "node/8865788313",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/8888510384",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Johann Brunauer Gedenktafel",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2027397, 47.7322819],
+      },
+      id: "node/8888510384",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9021287172",
+        historic: "memorial",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/6/61/Stolperstein_f%C3%BCr_Franz_Wesenauer_%28Salzburg%29.jpg",
+        inscription:
+          "HIER ARBEITETE KOOPERATOR FRANZ WESENAUER JG. 1904 IM CHRISTLICHEN WIDERSTAND ÜBERLEBT",
+        material: "brass",
+        memorial: "stolperstein",
+        name: "Franz Wesenauer",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:housenumber": "5",
+        "object:postcode": "5020",
+        "object:street": "Mirabellplatz",
+        "person:date_of_birth": "1904",
+        "person:date_of_death": "1991",
+        source: "www.stolpersteine-salzburg.at",
+        start_date: "2018-09-25",
+        "toilets:wheelchair": "no",
+        wheelchair: "yes",
+        wikimedia_commons:
+          "File:Stolperstein_für_Franz_Wesenauer_(Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043393, 47.8059071],
+      },
+      id: "node/9021287172",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9046061150",
+        historic: "memorial",
+        material: "marble",
+        memorial: "war_memorial",
+        name: "Gedenkstein Xaver Haimerl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1269756, 47.6928879],
+      },
+      id: "node/9046061150",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9149524469",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.2559991, 47.7462608],
+      },
+      id: "node/9149524469",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9209502275",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1115656, 47.7298327],
+      },
+      id: "node/9209502275",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9271296502",
+        historic: "memorial",
+        name: "Matthias Gaderer Gedenkkreuz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3404799, 47.8758719],
+      },
+      id: "node/9271296502",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9273012591",
+        historic: "memorial",
+        inscription: "Helga Teix 13.3.1964",
+        memorial: "cross",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0110124, 47.7436054],
+      },
+      id: "node/9273012591",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9273116279",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0086949, 47.7447273],
+      },
+      id: "node/9273116279",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9273116280",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0086775, 47.7447733],
+      },
+      id: "node/9273116280",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9273145969",
+        historic: "memorial",
+        memorial: "statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0074289, 47.748572],
+      },
+      id: "node/9273145969",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9274265110",
+        historic: "memorial",
+        memorial: "cross",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3587099, 47.8090464],
+      },
+      id: "node/9274265110",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9274265111",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3591235, 47.8096653],
+      },
+      id: "node/9274265111",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9274265112",
+        historic: "memorial",
+        memorial: "cross",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3604512, 47.8134157],
+      },
+      id: "node/9274265112",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9620585731",
+        description: "Gedenkstein für den Gründer des Museums, Kurt Conrad",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9473158, 47.7514256],
+      },
+      id: "node/9620585731",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/9968733972",
+        description: "an dieser Stelle bei einem Autounfall verunglückt",
+        historic: "memorial",
+        inscription: "Hansjörg Krispler vom Dicken 1954 - 2021",
+        material: "marble",
+        memorial: "stone",
+        name: "Gedenkstein Hansjörg Krispler",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1449696, 47.7058838],
+      },
+      id: "node/9968733972",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11118536884",
+        direction: "185",
+        historic: "memorial",
+        inscription:
+          '"In Salzburg brachte ich einige der glücklichsten Stunden meines Lebens zu. Ich wäre auch gerne in der schönen Stadt geblieben;Aber als Jude wäre ich nie zur Stellung eines Richters befördert worden."\nSommer 1885\nTheodor Herzl 1860 - 1904',
+        material: "stone",
+        memorial: "plaque",
+        "subject:wikidata": "Q44003",
+        "subject:wikipedia": "en:Theodor Herzl",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.047813, 47.7990699],
+      },
+      id: "node/11118536884",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11129835727",
+        description: "Marterl für zwei verunglückte Schwimmer",
+        historic: "memorial",
+        inscription:
+          "Zum Gedenken 28.07.2004 Thomas Fenninger ... Mario Oberascher",
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0124862, 47.8458025],
+      },
+      id: "node/11129835727",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11391655645",
+        "addr:street": "Schwarzgrabenweg",
+        historic: "memorial",
+        image:
+          "https://www.stolpersteine-salzburg.at/wp-content/uploads/213.jpg",
+        inscription:
+          "Hier wohnte Aloisia Wolf\nJG.1930\nSintiza\ndeportiert 10.5.1944\nAuschwitz\nErmordet",
+        memorial: "stolperstein",
+        name: "Aloisia Wolf",
+        network: "Stolpersteine Salzburg",
+        "object:city": "Salzburg",
+        "object:country": "AT",
+        "object:postcode": "5020",
+        "person:date_of_birth": "1930",
+        source: "Stolpersteine Salzburg",
+        wikimedia_commons: "File:Stolperstein für Aloisia Wolf (Salzburg).jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0092935, 47.7786461],
+      },
+      id: "node/11391655645",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11391700587",
+        artist_name: "Zoltan Pap",
+        fixme: "check location",
+        historic: "memorial",
+        inscription:
+          'In Salzburg wurden mehr als 250 Sinti und Roma Opfer der Nationalso Rassenpolitik. Eingesperrt im so genannten "Zigeunerlager Maxglan", mussten sie im Rahmen der Glan-Regulierung Zwangsarbeit leisten. Im Frühjahr 1943 wurden sie in die Vernichtungslager d',
+        memorial: "war_memorial",
+        "memorial:conflict": "Holocaust",
+        name: "Mahnmal für Sinti und Roma",
+        wikimedia_commons: "Category:Zwangslager Salzburg-Maxglan",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.009387, 47.77864],
+      },
+      id: "node/11391700587",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11462900807",
+        historic: "memorial",
+        inscription:
+          "In diesem Hause\nzunächst beim Raplbad\nwohnte im Jahre 1525\nTheophrastus\nParacelsus.",
+        memorial: "plaque",
+        name: "Theophrastus Paracelsus",
+        "subject:wikidata": "Q83428",
+        wikimedia_commons: "File:Pfeiffergasse 11-Paracelsus.JPG",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0498307, 47.7979829],
+      },
+      id: "node/11462900807",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11549009706",
+        historic: "memorial",
+        memorial: "cross",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.088622, 47.724946],
+      },
+      id: "node/11549009706",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11592843445",
+        historic: "memorial",
+        material: "stone",
+        memorial: "statue",
+        name: "Heiliger Petrus",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9126825, 47.7695845],
+      },
+      id: "node/11592843445",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11851352350",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Den Gefallenen Helden",
+        wikidata: "Q37766018",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.3188282, 47.9017072],
+      },
+      id: "node/11851352350",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11936572529",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0423736, 47.806285],
+      },
+      id: "node/11936572529",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11939081553",
+        historic: "memorial",
+        memorial: "stone",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.11136, 47.8033809],
+      },
+      id: "node/11939081553",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11939081554",
+        historic: "memorial",
+        material: "stone",
+        memorial: "stele",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1110925, 47.8033395],
+      },
+      id: "node/11939081554",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11947737888",
+        historic: "memorial",
+        memorial: "war_memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9233504, 47.8630276],
+      },
+      id: "node/11947737888",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/11997632046",
+        heritage: "2",
+        "heritage:operator": "bda",
+        historic: "memorial",
+        memorial: "plaque",
+        "ref:at:bda": "6642",
+        wikidata: "Q38073745",
+        wikimedia_commons: "Category:Inschrifttafel 1518 Dürrnberg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.085584, 47.676829],
+      },
+      id: "node/11997632046",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12038286015",
+        historic: "memorial",
+        memorial: "war_memorial",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.8931086, 47.9217897],
+      },
+      id: "node/12038286015",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12135356910",
+        historic: "memorial",
+        material: "stone",
+        memorial: "statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9066878, 47.7254395],
+      },
+      id: "node/12135356910",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12135670950",
+        historic: "memorial",
+        material: "stone",
+        memorial: "statue",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9070646, 47.7252628],
+      },
+      id: "node/12135670950",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12182322140",
+        height: "2.5",
+        historic: "memorial",
+        material: "stone",
+        memorial: "sculpture",
+        name: "Imkerverein 1910-1990",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1358216, 47.9029487],
+      },
+      id: "node/12182322140",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12318566608",
+        historic: "memorial",
+        name: "Veva Tončić",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0308111, 47.8057791],
+      },
+      id: "node/12318566608",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12468396769",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Am Mönchsberg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0428288, 47.7973428],
+      },
+      id: "node/12468396769",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12468440397",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "St.-Peters-Friedhof",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0459381, 47.7965277],
+      },
+      id: "node/12468440397",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12468441919",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Musik im Mirabell",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0426868, 47.804541],
+      },
+      id: "node/12468441919",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12486496111",
+        historic: "memorial",
+        inscription:
+          "AN DIESER STELLE STAND DAS HAUS. WELCHES DER TONDICHTER MICHAEL HADYN BIS ZU SEINEM TODE 1806 BEWOHNTE.",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel Johann Michael Haydn",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0460986, 47.7964876],
+      },
+      id: "node/12486496111",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12486509695",
+        historic: "memorial",
+        inscription:
+          "DER KOMPONIST UND VIOLINVIRTUOSE\nHEINRICH IGNAZ FRANZ BIBER\n1644 — 1704\nWOHNTE UND STARB IN DIESEM HAUS\nALS HOFMUSIKER UND HOFKAPELLMEISTER\nWIRKTE ER AB DEM JAHRE 1670 IN SALZBURG\nGESELLSCHAFT FÜR SALZBURGER LANDESKUNDE\nJOHANN-MICHAEL-HAYDN-GESELLSCHAFT",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel Heinrich Biber",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0446004, 47.7999861],
+      },
+      id: "node/12486509695",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12486600602",
+        historic: "memorial",
+        inscription:
+          "IN DIESEM HAUSE\nWURDE AM 7. JUNI 1874 DER DICHTER,\nKANONIKUS UND SCHULDIREKTOR,\nBÜRGER SEINER VATERSTADT SALZBURG,\nANTON PICHLER GEBOREN.\nVON IHM STAMMT AUCH DER TEXT\nZUR SALZBURGER LANDESHYMNE.\nER STARB AM 6. SEPTEMBER 1943.",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel Anton Pichler",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0456858, 47.7995856],
+      },
+      id: "node/12486600602",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12486616854",
+        historic: "memorial",
+        inscription:
+          "IN DIESEM \nHAUSE WOHNTE 1692\nJOH. MICH. ROTTMAYR\nDER GROSSE BAROCKMALER\n1654-1730",
+        material: "marble",
+        memorial: "plaque",
+        name: "Gedenktafel Johann Michael Rottmayr",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0455709, 47.7989742],
+      },
+      id: "node/12486616854",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12502233984",
+        description:
+          'A memorial plaque that shows a symbol of a hand ripping out a tree. This symbol of strenght was chosen because of the lastname of the remembered. In the middle ages it meant "to clear wood" or "to rip out".',
+        historic: "memorial",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenkstein mit Stärkesymbol",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0456523, 47.7965808],
+      },
+      id: "node/12502233984",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12504544344",
+        historic: "memorial",
+        inscription:
+          "Dem verdienstvollen\nSchulmanne und Schriftsteller\nFRZ. MICH. Vierthaler\ngeboren 1758, gestorben 1827\nUnvergessen ist sein Wirken \nin Salzburg durch die Jahre\n1786-1806",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel Franz Michael Vierthaler",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0416776, 47.7995485],
+      },
+      id: "node/12504544344",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12504544345",
+        historic: "memorial",
+        inscription:
+          "Zur Erinnerung an\nFREIHERRN\nCARL EHRENBERT v. MOLL\ngeb. zu Thalgau 21. Dezember 1760\ngest. zu Augsburg 31. Januar 1838\nSeine Staatskunst gehörte dem Heimatlande, \nsein Forschen und Sammeln der Wissenschaft\nsein ganzes Denken, Streben und Thun ...",
+        material: "stone",
+        memorial: "plaque",
+        name: "Freiherr von Moll",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0419289, 47.7995115],
+      },
+      id: "node/12504544345",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12504552780",
+        historic: "memorial",
+        inscription:
+          'Dem Andeken des\nGeschichtschreibers u. Rechtsgelehrten\nJ. THADDÄUS ZAUNER\ngeb. zu Obertrum 16. Oktob. 1750\ngest. zu Salzburg 10. Mai 1815\nIn seiner "Chronik von Salzburg" setzte er \nsich selbst das schönste Denkmal.',
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel J. Thaddäus Zauner",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0426203, 47.7994171],
+      },
+      id: "node/12504552780",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12504586585",
+        historic: "memorial",
+        inscription:
+          "Dem allverehrten Priester O.S.Fr. Tondichter, Musikschriftsteller, Erfinder des Pansymphonikon, P. Peter Singer, geboren am 18. Juli 1810 zu Haeselgehr in Tirol, gestorben in Salzburg am 25. Jänner 1882, welcher in diesem Kloster durch 42 Jahre der Kirche",
+        material: "marble",
+        memorial: "plaque",
+        name: "Pater-Singer-Gedenktafel",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043747, 47.7980153],
+      },
+      id: "node/12504586585",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12509451278",
+        historic: "memorial",
+        inscription:
+          "IN DIESEM HAUSE \nWURDE\nSIGISMUND RITTER VON NEUKOMM\nAM 10. JULI 1778 GEBOREN:\nEIN FRUCHTBARER KOMPONIST\nWELTBERÜHMTER DIRIGENT UND \nORGANIST. ALLSEITIGER MUSIKER \nUND GELEHRTER.",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel Sigismund Neukomm",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0434232, 47.8002168],
+      },
+      id: "node/12509451278",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512522146",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Inschrift",
+        source:
+          '"Bennant nach der Salzburger Bürgerfamilie Hagenauer. Johann Lorenz war Mäzen und Freund Mozarts, Johann Wolfgang Architekt, Johann Baptist Bildhauer und Dominicus bis 1811 Abt von St. Peter".',
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043635, 47.8004301],
+      },
+      id: "node/12512522146",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512565579",
+        historic: "memorial",
+        inscription:
+          '"In diesem Hause war die Musikschule der internationalen Stiftung Mozarteum vom Jahre ihrer Gründung 1880-1914 beheimatet".',
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0420391, 47.7986326],
+      },
+      id: "node/12512565579",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512588529",
+        historic: "memorial",
+        inscription:
+          '"Errichtet von der Stadtgemeinde 1904. Ehemals Bürgerspital".',
+        memorial: "plaque",
+        name: "St. Blasiuskirche",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0395851, 47.8002439],
+      },
+      id: "node/12512588529",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512619988",
+        historic: "memorial",
+        inscription:
+          '"Dieses Kloster war 1938 bis 1945 von der GESTAPO beschlagnahmt. Zum Gedenken an Qualen, Folter und Tod ungezählter Opfer die Stadt Salzburg".',
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.043657, 47.7980012],
+      },
+      id: "node/12512619988",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512620135",
+        historic: "memorial",
+        inscription:
+          '"Sigmund Haffner (1756-1787). Vermögender Salzburger Bürger, Sohn des gleichnamigen Bürgermeisters, stiftete große Summen für soziale Einrichtungen. Zu seiner Erhebung in den Adelsstand 1782 komponierte Mozart die Haffner-Sinfonie".',
+        memorial: "plaque",
+        name: "Sigmund-Haffner-Gasse",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0438762, 47.7985291],
+      },
+      id: "node/12512620135",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12512628013",
+        historic: "memorial",
+        inscription: '"Franziskaner Kloster 1583".',
+        memorial: "plaque",
+        name: "Franziskaner Kloster 1583",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0435933, 47.7980045],
+      },
+      id: "node/12512628013",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12514235843",
+        historic: "memorial",
+        inscription:
+          '"Karl Freiherr von Schwarz (1817-1898). Aus Mähren stammender Bau- und Eisenbahnunternehmer, war maßgeblich an der Salzachregulierung und Stadterweiterung sowie am Ausbau der Eisenbahn tätig. Ehrenbürger der Stadt Salzburg."',
+        memorial: "plaque",
+        name: "Schwarzstrasse. Karl Freiherr von Schwarz",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0448712, 47.8016002],
+      },
+      id: "node/12514235843",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12514251692",
+        historic: "memorial",
+        inscription:
+          '"Dieses Haus wurde in den Kriegsjahren 1939/45 beschädigt und aus Fondsmitteln des Bundesministeriums f. Handel und Wiederaufbau im Jahre 1959 under dem Bundeskanzler Ing. Julius Raab wiederhergestellt".',
+        memorial: "plaque",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.035522, 47.8097711],
+      },
+      id: "node/12514251692",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12536559797",
+        historic: "memorial",
+        "inscription:de":
+          'Der Regenbogen war das Symbol der US-"Rainbow Division" (42. Infanteriedivision) die unter dem Kommando von Generalmajor Harry J. Collins im Main 1945 an der Befreiung des Bundeslandes Salzburg beteiligt war.',
+        "inscription:en":
+          'The rainbow was the symbol of the US-"Rainbow Division" (42nd Infantry Division) that, under the command of Major General Harry J. Collins, took part in the liberation of the Province of Salzburg in May 1945.',
+        material: "stone",
+        memorial: "plaque",
+        name: "Denkmal Rainbow Division (42nd Infantry Division)",
+        wikidata: "Q131925760",
+        wikimedia_commons: "File:Denkmal Rainbow Division - DSC04703 06.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0518261, 47.797894],
+      },
+      id: "node/12536559797",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12581478506",
+        historic: "memorial",
+        memorial: "war_memorial",
+        name: "Kriegerdenkmal",
+        wikidata: "Q98741812",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [12.9600437, 47.8047246],
+      },
+      id: "node/12581478506",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12590492007",
+        historic: "memorial",
+        material: "stone",
+        memorial: "plaque",
+        name: "Gedenktafel, Steinrelief mit Figur des heiligen Leopold, Ende 18. Jahrhundert",
+        wikidata: "Q41404661",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.04269, 47.7138754],
+      },
+      id: "node/12590492007",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12590497421",
+        historic: "memorial",
+        material: "rotmarmor",
+        memorial: "plaque",
+        name: "Gedenktafel, Rotmarmor, Flachrelief mit Kreuzigungsszene, bez. 1517",
+        wikidata: "Q132399216",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0429234, 47.7138751],
+      },
+      id: "node/12590497421",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12618766000",
+        historic: "memorial",
+        inscription:
+          "Hier wohnte | FRANZ SCHAUFLER | jg. 1914 | Desertiert Nov 1940 | Verhaft Jan 1941 | 'Frontbewaehrung' | Tot 7.10.1944",
+        memorial: "stolperstein",
+        name: "Franz Schaufler",
+        source:
+          "https://www.stolpersteine-salzburg.at/en/stolperstein/schaufler_franz/",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0460326, 47.7988701],
+      },
+      id: "node/12618766000",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12690531727",
+        alt_name: "Kaiser-Jubiläumsdenkmal",
+        "artist:wikidata": "Q1818804",
+        "artist:wikipedia": "de:Leo von Moos",
+        artist_name: "Leo von Moos",
+        description:
+          "Denkmal für das 60 jährige Regierungsjubiläum von Franz Joseph I.",
+        historic: "memorial",
+        inscription: "Kaiser Franz Josef zum 60. Reg.-Jubiläum 1848-1908",
+        material: "stone",
+        memorial: "bust",
+        name: "Kaiser-Franz-Josef-Denkmal",
+        "subject:wikidata": "Q51056",
+        wikimedia_commons:
+          "File:Diamond jubilee memorial of Franz Joseph I of Austria in district Maxglan, Salzburg, Austria PNr°1136.jpg",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0156003, 47.8041309],
+      },
+      id: "node/12690531727",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12739976325",
+        historic: "memorial",
+        wikidata: "Q133839176",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1155546, 47.7528316],
+      },
+      id: "node/12739976325",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12747993853",
+        historic: "memorial",
+        memorial: "richtstätte",
+        wikidata: "Q133855033",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.1723254, 47.8882125],
+      },
+      id: "node/12747993853",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12824126869",
+        "BLfD:criteria": "Baudenkmal",
+        denomination: "roman_catholic",
+        description: "St. Nepomuk-Statue, Brückenfigur",
+        heritage: "4",
+        "heritage:operator": "BLfD",
+        "heritage:website":
+          "https://geoportal.bayern.de/denkmalatlas/searchResult.html?objtyp=bau&koid=34731",
+        historic: "memorial",
+        material: "stone",
+        memorial: "statue",
+        name: "Hl. Nepomuk",
+        "ref:BLfD": "D-1-72-124-13",
+        start_date: "1730-1740",
+        subject: "Johannes Nepomuk",
+        "subject:wikidata": "Q221522",
+        "subject:wikipedia": "de:Johannes Nepomuk",
+        tourism: "attraction",
+        wikidata: "Q41275119",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0465801, 47.6958768],
+      },
+      id: "node/12824126869",
+    },
+    {
+      type: "Feature",
+      properties: {
+        "@id": "node/12833003280",
+        historic: "memorial",
+        memorial: "plaque",
+        name: "Stephan Ludwig Roth",
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [13.0391257, 47.7599184],
+      },
+      id: "node/12833003280",
+    },
+  ],
+};
