@@ -28,6 +28,7 @@ const memorialLayer = L.geoJSON(memorials, {
     // Bind popup with memorial details
     layer.bindPopup(
       `<b>${p.name || "Unbenanntes Denkmal"}</b>
+      
       <br>Typ: ${getMemorialTypeName(p.memorial || "Unbekannt") || ""}
       ${p.start_date ? `<br>Jahr: ${p.start_date}` : ""}
       ${p["addr:full"] ? `<br>Adresse: ${p["addr:full"]}` : ""}
@@ -41,7 +42,7 @@ const memorialLayer = L.geoJSON(memorials, {
   },
 }).addTo(map);
 
-// Add a legend to the map
+// Add a legend to the map (grouped by memorial group)
 const legendControl = L.control({ position: "bottomleft" });
 legendControl.onAdd = () => {
   const div = L.DomUtil.create("div", "info legend");
@@ -49,13 +50,11 @@ legendControl.onAdd = () => {
     "background:rgba(255,255,255,0.6);padding:8px;border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,0.2)";
   div.innerHTML =
     "<b>Legende</b><br>" +
-    memorialTypes
+    Object.entries(groupColors)
       .map(
-        (type) =>
-          `<i style="background:${getColor(
-            type
-          )};width:18px;height:18px;display:inline-block;margin-right:6px;border-radius:3px;"></i>${getMemorialTypeName(
-            type
+        ([group, color]) =>
+          `<i style="background:${color};width:18px;height:18px;display:inline-block;margin-right:6px;border-radius:3px;"></i>${getGroupName(
+            group
           )}<br>`
       )
       .join("");
