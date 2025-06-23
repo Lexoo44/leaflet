@@ -28,7 +28,6 @@ This project is an interactive web map visualizing memorials in Salzburg, Austri
 - **Interactivity**:
   - Popups display detailed information for each memorial.
   - A sidebar lists all memorials and provides a search function.
-  - Hovering over a map feature highlights the corresponding sidebar entry and vice versa.
   - A legend explains the color coding for different memorial types.
   - A reset button returns the map to its default view.
 
